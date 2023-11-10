@@ -1,93 +1,187 @@
 ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form
 *1P	WE	ei	ɨi	Shipibo	ɨi	no
 *2da persona	YOU	mi	mi	Shipibo	mi	mato
+*abeja	BEE	atata	atata	Shipibo	atata	βona
+*abrir	OPEN	ʃea	sɨa	Shipibo	sɨa	tʃopeti
 *acostar,echarse	LIE DOWN	sa	sa	Shipibo	sa	rakati
+*afilado	SHARP	kʷeru	kʷɨno	Shipibo	kɨno	k!ɨ̃/ɨʃo
 *agarrar	SEIZE	ina	ina	Shipibo	ina	jata∼ti
+*agua	WATER	uwi	oɽi	Shipibo	oɽi	o∼paʂ
+*ají	CHILI PEPPER	biʃu	ßiso	Shipibo	βiso	jotʃi
+*ala	WING	nabai	naßai	Shipibo	naβai	pɨi
 *algodón	COTTON	wapa	ɽapa	Shipibo	ɽapa	waʂmɨ∼
+*amargo	BITTER	paʈʂe	paʂɨ	Shipibo	paʂɨ	moka
 *amarrar,atar	TIE	ɽisi	risi	Shipibo	nisi	nɨʂati
+*amigo	FRIEND	ata	ata	Shipibo	ata	raɨnanai
+*anillo	RING	taɽa	tara	Shipibo	tana	mɨosoti
 *apagar	EXTINGUISH	tiku	tiko	Shipibo	tiko	nokati
+*apretar	SQUEEZE	ɽibi	rißi	Shipibo	niβi	tsiniti
+*araña	SPIDER	ʃetete	sɨtɨtɨ	Shipibo	sɨtɨtɨ	jot!ã/a
+*ayudar	HELP	ʈʂawa	ʂaɽa	Shipibo	ʂaɽa	k!ĩ/i
+*bajar	GO DOWN (DESCEND)	bute	ßotɨ	Shipibo	βotɨ	pɨtsati
 *barba	BEARD	kʷei	kʷɨi	Shipibo	kɨi	kɨnikɨni
 *bañar	BATHE	nawi	naɽi	Shipibo	naɽi	naʃiti
 *blanco	WHITE	pasa	pasa	Shipibo	pasa	hoʂo
+*boca	MOUTH	kʷaʈʂa	kʷaʂa	Shipibo	kaʂa	kɨʂa
 *bueno	GOOD	sai	sai	Shipibo	sai	h!ɨɨ/ɨ
+*cabello	HAIR (HEAD)	ʈʂaru	ʂano	Shipibo	ʂano	βo
 *cabeza	HEAD	ʈʂapa	ʂapa	Shipibo	ʂapa	mapo
 *cabeza	HEAD	juka	soka	Shipibo	soka	mapo
 *caer	FALL	daka	raka	Shipibo	naka	pakɨti
 *caliente	HOT	kʷase	kʷasɨ	Shipibo	kasɨ	βariʂanati
 *camino	PATH	diʃi	risi	Shipibo	nisi	hɨma
+*canasta	BASKET	ʃiti	siti	Shipibo	siti	naβiro
 *canoa	CANOE	kʷaba	kʷaßa	Shipibo	kaβa	no∼ti
 *cara	FACE	bu	ßo	Shipibo	βo	βɨ
+*cargar	CARRY	abu	aßo	Shipibo	aβo	papia
 *casa	HOUSE	tare	tanɨ	Shipibo	tanɨ	ʂoβo
 *ceniza	ASH	muru	mono	Shipibo	mono	tʃiimapo
 *chico	SMALL	wai	ɽai	Shipibo	ɽai	maʂko
 *cielo	SKY	ba	ßa	Shipibo	βa	nai
 *cielo	SKY	bare	ßanɨ	Shipibo	βanɨ	nai
+*codo	ELBOW	baʈʂu	ßaʂo	Shipibo	βaʂo	p!õ/oto∼ko
 *cola	TAIL	iwa	iɽa	Shipibo	iɽa	hina
 *cortar	CUT	saka	saka	Shipibo	saka	ʂatɨ
+*cosa	THING	aʔikʷana	aʔikʷana	Shipibo	aʔikana	hawɨki
 *crecer	GROW	muɽu	moro	Shipibo	mono	ʂoʂoti
 *cuello,pescuezo	NECK	naka	naka	Shipibo	naka	tɨ
 *cuerno	HORN (ANATOMY)	dana	rana	Shipibo	nana	ma∼tʃa∼
+*cuerpo	BODY	kʷita	kʷita	Shipibo	kita	jora
 *dar	GIVE	tia	tia	Shipibo	tia	m!ɨ̃/ɨniti
+*defecar	SHIT (DEFECATE)	ze	ʃɨ	Shipibo	ʃɨ	poiti
+*dejar,poner	PUT	ija	isa	Shipibo	isa	sawɨmati
+*desatar	UNTIE	pizu	piʃo	Shipibo	piʃo	tʃoroti
+*descansar	REST	kana	kana	Shipibo	kana	ta∼titi
+*detrás,atrás	BEHIND	tibe	tißɨ	Shipibo	tiβɨ	pɨkao
+*diente	TOOTH	ʈʂe	ʂɨ	Shipibo	ʂɨ	maka
 *dormir	SLEEP	tawi	taɽi	Shipibo	taɽi	oʂati
 *dos	TWO	beta	ßɨta	Shipibo	βɨta	raβɨ
 *dulce	SWEET	bita	ßita	Shipibo	βita	k!õ/ohiti
 *espalda	BACK	bazede	ßaʃɨrɨ	Shipibo	βaʃɨnɨ	pɨ
+*extender	SPREAD OUT	pi	pi	Shipibo	pi	tʃopɨti
 *flecha	ARROW	pisa	pisa	Shipibo	pisa	pia
 *fruta	FRUIT	kaka	kaka	Shipibo	kaka	βimi
 *frío	COLD	wina	ɽina	Shipibo	ɽina	matsi
 *fuego	FIRE	tiki	tiki	Shipibo	tiki	tʃii
 *fuego	FIRE	ti	ti	Shipibo	ti	tʃii
+*garganta	THROAT	naɽa	nara	Shipibo	nana	tɨʂo
 *grasa,gordura	FAT (ORGANIC SUBSTANCE)	ʈʂeri	ʂɨni	Shipibo	ʂɨni	ʂɨni
+*gritar	SHOUT	ʈʂea	ʂɨa	Shipibo	ʂɨa	saiiti
+*gritar	SHOUT	keke	kɨkɨ	Shipibo	kɨkɨ	saiiti
+*gusano	WORM	ʈʂena	ʂɨna	Shipibo	ʂɨna	noi∼
+*hermano mayor	OLDER BROTHER	usi	osi	Shipibo	osi	hotʃi
+*hermano menor	YOUNGER BROTHER	ʃau	sao	Shipibo	sao	tʃio
+*hombro	SHOULDER	aɽa	ara	Shipibo	ana	pɨ
+*hormiga	ANT	iʃuwi	isoɽi	Shipibo	isoɽi	βona
+*hormiga	ANT	puki	poki	Shipibo	poki	βona
 *hueso	BONE	ʈʂau	ʂao	Shipibo	ʂao	ʂao
 *huevo	EGG	ka	ka	Shipibo	ka	βatʃi
 *humo	SMOKE (EXHAUST)	wani	ɽani	Shipibo	ɽani	tʃiikoi∼
 *hígado	LIVER	takʷa	takʷa	Shipibo	taka	taka
+*húmedo,mojado	WET	naka	naka	Shipibo	naka	mɨtʃaati
+*ir	GO	kʷa	kʷa	Shipibo	ka	kati
+*jausi,lagartija	LIZARD	banakʷa	ßanakʷa	Shipibo	βanaka	kapɨ
 *lago	LAKE	bai	ßai	Shipibo	βai	hɨnɨ
+*lamer	LICK	ʈʂeu	ʂɨo	Shipibo	ʂɨo	taʂoti
+*largo	LONG	baru	ßano	Shipibo	βano	tapo
+*largo	LONG	ʃunu	sono	Shipibo	sono	tapo
 *lavar	WASH	ʃakʷa	sakʷa	Shipibo	saka	patsati
 *lengua	TONGUE	ana	ana	Shipibo	ana	hana
 *leña	FIREWOOD	kʷati	kʷati	Shipibo	kati	karo
 *llamar	CALL	iwara	iɽana	Shipibo	iɽana	kɨnati
+*llevar	CARRY	dus	ros	Shipibo	nos	papia
 *lluvia,aguacero	RAIN (PRECIPITATION)	nai	nai	Shipibo	nai	oiβɨti
+*lombriz	WORM	tunu	tono	Shipibo	tono	noi∼
 *loro	PARROT	kuɽakʷa	korakʷa	Shipibo	konaka	βawa
 *loro (chico)	PARROT	tui	toi	Shipibo	toi	βawa
 *luna	MOON	badi	ßari	Shipibo	βani	oʂɨ
+*luz	LIGHT (RADIATION)	ue	oɨ	Shipibo	oɨ	tiriti
+*madre	MOTHER	na	na	Shipibo	na	tita
+*madre,mamá	MOTHER	mama	mama	Shipibo	mama	tita
 *mandíbula	JAW	ʃawi	saɽi	Shipibo	saɽi	koi
+*marido	HUSBAND	awei	aɽɨi	Shipibo	aɽɨi	βɨnɨ
+*mariposa	BUTTERFLY	sababa	saßaßa	Shipibo	saβaβa	p!ɨ̃/ɨp!ɨ̃/ɨ
 *maíz	MAIZE	ʃike	sikɨ	Shipibo	sikɨ	ʂɨki
+*medio	CENTER OR MIDDLE	pa	pa	Shipibo	pa	mirio
+*medio	CENTER OR MIDDLE	patia	patia	Shipibo	patia	mirio
+*meter	PUT	biu	ßio	Shipibo	βio	sawɨmati
 *mirar,ver	SEE	ba	ßa	Shipibo	βa	histi
 *morder	BITE	ʈʂu	ʂo	Shipibo	ʂo	natɨʂti
+*mosca	FLY (INSECT)	weweɽe	ɽɨɽɨrɨ	Shipibo	ɽɨɽɨnɨ	hoʃinaka
 *mosquito	MOSQUITO	diʔi	riʔi	Shipibo	niʔi	βii
+*mujer	WOMAN	anu	ano	Shipibo	ano	ai∼βo
+*mujer	WOMAN	wane	ɽanɨ	Shipibo	ɽanɨ	ai∼βo
 *murciélago	BAT	bina	ßina	Shipibo	βina	kaʃi
 *nadar	SWIM	beʈʂa	ßɨʂa	Shipibo	βɨʂa	nono
+*nariz	NOSE	wi	ɽi	Shipibo	ɽi	rɨ
 *negro	BLACK	zewe	ʃɨɽɨ	Shipibo	ʃɨɽɨ	tʃɨʂɨ
+*noche	NIGHT	ziza	ʃiʃa	Shipibo	ʃiʃa	jamɨ
 *nombre	NAME	bakani	ßakani	Shipibo	βakani	hanɨ
 *ojo	EYE	tuka	toka	Shipibo	toka	βɨro
+*ombligo	NAVEL	ʈʂuʔu	ʂoʔo	Shipibo	ʂoʔo	no
+*oreja	EAR	iʃa	isa	Shipibo	isa	paβiki
+*pampa	PLAIN	aʈʂi	aʂi	Shipibo	aʂi	ʂaβa
 *papá	FATHER	tata	tata	Shipibo	tata	papa
 *pariente	RELATIVES	du	ro	Shipibo	no	kaiβo
 *pato	DUCK	suse	sosɨ	Shipibo	sosɨ	nono∼
 *pecho	CHEST	ʈʂedu	ʂɨro	Shipibo	ʂɨno	ʂotʃi
 *pecho	CHEST	kʷa	kʷa	Shipibo	ka	ʂotʃi
+*pedir	ASK (REQUEST)	baka	ßaka	Shipibo	βaka	jokati
+*pene	PENIS	kʷi	kʷi	Shipibo	ki	hi∼
 *pesado	HEAVY	bikʷe	ßikʷɨ	Shipibo	βikɨ	iwɨ
 *pescuezo,cuello	NECK	piti	piti	Shipibo	piti	tɨ
 *pez,pescado	FISH	sae	saɨ	Shipibo	saɨ	piti
+*piel	SKIN	biti	ßiti	Shipibo	βiti	ʂaka
+*pierna	LEG	ta	ta	Shipibo	ta	kiʃi
 *piojo	LOUSE	bia	ßia	Shipibo	βia	ia
 *pié	FOOT	waʈʂi	ɽaʂi	Shipibo	ɽaʂi	taɨ
+*poner	PUT	wana	ɽana	Shipibo	ɽana	sawɨmati
+*primero	FIRST	kʷene	kʷɨnɨ	Shipibo	kɨnɨ	βɨβ!õ/o
+*quemar	BURN (SOMETHING)	tiru	tino	Shipibo	tino	tiriti
 *querer	WANT	beiʃi	ßɨisi	Shipibo	βɨisi	kɨɨ∼
 *quién	WHO	aʔira	aʔina	Shipibo	aʔina	tsoa
 *quién	WHO	aʔi	aʔi	Shipibo	aʔi	tsoa
 *qué?	WHAT	aʔi	aʔi	Shipibo	aʔi	hawɨ
+*rana	FROG	wawa	ɽaɽa	Shipibo	ɽaɽa	toa
+*rana,sapo	FROG	buɽuɽu	ßororo	Shipibo	βonono	toa
+*raspar	SCRAPE	dede	rɨrɨ	Shipibo	nɨnɨ	wɨʂati
+*raspar	SCRAPE	ʃe	sɨ	Shipibo	sɨ	wɨʂati
 *raíz	ROOT	tiri	tini	Shipibo	tini	tapo∼
 *remedio	MEDICINE	idu	iro	Shipibo	ino	rao
+*riñón	KIDNEY	pa	pa	Shipibo	pa	karɨko
 *robar	STEAL	ʈʂiri	ʂini	Shipibo	ʂini	jomɨtsoti
+*rocío,sereno	DEW	ba	ßa	Shipibo	βa	niβi
+*saber	KNOW (SOMETHING)	bawei	ßaɽɨi	Shipibo	βaɽɨi	ona∼ti
 *sal	SALT	banu	ßano	Shipibo	βano	taʃi
+*salir,llegar	GO OUT	kʷina	kʷina	Shipibo	kina	hok!õ/oti
 *sangre	BLOOD	ami	ami	Shipibo	ami	himi
+*seco	DRY	muɽi	mori	Shipibo	moni	tsos!ĩ/iti
+*silbar	WHISTLE	ui	oi	Shipibo	oi	wisati
+*sobaco	ARMPIT	nakʷiʃi	nakʷisi	Shipibo	nakisi	βa
 *sol	SUN	ʃeti	sɨti	Shipibo	sɨti	βari
+*soplar	BLOW (OF WIND)	wu	ɽo	Shipibo	ɽo	ʂo∼iti
+*sucio	DIRTY	azi	aʃi	Shipibo	aʃi	oʃta
+*sucio	DIRTY	bu	ßo	Shipibo	βo	oʃta
+*sí	YES	eʔe	ɨʔɨ	Shipibo	ɨʔɨ	iki
 *tabaco	TOBACCO	umasa	omasa	Shipibo	omasa	romɨ
 *techo	ROOF	kama	kama	Shipibo	kama	ʂoβopɨka
+*tejer	WEAVE	ʈʂipi	ʂipi	Shipibo	ʂipi	ʂɨwa
 *terminar,*acabar	FINISH	ape	apɨ	Shipibo	apɨ	kɨjoti
+*teta	BREAST	aʈʂu	aʂo	Shipibo	aʂo	ʂo
+*tirar,jalar	PULL	ɽiɽe	rirɨ	Shipibo	ninɨ	niniti
+*tomar,beber	DRINK	iʃi	isi	Shipibo	isi	ʂɨati
+*traer	BRING	keti	kɨti	Shipibo	kɨti	βiti
+*traer	BRING	ɽe	rɨ	Shipibo	nɨ	βiti
+*unir,juntar	JOIN	zita	ʃita	Shipibo	ʃita	ts!ĩ/ikiti
 *uno	ONE	peia	pɨia	Shipibo	pɨia	haβitʃo
+*vacío	EMPTY	mema	mɨma	Shipibo	mɨma	natati
+*venado	DEER	dukʷeri	rokʷɨni	Shipibo	nokɨni	tʃaʂo
+*vender	SELL	iɽu	iro	Shipibo	ino	maroti
 *viejo	OLD	beru	ßɨno	Shipibo	βɨno	josi
 *viejo	OLD	ziri	ʃini	Shipibo	ʃini	josi
 *viento	WIND	beni	ßɨni	Shipibo	βɨni	niwɨ
 *viento	WIND	kʷesi	kʷɨsi	Shipibo	kɨsi	niwɨ
 *víbora	SNAKE	bakʷa	ßakʷa	Shipibo	βaka	rono
 *yuca	CASSAVA	kʷawe	kʷaɽɨ	Shipibo	kaɽɨ	atsa
+*árbol	TREE	kʷi	kʷi	Shipibo	ki	hawɨki
+hombre	MAN	deka	rɨka	Shipibo	nɨka	β!ɨ̃/ɨβo

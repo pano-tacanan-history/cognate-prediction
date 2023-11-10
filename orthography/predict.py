@@ -102,6 +102,6 @@ for idx, tokens_ in wl.iter_rows("protopano"):
         final_pred.append([idx, wl[idx, "concept"], wl[idx, "concepticon"], wl[idx, "prototakana"], wl[idx, "protopano"], "Shipibo", PRED, ""])
         i += 1
 
-with open("predictions/predictions.tsv", 'w', encoding="utf8", newline='') as f:
+with open("predictions/full_predictions.tsv", 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(final_pred)
