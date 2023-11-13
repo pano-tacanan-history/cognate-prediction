@@ -67,7 +67,7 @@ valenzuela = read_wl("../cldf-data/valenzuelazariquieypanotakana/cldf/cldf-metad
 def extract_shared(preds, data, name):
     conceptlist = conceptlists[name]
     intersec, _ = compute_intersec(conceptlist, conceptlists["girard"])
-
+    print(name, len(intersec))
     shared_forms = defaultdict()
     exclude = ["-", " ", "(", ")", "+"]
     for word in data:
@@ -93,12 +93,14 @@ def extract_shared(preds, data, name):
 extract_shared(predictions, oliveira, "oliveira")
 extract_shared(predictions, valenzuela, "valenzuela")
 
+count = 0
 no_intersec = []
 for item in predictions:
+    count += 1
     concept = predictions[item, "concepticon"]
     if concept not in conceptlists["oliveira"] and concept not in conceptlists["valenzuela"]:
         no_intersec.append(predictions[item])
-
+print(count)
 with open("predictions/eval_predictions.tsv", 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(no_intersec)
