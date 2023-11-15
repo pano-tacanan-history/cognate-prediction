@@ -3,21 +3,12 @@ Code to predict forms in Shipibo-Konibo based on forms in
 Proto-Takana, based on sound correspondences proposed by
 Valenzuela & Zariquiey (2023), Girard (1971), and Oliveira (2014).
 """
-from collections import defaultdict
 import csv
-from csvw.dsv import UnicodeDictReader
 from lingpy import Wordlist
 from grsn import SoundGrouper
 
 
-PATH = '../cldf-data/girardprototakanan/cldf/parameters.csv'
-concepts = defaultdict()
-with UnicodeDictReader(PATH, delimiter=',') as reader:
-    for line in reader:
-        concepts[line["Name"]] = line['Concepticon_Gloss']
-
-
-wl = Wordlist("prototakana.tsv")
+wl = Wordlist("data/girardprototakanan.tsv")
 prf = SoundGrouper.from_file("profiles/takana_to_pano.tsv", delimiter="\t")
 
 i = 0
@@ -27,9 +18,9 @@ for idx, tokens in wl.iter_rows("tokens"):
         i += 1
         PRED =  "".join(prf("".join(tokens), column="IPA"))
         D[i] = [
+            wl[idx, "concept_name"],
             wl[idx, "concept"],
-            concepts[wl[idx, "concept"]],
-            wl[idx, "form"],
+            "".join(wl[idx, "tokens"]),
             PRED,
             "Shipibo",
             "",
@@ -46,6 +37,9 @@ final = [[
 
 i = 0
 for idx, tokens in wl.iter_rows("protopano"):
+    if tokens[0] == "a":
+        tokens = list(tokens)
+        tokens[0] = "^a"
     PRED =  "".join(prf("".join(tokens), column="IPA"))
     if wl[idx, "concepticon"] != "":
         i += 1

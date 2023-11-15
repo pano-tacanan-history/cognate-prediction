@@ -14,28 +14,6 @@ def read_cl(path):
     return concepts
 
 
-def read_wl(path):
-    wordlist = Wordlist.from_cldf(
-    path,
-    # columns to be loaded from CLDF set
-    columns=(
-        "language_id",
-        "concept_name",
-        "concept_concepticon_gloss",
-        "segments",
-        "form",
-        "alignment"
-        ),
-    # a list of tuples of source and target
-    namespace=(
-        ("language_id", "doculect"),
-        ("concept_concepticon_gloss", "concept"),
-        ("segments", "tokens")
-        )
-    )
-    return wordlist
-
-
 def compute_intersec(cl1, cl2):
     intersecting = defaultdict()
     missing_from_cl1 = defaultdict()
@@ -60,8 +38,8 @@ conceptlists = {
 }
 
 predictions = Wordlist("predictions/full_predictions.tsv")
-oliveira = read_wl("../cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json")
-valenzuela = read_wl("../cldf-data/valenzuelazariquieypanotakana/cldf/cldf-metadata.json")
+oliveira = Wordlist("data/oliveiraprotopanoan.tsv")
+valenzuela = Wordlist("data/valenzuelazariquieypanotakana.tsv")
 
 
 def extract_shared(preds, data, name):
@@ -98,9 +76,10 @@ no_intersec = []
 for item in predictions:
     count += 1
     concept = predictions[item, "concepticon"]
-    if concept not in conceptlists["oliveira"] and concept not in conceptlists["valenzuela"]:
+    if concept not in conceptlists["oliveira"] and concept not in conceptlists["valenzuela"] and concept != "None":
         no_intersec.append(predictions[item])
-print(count)
+
+print("Total:", count)
 with open("predictions/eval_predictions.tsv", 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(no_intersec)
