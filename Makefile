@@ -9,4 +9,5 @@ preprocessing:
 
 prediction:
 	python predict.py
-	python intersections.py
+
+full-prediction: download preprocessing prediction

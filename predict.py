@@ -1,10 +1,67 @@
-"""This module computes the intersecs of conceptlists"""
+"""
+Code to predict forms in Shipibo-Konibo based on forms in 
+Proto-Takana, based on sound correspondences proposed by
+Valenzuela & Zariquiey (2023), Girard (1971), and Oliveira (2014).
+"""
+from collections import defaultdict
 import csv
 from csvw.dsv import UnicodeDictReader
-from collections import defaultdict
 from lingpy import Wordlist
+from grsn import SoundGrouper
 
 
+wl = Wordlist("data/girardprototakanan.tsv")
+prf = SoundGrouper.from_file("profiles/takana_to_pano.tsv", delimiter="\t")
+
+i = 0
+D = {0: ["concept", "concepticon", "prototakana", "protopano", "doculect", "predicted", "form"]}
+for idx, tokens in wl.iter_rows("tokens"):
+    if wl[idx, "doculect"] == "ProtoTakana":
+        i += 1
+        PRED =  "".join(prf("".join(tokens), column="IPA"))
+        D[i] = [
+            wl[idx, "concept_name"],
+            wl[idx, "concept"],
+            "".join(wl[idx, "tokens"]),
+            PRED,
+            "Shipibo",
+            "",
+            ""
+            ]
+
+# Convert from Proto-Pano prediction to Shipibo
+wl = Wordlist(D)
+prf = SoundGrouper.from_file("profiles/pano_to_shipibo.tsv", delimiter="\t")
+final = [[
+    "ID", "Concept", "Concepticon", "ProtoTakana",
+    "ProtoPano_predicted", "Doculect", "Predicted", "Form"
+]]
+
+i = 0
+for idx, tokens in wl.iter_rows("protopano"):
+    if tokens[0] == "a":
+        tokens = list(tokens)
+        tokens[0] = "^a"
+    PRED =  "".join(prf("".join(tokens), column="IPA"))
+    if wl[idx, "concepticon"] != "":
+        i += 1
+        final.append([
+            idx, wl[idx, "concept"],
+            wl[idx, "concepticon"],
+            wl[idx, "prototakana"],
+            wl[idx, "protopano"],
+            "Shipibo",
+            "".join(PRED),
+            ""
+            ])
+
+with open("predictions/full_predictions.tsv", 'w', encoding="utf8", newline='') as f:
+    writer = csv.writer(f, delimiter="\t")
+    writer.writerows(final)
+
+
+############################################
+# Compute intersections
 def read_cl(path):
     concepts = defaultdict()
     with UnicodeDictReader(path, delimiter='\t') as reader:
@@ -29,18 +86,17 @@ def compute_intersec(cl1, cl2):
 
 ############################################
 # Read in data
-PATH = '../cldf-data/concepticon/concepticondata/conceptlists/'
+PATH = 'cldf-data/concepticon/concepticondata/conceptlists/'
 swadesh = read_cl(PATH + "Swadesh-1952-200.tsv")
 conceptlists = {
     "oliveira": read_cl(PATH + "Oliveira-2014-517.tsv"),
-    "girard": read_cl('../cldf-data/girardprototakanan/etc/proto_concepts.tsv'),
-    "valenzuela": read_cl('../cldf-data/valenzuelazariquieypanotakana/etc/concepts.tsv')
+    "girard": read_cl('cldf-data/girardprototakanan/etc/proto_concepts.tsv'),
+    "valenzuela": read_cl('cldf-data/valenzuelazariquieypanotakana/etc/concepts.tsv')
 }
 
 predictions = Wordlist("predictions/full_predictions.tsv")
 oliveira = Wordlist("data/oliveiraprotopanoan.tsv")
 valenzuela = Wordlist("data/valenzuelazariquieypanotakana.tsv")
-
 
 def extract_shared(preds, data, name):
     conceptlist = conceptlists[name]

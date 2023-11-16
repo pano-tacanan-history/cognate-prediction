@@ -63,6 +63,6 @@ def reduce_cogid(path, output):
     alms.output("tsv", filename=output)
 
 
-reduce_cogid("../cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json", output="data/oliveiraprotopanoan")
-reduce_cogid("../cldf-data/girardprototakanan/cldf/cldf-metadata.json", output="data/girardprototakanan")
-reduce_cogid("../cldf-data/valenzuelazariquieypanotakana/cldf/cldf-metadata.json", output="data/valenzuelazariquieypanotakana")
+reduce_cogid("cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json", output="data/oliveiraprotopanoan")
+reduce_cogid("cldf-data/girardprototakanan/cldf/cldf-metadata.json", output="data/girardprototakanan")
+reduce_cogid("cldf-data/valenzuelazariquieypanotakana/cldf/cldf-metadata.json", output="data/valenzuelazariquieypanotakana")
