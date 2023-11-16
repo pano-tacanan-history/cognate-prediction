@@ -1,10 +1,11 @@
+import re
 from lingpy import Wordlist, Alignments
 from lingpy.read.qlc import reduce_alignment
 from lingrex.util import prep_wordlist
-import re
 
 
 def clean_slash(x):
+    """Cleans the slash-annotation used in EDICTOR."""
     cleaned = []
     for segment in x:
         if "/" in segment:
@@ -17,6 +18,7 @@ def clean_slash(x):
 
 
 def read_wl(path):
+    """Reads in a wordlist from a CLDF dataset."""
     wordlist = Wordlist.from_cldf(
     path,
     # columns to be loaded from CLDF set
@@ -45,6 +47,7 @@ def read_wl(path):
 
 
 def reduce_cogid(path, output):
+    """Reduces the alignments/tokens to the trimmed version."""
     alms = read_wl(path)
 
     dct = {}
@@ -63,6 +66,20 @@ def reduce_cogid(path, output):
     alms.output("tsv", filename=output)
 
 
-reduce_cogid("cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json", output="data/oliveiraprotopanoan")
-reduce_cogid("cldf-data/girardprototakanan/cldf/cldf-metadata.json", output="data/girardprototakanan")
-reduce_cogid("cldf-data/valenzuelazariquieypanotakana/cldf/cldf-metadata.json", output="data/valenzuelazariquieypanotakana")
+# Oliveira
+reduce_cogid(
+    "cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json",
+    output="data/oliveiraprotopanoan"
+    )
+
+# Girard
+reduce_cogid(
+    "cldf-data/girardprototakanan/cldf/cldf-metadata.json",
+    output="data/girardprototakanan"
+    )
+
+# Valenzuela & Zariquiey
+reduce_cogid(
+    "cldf-data/valenzuelazariquieypanotakana/cldf/cldf-metadata.json",
+    output="data/valenzuelazariquieypanotakana"
+    )

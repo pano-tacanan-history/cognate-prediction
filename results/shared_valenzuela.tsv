@@ -1,16 +1,16 @@
-ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form
-*sangre	BLOOD	ami	am[i/ɨ]	Shipibo	[a/hi]m[i/ɨ]	himi
-*hueso	BONE	ʈʂau	ʂao	Shipibo	ʂao	ʂao
-*teta	BREAST	aʈʂu	aʂo	Shipibo	[a/hi]ʂo	ʂo
-*codo	ELBOW	baʈʂu	ßaʂo	Shipibo	βaʂo	poto
-*grasa,gordura	FAT (ORGANIC SUBSTANCE)	ʈʂeri	ʂɨn[i/ɨ]	Shipibo	ʂɨn[i/ɨ]	ʂɨni
-*fuego	FIRE	tiki	[t/ts][i/ɨ]k[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]k[i/ɨ]	tʃii
-*fuego	FIRE	ti	[t/ts][i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]	tʃii
-*pie,pierna	FOOT OR LEG	ʈʂaka	ʂaka	Shipibo	ʂaka	ta
-*hígado	LIVER	takʷa	[t/ts]a[kʷ/w]a	Shipibo	[t/ts/tʃ]a[k/w]a	taka
-*boca	MOUTH	kʷaʈʂa	[kʷ/w]aʂa	Shipibo	[k/w]aʂa	kɨʂa
-*piel	SKIN	biti	ß[i/ɨ][t/ts][i/ɨ]	Shipibo	β[i/ɨ][t/ts/tʃ][i/ɨ]	βitʃi
-*lengua	TONGUE	ana	ana	Shipibo	[a/hi]na	hana
-*diente	TOOTH	ʈʂe	ʂɨ	Shipibo	ʂɨ	ʂɨ
-*árbol	TREE	kʷi	[kʷ/w][i/ɨ]	Shipibo	[k/w][i/ɨ]	hiwi
-*dos	TWO	beta	ßɨ[t/ts]a	Shipibo	βɨ[t/ts/tʃ]a	βɨ
+ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form	Evaluation
+26	*sangre	BLOOD	ami	am[i/ɨ]	Shipibo	[a/hi]m[i/ɨ]	himi	1
+30	*hueso	BONE	ʈʂau	ʂao	Shipibo	ʂao	ʂao	1
+32	*teta	BREAST	aʈʂu	aʂo	Shipibo	[a/hi]ʂo	ʂo	phon
+85	*codo	ELBOW	baʈʂu	ßaʂo	Shipibo	βaʂo	poto	0
+92	*grasa,gordura	FAT (ORGANIC SUBSTANCE)	ʈʂeri	ʂɨn[i/ɨ]	Shipibo	ʂɨn[i/ɨ]	ʂɨni	1
+100	*fuego	FIRE	tiki	[t/ts][i/ɨ]k[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]k[i/ɨ]	tʃii	phon
+101	*fuego	FIRE	ti	[t/ts][i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]	tʃii	1
+116	*pie,pierna	FOOT OR LEG	ʈʂaka	ʂaka	Shipibo	ʂaka	ta	0
+166	*hígado	LIVER	takʷa	[t/ts]a[kʷ/w]a	Shipibo	[t/ts/tʃ]a[k/w]a	taka	1
+181	*boca	MOUTH	kʷaʈʂa	[kʷ/w]aʂa	Shipibo	[k/w]aʂa	kɨʂa	phon
+456	*piel	SKIN	biti	ß[i/ɨ][t/ts][i/ɨ]	Shipibo	β[i/ɨ][t/ts/tʃ][i/ɨ]	βitʃi	1
+491	*lengua	TONGUE	ana	ana	Shipibo	[a/hi]na	hana	phon
+492	*diente	TOOTH	ʈʂe	ʂɨ	Shipibo	ʂɨ	ʂɨ	1
+495	*árbol	TREE	kʷi	[kʷ/w][i/ɨ]	Shipibo	[k/w][i/ɨ]	hiwi	phon
+498	*dos	TWO	beta	ßɨ[t/ts]a	Shipibo	βɨ[t/ts/tʃ]a	βɨ	phon

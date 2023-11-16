@@ -33,8 +33,8 @@ for idx, tokens in wl.iter_rows("tokens"):
 wl = Wordlist(D)
 prf = SoundGrouper.from_file("profiles/pano_to_shipibo.tsv", delimiter="\t")
 final = [[
-    "ID", "Concept", "Concepticon", "ProtoTakana",
-    "ProtoPano_predicted", "Doculect", "Predicted", "Form"
+    "ID", "Concept", "Concepticon", "ProtoTakana", "ProtoPano_predicted",
+    "Doculect", "Predicted", "Form", "Evaluation"
 ]]
 
 i = 0
@@ -52,6 +52,7 @@ for idx, tokens in wl.iter_rows("protopano"):
             wl[idx, "protopano"],
             "Shipibo",
             "".join(PRED),
+            "",
             ""
             ])
 
@@ -63,6 +64,7 @@ with open("predictions/full_predictions.tsv", 'w', encoding="utf8", newline='') 
 ############################################
 # Compute intersections
 def read_cl(path):
+    """Reads in a conceptlist from a file."""
     concepts = defaultdict()
     with UnicodeDictReader(path, delimiter='\t') as reader:
         for line in reader:
@@ -72,14 +74,15 @@ def read_cl(path):
 
 
 def compute_intersec(cl1, cl2):
+    """Computes the intersection of two conceptlists."""
     intersecting = defaultdict()
     missing_from_cl1 = defaultdict()
 
-    for idx in cl2:
-        if idx in cl1:
-            intersecting[idx] = cl2[idx]
+    for conc in cl2:
+        if conc in cl1:
+            intersecting[conc] = cl2[conc]
         else:
-            missing_from_cl1[idx] = cl2[idx]
+            missing_from_cl1[conc] = cl2[conc]
 
     return intersecting, missing_from_cl1
 
@@ -87,7 +90,6 @@ def compute_intersec(cl1, cl2):
 ############################################
 # Read in data
 PATH = 'cldf-data/concepticon/concepticondata/conceptlists/'
-swadesh = read_cl(PATH + "Swadesh-1952-200.tsv")
 conceptlists = {
     "oliveira": read_cl(PATH + "Oliveira-2014-517.tsv"),
     "girard": read_cl('cldf-data/girardprototakanan/etc/proto_concepts.tsv'),
@@ -98,10 +100,15 @@ predictions = Wordlist("predictions/full_predictions.tsv")
 oliveira = Wordlist("data/oliveiraprotopanoan.tsv")
 valenzuela = Wordlist("data/valenzuelazariquieypanotakana.tsv")
 
-def extract_shared(preds, data, name):
+def extract_shared(data, name):
+    """
+    Extracts the shared concepts between the predictions and a dataset to a file.
+    """
+    # Original `predictions` gets overwritten by using the `insert` on the other variable.
+    # Unclear why this is the case, but as a workaround, one can reload the predictions.
+    dataset = Wordlist("predictions/full_predictions.tsv")
     conceptlist = conceptlists[name]
     intersec, _ = compute_intersec(conceptlist, conceptlists["girard"])
-    print(name, len(intersec))
     shared_forms = defaultdict()
     exclude = ["-", " ", "(", ")", "+"]
     for word in data:
@@ -110,13 +117,15 @@ def extract_shared(preds, data, name):
             shared_forms[data[word, "concept"]] = form
 
     output_table = [[
-        "ID", "Concept", "Concepticon", "ProtoTakana",
-        "ProtoPano_predicted", "Doculect", "Predicted", "Form"
+        "ID", "Concept", "Concepticon", "ProtoTakana", "ProtoPano_predicted",
+        "Doculect", "Predicted", "Form", "Evaluation"
         ]]
-    for word in preds:
-        if preds[word, "concepticon"] in shared_forms:
-            preds[word, "form"] = shared_forms[preds[word, "concepticon"]]
-            output_table.append(preds[word])
+    for word in dataset:
+        if dataset[word, "concepticon"] in shared_forms:
+            dataset[word, "form"] = shared_forms[dataset[word, "concepticon"]]
+            mod_data = dataset[word]
+            mod_data.insert(0, word)
+            output_table.append(mod_data)
 
     out = "predictions/shared_" + name + ".tsv"
     with open(out, 'w', encoding="utf8", newline='') as file:
@@ -124,18 +133,26 @@ def extract_shared(preds, data, name):
         write_file.writerows(output_table)
 
 
-extract_shared(predictions, oliveira, "oliveira")
-extract_shared(predictions, valenzuela, "valenzuela")
+extract_shared(valenzuela, "valenzuela")
+extract_shared(oliveira, "oliveira")
 
-count = 0
-no_intersec = []
+no_intersec = [[
+        "ID", "Concept", "Concepticon", "ProtoTakana", "ProtoPano_predicted",
+        "Doculect", "Predicted", "Form", "Evaluation"
+        ]]
+
+lists = [conceptlists["oliveira"], conceptlists["valenzuela"]]
+COUNT = 0
 for item in predictions:
-    count += 1
     concept = predictions[item, "concepticon"]
-    if concept not in conceptlists["oliveira"] and concept not in conceptlists["valenzuela"] and concept != "None":
-        no_intersec.append(predictions[item])
+    if all(concept not in x for x in lists) and concept != "None":
+        COUNT += 1
+        pred = predictions[item]
+        pred.insert(0, item)
+        no_intersec.append(pred)
 
-print("Total:", count)
+print("In total, there are", COUNT, "predictions to evaluate.")
+
 with open("predictions/eval_predictions.tsv", 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(no_intersec)
