@@ -1,5 +1,5 @@
 ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form	Evaluation
-1	*encima	ABOVE	beake	ßɨakɨ	Shipibo	βɨakɨ	mana~	
+1	*encima	ABOVE	beake	ßɨakɨ	Shipibo	βɨakɨ	mana∼	
 2	*achiote	ACHIOTE	maʈʂe	maʂɨ	Shipibo	maʂɨ	maʂɨ	
 8	*flecha	ARROW	pisa	p[i/ɨ]sa	Shipibo	p[i/ɨ]sa	pia	
 9	*ceniza	ASH	muru	mono	Shipibo	mono	koro	
@@ -11,16 +11,16 @@ ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form	E
 26	*sangre	BLOOD	ami	am[i/ɨ]	Shipibo	[a/hi]m[i/ɨ]	himi	
 30	*hueso	BONE	ʈʂau	ʂao	Shipibo	ʂao	ʂao	
 40	*llamar	CALL	iwara	[i/ɨ]ɽana	Shipibo	[i/ɨ]ɽana	kɨna	
-41	*canoa	CANOE	kʷaba	[kʷ/w]aßa	Shipibo	[k/w]aβa	no~ti	
-42	*capibara	CAPYBARA	zududu	ʃororo	Shipibo	ʃonono	ʔamɨ~	
+41	*canoa	CANOE	kʷaba	[kʷ/w]aßa	Shipibo	[k/w]aβa	no∼ti	
+42	*capibara	CAPYBARA	zududu	ʃororo	Shipibo	ʃonono	ʔamɨ∼	
 45	*yuca	CASSAVA	kʷawe	[kʷ/w]aɽɨ	Shipibo	[k/w]aɽɨ	ʔatsa	
 57	*frío	COLD	wina	ɽ[i/ɨ]na	Shipibo	ɽ[i/ɨ]na	matsi	
 61	*algodón	COTTON	wapa	ɽapa	Shipibo	ɽapa	waʂmɨ	
 63	*gatear	CRAWL	ɽe	rɨ	Shipibo	nɨ	mɨʂo	
-65	*paujil	CURASSOW	mapi	map[i/ɨ]	Shipibo	map[i/ɨ]	hasi~	
+65	*paujil	CURASSOW	mapi	map[i/ɨ]	Shipibo	map[i/ɨ]	hasi∼	
 66	*cortar	CUT	saka	saka	Shipibo	saka	ʂatɨ	
 69	*morir	DIE	manu	mano	Shipibo	mano	mawa	
-80	*pato	DUCK	suse	sosɨ	Shipibo	sosɨ	nono~	
+80	*pato	DUCK	suse	sosɨ	Shipibo	sosɨ	nono∼	
 84	*huevo	EGG	ka	ka	Shipibo	ka	βatʃi	
 87	*apagar	EXTINGUISH	tiku	[t/ts][i/ɨ]ko	Shipibo	[t/ts/tʃ][i/ɨ]ko	noka	
 88	*ojo	EYE	tuka	[t/ts]oka	Shipibo	[t/ts/tʃ]oka	βɨɾo	
@@ -37,16 +37,16 @@ ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form	E
 111	*espuma	FOAM	uba	oßa	Shipibo	oβa	βakoʂ	
 115	*pié	FOOT	waʈʂi	ɽaʂ[i/ɨ]	Shipibo	ɽaʂ[i/ɨ]	taɨ	
 120	*fruta	FRUIT	kaka	kaka	Shipibo	kaka	βimi	
-123	*dar	GIVE	tia	[t/ts][i/ɨ]a	Shipibo	[t/ts/tʃ][i/ɨ]a	ʔina~	
+123	*dar	GIVE	tia	[t/ts][i/ɨ]a	Shipibo	[t/ts/tʃ][i/ɨ]a	ʔina∼	
 133	*crecer	GROW	muɽu	moro	Shipibo	mono	josi	
 141	*pesado	HEAVY	bikʷe	ß[i/ɨ][kʷ/w]ɨ	Shipibo	β[i/ɨ][k/w]ɨ	ʔisɨ	
 146	*pegar	HIT	ije	[i/ɨ]sɨ	Shipibo	[i/ɨ]sɨ	tima	
-148	*cuerno	HORN (ANATOMY)	dana	rana	Shipibo	nana	ma~tʃa~	
+148	*cuerno	HORN (ANATOMY)	dana	rana	Shipibo	nana	ma∼tʃa∼	
 149	*caliente	HOT	kʷase	[kʷ/w]asɨ	Shipibo	[k/w]asɨ	ʂana	
 150	*casa	HOUSE	tare	[t/ts]anɨ	Shipibo	[t/ts/tʃ]anɨ	ʂoβo	
 151	*picaflor	HUMMINGBIRD	kʷadidi	[kʷ/w]ar[i/ɨ]r[i/ɨ]	Shipibo	[k/w]an[i/ɨ]n[i/ɨ]	pino	
 157	*mandíbula	JAW	ʃawi	saɽ[i/ɨ]	Shipibo	saɽ[i/ɨ]	koi	
-161	*lago	LAKE	bai	ßa[i/ɨ]	Shipibo	βa[i/ɨ]	ʔia~	
+161	*lago	LAKE	bai	ßa[i/ɨ]	Shipibo	βa[i/ɨ]	ʔia∼	
 164	*acostar,echarse	LIE DOWN	sa	sa	Shipibo	sa	raka	
 166	*hígado	LIVER	takʷa	[t/ts]a[kʷ/w]a	Shipibo	[t/ts/tʃ]a[k/w]a	taka	
 170	*piojo	LOUSE	bia	ß[i/ɨ]a	Shipibo	β[i/ɨ]a	ʔia	
@@ -69,7 +69,7 @@ ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form	E
 431	*río	RIVER	kʷeri	[kʷ/w]ɨn[i/ɨ]	Shipibo	[k/w]ɨn[i/ɨ]	paro	
 432	*asar	ROAST (SOMETHING)	kʷawi	[kʷ/w]aɽ[i/ɨ]	Shipibo	[k/w]aɽ[i/ɨ]	ʂoi	
 433	*techo	ROOF	kama	kama	Shipibo	kama	ʂɨwa	
-434	*raíz	ROOT	tiri	[t/ts][i/ɨ]n[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]n[i/ɨ]	tapo~	
+434	*raíz	ROOT	tiri	[t/ts][i/ɨ]n[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]n[i/ɨ]	tapo∼	
 437	*sal	SALT	banu	ßano	Shipibo	βano	taʃi	
 442	*mirar,ver	SEE	ba	ßa	Shipibo	βa	his	
 443	*agarrar	SEIZE	ina	[i/ɨ]na	Shipibo	[i/ɨ]na	tsoma	
