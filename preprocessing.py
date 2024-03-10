@@ -20,25 +20,27 @@ def clean_slash(x):
 def read_wl(path):
     """Reads in a wordlist from a CLDF dataset."""
     wordlist = Wordlist.from_cldf(
-    path,
-    # columns to be loaded from CLDF set
-    columns=(
-        "language_id",
-        "concept_name",
-        "concept_concepticon_gloss",
-        "segments",
-        "form",
-        "cognacy",
-        "alignment"
-        ),
-    # a list of tuples of source and target
-    namespace=(
-        ("language_id", "doculect"),
-        ("concept_concepticon_gloss", "concept"),
-        ("segments", "tokens"),
-        ("cognacy", "cogid")
+        path,
+        # columns to be loaded from CLDF set
+        columns=(
+            "language_id",
+            "concept_name",
+            "concept_concepticon_gloss",
+            "concept_concepticon_id",
+            "segments",
+            "form",
+            "cognacy",
+            "alignment"
+            ),
+        # a list of tuples of source and target
+        namespace=(
+            ("language_id", "doculect"),
+            ("concept_concepticon_gloss", "concept"),
+            ('concept_concepticon_id', 'concepticon_id'),
+            ("segments", "tokens"),
+            ("cognacy", "cogid")
+            )
         )
-    )
 
     wordlist = prep_wordlist(wordlist, min_refs=2)
     alms = Alignments(wordlist, ref="cogid", transcription="tokens")

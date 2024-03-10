@@ -1,884 +1,884 @@
 # Wordlist
 
 # DATA
-ID	DOCULECT	CONCEPT_NAME	CONCEPT	TOKENS	FORM	COGID	ALIGNMENT
+ID	DOCULECT	CONCEPT_NAME	CONCEPT	CONCEPTICON_ID	TOKENS	FORM	COGID	ALIGNMENT
 #
-344	Ama	Blood	BLOOD	h i m i	himi	4	h i m i
-528	Cav	Blood	BLOOD	a m i	ami	4	- a m i
-128	Chak	Blood	BLOOD	h i m i	himi	4	h i m i
-131	Chan	Blood	BLOOD	i b i	ibi	4	- i b i
-345	HanKax	Blood	BLOOD	h i m i	himi	4	h i m i
-126	Kap	Blood	BLOOD	h i m i	himi	4	h i m i
-342	Kat	Blood	BLOOD	h i m i	himi	4	h i m i
-129	Kax	Blood	BLOOD	h i m i	himi	4	h i m i
-348	Kor	Blood	BLOOD	i n.t a	inta	4	- i n.t a
-124	Ksh	Blood	BLOOD	i m i	imi	4	- i m i
-127	Mar	Blood	BLOOD	i m.b i	imbi	4	- i m.b i
-349	Mat	Blood	BLOOD	i m i	imi	4	- i m i
-350	MatMay	Blood	BLOOD	i m i	imi	4	- i m i
-346	Maw	Blood	BLOOD	i m i	imi	4	- i m i
-343	Poy	Blood	BLOOD	i b i	ibi	4	- i b i
-123	ProPa	Blood	BLOOD	h i m i	himi	4	h i m i
-122	ProPaTa	Blood	BLOOD	h e m i	hemi	4	h e m i
-525	ProTa	Blood	BLOOD	a m i	ami	4	- a m i
-527	ReyMar	Blood	BLOOD	a m i	ami	4	- a m i
-341	Shan	Blood	BLOOD	i m i	imi	4	- i m i
-132	Shar	Blood	BLOOD	i m i	imi	4	- i m i
-125	SK	Blood	BLOOD	h i m i	himi	4	h i m i
-526	Tac	Blood	BLOOD	a m i	ami	4	- a m i
-130	Yam	Blood	BLOOD	i m	im	4	- i m -
-347	Yaw	Blood	BLOOD	i m i	imi	4	- i m i
+344	Ama	Blood	BLOOD	946	h i m i	himi	4	h i m i
+528	Cav	Blood	BLOOD	946	a m i	ami	4	- a m i
+128	Chak	Blood	BLOOD	946	h i m i	himi	4	h i m i
+131	Chan	Blood	BLOOD	946	i b i	ibi	4	- i b i
+345	HanKax	Blood	BLOOD	946	h i m i	himi	4	h i m i
+126	Kap	Blood	BLOOD	946	h i m i	himi	4	h i m i
+342	Kat	Blood	BLOOD	946	h i m i	himi	4	h i m i
+129	Kax	Blood	BLOOD	946	h i m i	himi	4	h i m i
+348	Kor	Blood	BLOOD	946	i n.t a	inta	4	- i n.t a
+124	Ksh	Blood	BLOOD	946	i m i	imi	4	- i m i
+127	Mar	Blood	BLOOD	946	i m.b i	imbi	4	- i m.b i
+349	Mat	Blood	BLOOD	946	i m i	imi	4	- i m i
+350	MatMay	Blood	BLOOD	946	i m i	imi	4	- i m i
+346	Maw	Blood	BLOOD	946	i m i	imi	4	- i m i
+343	Poy	Blood	BLOOD	946	i b i	ibi	4	- i b i
+123	ProPa	Blood	BLOOD	946	h i m i	himi	4	h i m i
+122	ProPaTa	Blood	BLOOD	946	h e m i	hemi	4	h e m i
+525	ProTa	Blood	BLOOD	946	a m i	ami	4	- a m i
+527	ReyMar	Blood	BLOOD	946	a m i	ami	4	- a m i
+341	Shan	Blood	BLOOD	946	i m i	imi	4	- i m i
+132	Shar	Blood	BLOOD	946	i m i	imi	4	- i m i
+125	SK	Blood	BLOOD	946	h i m i	himi	4	h i m i
+526	Tac	Blood	BLOOD	946	a m i	ami	4	- a m i
+130	Yam	Blood	BLOOD	946	i m	im	4	- i m -
+347	Yaw	Blood	BLOOD	946	i m i	imi	4	- i m i
 #
-299	Ama	Bone	BONE	x a o	xao	5	x a o
-486	Cav	Bone	BONE	tʂ a o	e-cao	5	tʂ a o
-58	Chak	Bone	BONE	ʂ a o	ʂao	5	ʂ a o
-61	Chan	Bone	BONE	ʃ a o	ʃao	5	ʃ a o
-487	Ese	Bone	BONE	s a	e-sá	5	s a -
-300	HanKax	Bone	BONE	ʂ a u	ʂau	5	ʂ a u
-56	Kap	Bone	BONE	ʂ a o	ʂao	5	ʂ a o
-297	Kat	Bone	BONE	ʃ a u	ʃau	5	ʃ a u
-59	Kax	Bone	BONE	ʂ a u	ʂahʷu	5	ʂ a u
-54	Ksh	Bone	BONE	ʂ ɔ	ʂɔː	5	ʂ ɔ -
-57	Mar	Bone	BONE	ʃ a u	ʃau	5	ʃ a u
-303	MatMay	Bone	BONE	ʂ	mɨ-ʂ	5	ʂ - -
-301	Maw	Bone	BONE	ʂ a o	ʂao	5	ʂ a o
-298	Poy	Bone	BONE	h a u	haw	5	h a u
-53	ProPa	Bone	BONE	ʂ a o	ʂao	5	ʂ a o
-52	ProPaTa	Bone	BONE	ʂ a u	ʂau	5	ʂ a u
-483	ProTa	Bone	BONE	tʂ a u	tʂau	5	tʂ a u
-485	ReyMar	Bone	BONE	ts a o	e-cao	5	ts a o
-296	Shan	Bone	BONE	ʂ a o	ʂaw	5	ʂ a o
-62	Shar	Bone	BONE	ʂ a o	ʂao	5	ʂ a o
-55	SK	Bone	BONE	ʂ a o	ʂao	5	ʂ a o
-484	Tac	Bone	BONE	tʂ a u	e-cau	5	tʂ a u
-488	War	Bone	BONE	s a	e-sá	5	s a -
-60	Yam	Bone	BONE	ʂ a o	ʂao	5	ʂ a o
-302	Yaw	Bone	BONE	ʃ a u	ʃau	5	ʃ a u
+299	Ama	Bone	BONE	1394	x a o	xao	5	x a o
+486	Cav	Bone	BONE	1394	tʂ a o	e-cao	5	tʂ a o
+58	Chak	Bone	BONE	1394	ʂ a o	ʂao	5	ʂ a o
+61	Chan	Bone	BONE	1394	ʃ a o	ʃao	5	ʃ a o
+487	Ese	Bone	BONE	1394	s a	e-sá	5	s a -
+300	HanKax	Bone	BONE	1394	ʂ a u	ʂau	5	ʂ a u
+56	Kap	Bone	BONE	1394	ʂ a o	ʂao	5	ʂ a o
+297	Kat	Bone	BONE	1394	ʃ a u	ʃau	5	ʃ a u
+59	Kax	Bone	BONE	1394	ʂ a u	ʂahʷu	5	ʂ a u
+54	Ksh	Bone	BONE	1394	ʂ ɔ	ʂɔː	5	ʂ ɔ -
+57	Mar	Bone	BONE	1394	ʃ a u	ʃau	5	ʃ a u
+303	MatMay	Bone	BONE	1394	ʂ	mɨ-ʂ	5	ʂ - -
+301	Maw	Bone	BONE	1394	ʂ a o	ʂao	5	ʂ a o
+298	Poy	Bone	BONE	1394	h a u	haw	5	h a u
+53	ProPa	Bone	BONE	1394	ʂ a o	ʂao	5	ʂ a o
+52	ProPaTa	Bone	BONE	1394	ʂ a u	ʂau	5	ʂ a u
+483	ProTa	Bone	BONE	1394	tʂ a u	tʂau	5	tʂ a u
+485	ReyMar	Bone	BONE	1394	ts a o	e-cao	5	ts a o
+296	Shan	Bone	BONE	1394	ʂ a o	ʂaw	5	ʂ a o
+62	Shar	Bone	BONE	1394	ʂ a o	ʂao	5	ʂ a o
+55	SK	Bone	BONE	1394	ʂ a o	ʂao	5	ʂ a o
+484	Tac	Bone	BONE	1394	tʂ a u	e-cau	5	tʂ a u
+488	War	Bone	BONE	1394	s a	e-sá	5	s a -
+60	Yam	Bone	BONE	1394	ʂ a o	ʂao	5	ʂ a o
+302	Yaw	Bone	BONE	1394	ʃ a u	ʃau	5	ʃ a u
 #
-354	Ama	Breast	BREAST	x o	xoma	6	x o
-139	Chak	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-140	Chan	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-355	HanKax	Breast	BREAST	ʂ u	ʂuma	6	ʂ u
-137	Kap	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-352	Kat	Breast	BREAST	ʃ u	ʃuma	6	ʃ u
-358	Kor	Breast	BREAST	ʂ u	ʂuma	6	ʂ u
-135	Ksh	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-138	Mar	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-359	Mat	Breast	BREAST	ʂ u	ʂuma	6	ʂ u
-360	MatMay	Breast	BREAST	ʂ u	ʂuma	6	ʂ u
-356	Maw	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-353	Poy	Breast	BREAST	h u	hũba	6	h u
-134	ProPa	Breast	BREAST	ʂ o	ʂo	6	ʂ o
-133	ProPaTa	Breast	BREAST	ʂ u	aṣu	6	ʂ u
-529	ProTa	Breast	BREAST	tʂ u	aṭṣu	6	tʂ u
-351	Shan	Breast	BREAST	ʂ u	ʂuma	6	ʂ u
-141	Shar	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-136	SK	Breast	BREAST	ʂ o	ʂoma	6	ʂ o
-357	Yaw	Breast	BREAST	ʃ u	ʃuma	6	ʃ u
+354	Ama	Breast	BREAST	1402	x o	xoma	6	x o
+139	Chak	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+140	Chan	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+355	HanKax	Breast	BREAST	1402	ʂ u	ʂuma	6	ʂ u
+137	Kap	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+352	Kat	Breast	BREAST	1402	ʃ u	ʃuma	6	ʃ u
+358	Kor	Breast	BREAST	1402	ʂ u	ʂuma	6	ʂ u
+135	Ksh	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+138	Mar	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+359	Mat	Breast	BREAST	1402	ʂ u	ʂuma	6	ʂ u
+360	MatMay	Breast	BREAST	1402	ʂ u	ʂuma	6	ʂ u
+356	Maw	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+353	Poy	Breast	BREAST	1402	h u	hũba	6	h u
+134	ProPa	Breast	BREAST	1402	ʂ o	ʂo	6	ʂ o
+133	ProPaTa	Breast	BREAST	1402	ʂ u	aṣu	6	ʂ u
+529	ProTa	Breast	BREAST	1402	tʂ u	aṭṣu	6	tʂ u
+351	Shan	Breast	BREAST	1402	ʂ u	ʂuma	6	ʂ u
+141	Shar	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+136	SK	Breast	BREAST	1402	ʂ o	ʂoma	6	ʂ o
+357	Yaw	Breast	BREAST	1402	ʃ u	ʃuma	6	ʃ u
 #
-428	Ama	Cheek	CHEEK	t a m o	tamo	9	t a m o
-581	Cav	Cheek	CHEEK	t a m u	-tamu	9	t a m u
-229	Chak	Cheek	CHEEK	t a m o	tamo	9	t a m o
-582	Ese	Cheek	CHEEK	ʃ e m o	-shemo	9	ʃ e m o
-429	HanKax	Cheek	CHEEK	t a m u	tamu	9	t a m u
-227	Kap	Cheek	CHEEK	t a m o	tamo	9	t a m o
-426	Kat	Cheek	CHEEK	t a m u	tamu	9	t a m u
-230	Kax	Cheek	CHEEK	t a m u	tamu	9	t a m u
-225	Ksh	Cheek	CHEEK	t a m o	tamo	9	t a m o
-228	Mar	Cheek	CHEEK	t a m.b o	tambo	9	t a m.b o
-431	MatMay	Cheek	CHEEK	t a m.b u	tambu	9	t a m.b u
-430	Maw	Cheek	CHEEK	t a m o	tamo	9	t a m o
-427	Poy	Cheek	CHEEK	t a ∼.b u	tãbu	9	t a ∼.b u
-224	ProPa	Cheek	CHEEK	t a m o	tamo	9	t a m o
-223	ProPaTa	Cheek	CHEEK	t a m u	tamu	9	t a m u
-579	ProTa	Cheek	CHEEK	t a m u	tamu	9	t a m u
-580	ReyMar	Cheek	CHEEK	t a m u	ebu-tamu	9	t a m u
-232	Shar	Cheek	CHEEK	t a m o	tamo	9	t a m o
-226	SK	Cheek	CHEEK	t a m o	tamo	9	t a m o
-231	Yam	Cheek	CHEEK	t a m o	tamo	9	t a m o
+428	Ama	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+581	Cav	Cheek	CHEEK	1730	t a m u	-tamu	9	t a m u
+229	Chak	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+582	Ese	Cheek	CHEEK	1730	ʃ e m o	-shemo	9	ʃ e m o
+429	HanKax	Cheek	CHEEK	1730	t a m u	tamu	9	t a m u
+227	Kap	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+426	Kat	Cheek	CHEEK	1730	t a m u	tamu	9	t a m u
+230	Kax	Cheek	CHEEK	1730	t a m u	tamu	9	t a m u
+225	Ksh	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+228	Mar	Cheek	CHEEK	1730	t a m.b o	tambo	9	t a m.b o
+431	MatMay	Cheek	CHEEK	1730	t a m.b u	tambu	9	t a m.b u
+430	Maw	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+427	Poy	Cheek	CHEEK	1730	t a ∼.b u	tãbu	9	t a ∼.b u
+224	ProPa	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+223	ProPaTa	Cheek	CHEEK	1730	t a m u	tamu	9	t a m u
+579	ProTa	Cheek	CHEEK	1730	t a m u	tamu	9	t a m u
+580	ReyMar	Cheek	CHEEK	1730	t a m u	ebu-tamu	9	t a m u
+232	Shar	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+226	SK	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
+231	Yam	Cheek	CHEEK	1730	t a m o	tamo	9	t a m o
 #
-377	Ama	Come	COME	β ɨ	βɨ-	10	β ɨ
-163	Chak	Come	COME	β ɨ	βɨ-	10	β ɨ
-166	Chan	Come	COME	ɸ ɨ	ɸɨ-	10	ɸ ɨ
-378	HanKax	Come	COME	b ɨ	bɨ-	10	b ɨ
-162	Kap	Come	COME	β ɨ	βɨ-	10	β ɨ
-164	Kax	Come	COME	b ɨ	bɨ-	10	b ɨ
-381	Kor	Come	COME	β ɨ	βɨ-	10	β ɨ
-160	Ksh	Come	COME	β ɨ	βɨ-	10	β ɨ
-382	Mat	Come	COME	β ɨ	βɨ-	10	β ɨ
-383	MatMay	Come	COME	b ɨ	bɨ-	10	b ɨ
-379	Maw	Come	COME	ɸ ɨ	ɸɨ-	10	ɸ ɨ
-159	ProPa	Come	COME	β ɨ	βɨ-	10	β ɨ
-158	ProPaTa	Come	COME	b ɨ	bɨ-	10	b ɨ
-545	ProTa	Come	COME	b e	be-	10	b e
-167	Shar	Come	COME	ɸ ɨ	ɸɨ-	10	ɸ ɨ
-161	SK	Come	COME	β ɨ	βɨ-	10	β ɨ
-165	Yam	Come	COME	ɸ ɨ	ɸɨ-	10	ɸ ɨ
-380	Yaw	Come	COME	β ɨ	βɨ-	10	β ɨ
+377	Ama	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+163	Chak	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+166	Chan	Come	COME	1446	ɸ ɨ	ɸɨ-	10	ɸ ɨ
+378	HanKax	Come	COME	1446	b ɨ	bɨ-	10	b ɨ
+162	Kap	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+164	Kax	Come	COME	1446	b ɨ	bɨ-	10	b ɨ
+381	Kor	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+160	Ksh	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+382	Mat	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+383	MatMay	Come	COME	1446	b ɨ	bɨ-	10	b ɨ
+379	Maw	Come	COME	1446	ɸ ɨ	ɸɨ-	10	ɸ ɨ
+159	ProPa	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+158	ProPaTa	Come	COME	1446	b ɨ	bɨ-	10	b ɨ
+545	ProTa	Come	COME	1446	b e	be-	10	b e
+167	Shar	Come	COME	1446	ɸ ɨ	ɸɨ-	10	ɸ ɨ
+161	SK	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
+165	Yam	Come	COME	1446	ɸ ɨ	ɸɨ-	10	ɸ ɨ
+380	Yaw	Come	COME	1446	β ɨ	βɨ-	10	β ɨ
 #
-439	Ama	Elbow	ELBOW	b a	vapoxko	19	b a - -
-597	Ara	Elbow	ELBOW	b a ʃ a	ebaša	19	b a ʃ a
-248	Chak	Elbow	ELBOW	b a s	baspoto	19	b a s -
-594	Ese	Elbow	ELBOW	b a ʃ o	e-bašo	19	b a ʃ o
-440	HanKax	Elbow	ELBOW	b a ʂ	baʂtunku	19	b a ʂ -
-247	Kap	Elbow	ELBOW	b a ʂ	baʂpoʂko	19	b a ʂ -
-249	Kax	Elbow	ELBOW	p a x u	paxuxu	19	p a x u
-245	Ksh	Elbow	ELBOW	b u x u	banbuxu	19	b u x u
-441	Mat	Elbow	ELBOW	β u r u	mɨntʂinβuru	19	β u r u
-442	MatMay	Elbow	ELBOW	p i s	mɨntsimpis	19	p i s -
-244	ProPa	Elbow	ELBOW	β a ʂ u	βaʂ(u)-	19	β a ʂ u
-243	ProPaTa	Elbow	ELBOW	b a ʂ u	baṣu	19	b a ʂ u
-591	ProTa	Elbow	ELBOW	b a tʂ u	-baṭṣu	19	b a tʂ u
-593	ReyMar	Elbow	ELBOW	m.b a ts o	e-mba-co	19	m.b a ts o
-246	SK	Elbow	ELBOW	p o t o	põtõko	19	p o t o
-592	Tac	Elbow	ELBOW	b a tʂ u	e-ba-cu	19	b a tʂ u
-596	Tia	Elbow	ELBOW	w a ts u	wacu	19	w a ts u
-595	War	Elbow	ELBOW	b a ʃ o	e-bašo	19	b a ʃ o
-250	Yam	Elbow	ELBOW	p o t o	po-to-ṣ̌ko	19	p o t o
+439	Ama	Elbow	ELBOW	981	b a	vapoxko	19	b a - -
+597	Ara	Elbow	ELBOW	981	b a ʃ a	ebaša	19	b a ʃ a
+248	Chak	Elbow	ELBOW	981	b a s	baspoto	19	b a s -
+594	Ese	Elbow	ELBOW	981	b a ʃ o	e-bašo	19	b a ʃ o
+440	HanKax	Elbow	ELBOW	981	b a ʂ	baʂtunku	19	b a ʂ -
+247	Kap	Elbow	ELBOW	981	b a ʂ	baʂpoʂko	19	b a ʂ -
+249	Kax	Elbow	ELBOW	981	p a x u	paxuxu	19	p a x u
+245	Ksh	Elbow	ELBOW	981	b u x u	banbuxu	19	b u x u
+441	Mat	Elbow	ELBOW	981	β u r u	mɨntʂinβuru	19	β u r u
+442	MatMay	Elbow	ELBOW	981	p i s	mɨntsimpis	19	p i s -
+244	ProPa	Elbow	ELBOW	981	β a ʂ u	βaʂ(u)-	19	β a ʂ u
+243	ProPaTa	Elbow	ELBOW	981	b a ʂ u	baṣu	19	b a ʂ u
+591	ProTa	Elbow	ELBOW	981	b a tʂ u	-baṭṣu	19	b a tʂ u
+593	ReyMar	Elbow	ELBOW	981	m.b a ts o	e-mba-co	19	m.b a ts o
+246	SK	Elbow	ELBOW	981	p o t o	põtõko	19	p o t o
+592	Tac	Elbow	ELBOW	981	b a tʂ u	e-ba-cu	19	b a tʂ u
+596	Tia	Elbow	ELBOW	981	w a ts u	wacu	19	w a ts u
+595	War	Elbow	ELBOW	981	b a ʃ o	e-bašo	19	b a ʃ o
+250	Yam	Elbow	ELBOW	981	p o t o	po-to-ṣ̌ko	19	p o t o
 #
-399	Ama	Fat	FAT (ORGANIC SUBSTANCE)	x ɨ n i	xɨni	20	x ɨ n i
-564	Ara	Fat	FAT (ORGANIC SUBSTANCE)	s e i	ésey	20	s e - i
-562	Cav	Fat	FAT (ORGANIC SUBSTANCE)	tʂ e r i	e-ceri	20	tʂ e r i
-191	Chak	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-193	Chan	Fat	FAT (ORGANIC SUBSTANCE)	ʃ ɨ d i	ʃɨdi	20	ʃ ɨ d i
-563	Ese	Fat	FAT (ORGANIC SUBSTANCE)	s e i	e-sei	20	s e - i
-400	HanKax	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-189	Kap	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-397	Kat	Fat	FAT (ORGANIC SUBSTANCE)	ʃ ɨ n i	ʃɨni	20	ʃ ɨ n i
-403	Kor	Fat	FAT (ORGANIC SUBSTANCE)	ʃ ɨ n i	ʃɨni	20	ʃ ɨ n i
-187	Ksh	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-190	Mar	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-404	Mat	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-401	Maw	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-398	Poy	Fat	FAT (ORGANIC SUBSTANCE)	h a ∼.d i	hãdi	20	h a ∼.d i
-186	ProPa	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-185	ProPaTa	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ r i	ʂɨNi	20	ʂ ɨ r i
-560	ProTa	Fat	FAT (ORGANIC SUBSTANCE)	tʂ e r i	ṭṣeri	20	tʂ e r i
-396	Shan	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-194	Shar	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-188	SK	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
-561	Tac	Fat	FAT (ORGANIC SUBSTANCE)	tʂ e i	e-cei	20	tʂ e - i
-192	Yam	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨnĩ	20	ʂ ɨ n i
-402	Yaw	Fat	FAT (ORGANIC SUBSTANCE)	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+399	Ama	Fat	FAT (ORGANIC SUBSTANCE)	323	x ɨ n i	xɨni	20	x ɨ n i
+564	Ara	Fat	FAT (ORGANIC SUBSTANCE)	323	s e i	ésey	20	s e - i
+562	Cav	Fat	FAT (ORGANIC SUBSTANCE)	323	tʂ e r i	e-ceri	20	tʂ e r i
+191	Chak	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+193	Chan	Fat	FAT (ORGANIC SUBSTANCE)	323	ʃ ɨ d i	ʃɨdi	20	ʃ ɨ d i
+563	Ese	Fat	FAT (ORGANIC SUBSTANCE)	323	s e i	e-sei	20	s e - i
+400	HanKax	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+189	Kap	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+397	Kat	Fat	FAT (ORGANIC SUBSTANCE)	323	ʃ ɨ n i	ʃɨni	20	ʃ ɨ n i
+403	Kor	Fat	FAT (ORGANIC SUBSTANCE)	323	ʃ ɨ n i	ʃɨni	20	ʃ ɨ n i
+187	Ksh	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+190	Mar	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+404	Mat	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+401	Maw	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+398	Poy	Fat	FAT (ORGANIC SUBSTANCE)	323	h a ∼.d i	hãdi	20	h a ∼.d i
+186	ProPa	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+185	ProPaTa	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ r i	ʂɨNi	20	ʂ ɨ r i
+560	ProTa	Fat	FAT (ORGANIC SUBSTANCE)	323	tʂ e r i	ṭṣeri	20	tʂ e r i
+396	Shan	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+194	Shar	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+188	SK	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
+561	Tac	Fat	FAT (ORGANIC SUBSTANCE)	323	tʂ e i	e-cei	20	tʂ e - i
+192	Yam	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨnĩ	20	ʂ ɨ n i
+402	Yaw	Fat	FAT (ORGANIC SUBSTANCE)	323	ʂ ɨ n i	ʂɨni	20	ʂ ɨ n i
 #
-407	Ama	Fingernail	FINGERNAIL	m ɨ n ts i s	mɨntsis	21	m ɨ n ts i s -
-568	Cav	Fingernail	FINGERNAIL	m e	e-me-šoro	21	m e - - - - -
-201	Chak	Fingernail	FINGERNAIL	m ɨ ∼ ts i s	mɨ̃tsis	21	m ɨ ∼ ts i s -
-204	Chan	Fingernail	FINGERNAIL	b i ts i s	bitsis	21	b i - ts i s -
-569	Ese	Fingernail	FINGERNAIL	m e k i ʃ e	e-me-kiše	21	m e - k i ʃ e
-408	HanKax	Fingernail	FINGERNAIL	m ɨ ∼ ts i s	mɨ̃tsis	21	m ɨ ∼ ts i s -
-199	Kap	Fingernail	FINGERNAIL	m ɨ n ts i s	mɨ̃ntsis	21	m ɨ n ts i s -
-406	Kat	Fingernail	FINGERNAIL	m ɨ ∼ tʃ i ʃ i	mɨ̃tʃiʃi	21	m ɨ ∼ tʃ i ʃ i
-202	Kax	Fingernail	FINGERNAIL	m ɨ ∼ tʃ i s i	mɨ̃tʃisi	21	m ɨ ∼ tʃ i s i
-411	Kor	Fingernail	FINGERNAIL	m ɨ tʃ i	mɨtʃiun	21	m ɨ - tʃ i - -
-197	Ksh	Fingernail	FINGERNAIL	u n ts i s	Untsis	21	- u n ts i s -
-200	Mar	Fingernail	FINGERNAIL	m ɨ ∼ ts i s i	mɨ̃tsisi	21	m ɨ ∼ ts i s i
-412	Mat	Fingernail	FINGERNAIL	m ɨ n t i s	mɨntis	21	m ɨ n t i s -
-413	MatMay	Fingernail	FINGERNAIL	m ɨ n ts i s	mɨntsis	21	m ɨ n ts i s -
-409	Maw	Fingernail	FINGERNAIL	m ɨ ∼ ts i s i	mɨ̃tsisi	21	m ɨ ∼ ts i s i
-196	ProPa	Fingernail	FINGERNAIL	m ɨ n ts i s i	mɨ̃-tsisi	21	m ɨ n ts i s i
-195	ProPaTa	Fingernail	FINGERNAIL	m ɨ ts i z i	mɨ-tsizi	21	m ɨ - ts i z i
-565	ProTa	Fingernail	FINGERNAIL	m e t i ʃ i	metiji	21	m e - t i ʃ i
-567	ReyMar	Fingernail	FINGERNAIL	m e t i tʃ i	emetichi	21	m e - t i tʃ i
-405	Shan	Fingernail	FINGERNAIL	m ɨ tʃ i ʃ i	mɨtʃiʃi	21	m ɨ - tʃ i ʃ i
-205	Shar	Fingernail	FINGERNAIL	m ɨ ts i s i	mɨtsisi	21	m ɨ - ts i s i
-198	SK	Fingernail	FINGERNAIL	m ɨ n ts i s	mɨ̃ntsis	21	m ɨ n ts i s -
-566	Tac	Fingernail	FINGERNAIL	m e	e-me-haca	21	m e - - - - -
-203	Yam	Fingernail	FINGERNAIL	m i ts i s	mitsis	21	m i - ts i s -
-410	Yaw	Fingernail	FINGERNAIL	m ɨ ts i s i	mɨtsisi	21	m ɨ - ts i s i
+407	Ama	Fingernail	FINGERNAIL	1258	m ɨ n ts i s	mɨntsis	21	m ɨ n ts i s -
+568	Cav	Fingernail	FINGERNAIL	1258	m e	e-me-šoro	21	m e - - - - -
+201	Chak	Fingernail	FINGERNAIL	1258	m ɨ ∼ ts i s	mɨ̃tsis	21	m ɨ ∼ ts i s -
+204	Chan	Fingernail	FINGERNAIL	1258	b i ts i s	bitsis	21	b i - ts i s -
+569	Ese	Fingernail	FINGERNAIL	1258	m e k i ʃ e	e-me-kiše	21	m e - k i ʃ e
+408	HanKax	Fingernail	FINGERNAIL	1258	m ɨ ∼ ts i s	mɨ̃tsis	21	m ɨ ∼ ts i s -
+199	Kap	Fingernail	FINGERNAIL	1258	m ɨ n ts i s	mɨ̃ntsis	21	m ɨ n ts i s -
+406	Kat	Fingernail	FINGERNAIL	1258	m ɨ ∼ tʃ i ʃ i	mɨ̃tʃiʃi	21	m ɨ ∼ tʃ i ʃ i
+202	Kax	Fingernail	FINGERNAIL	1258	m ɨ ∼ tʃ i s i	mɨ̃tʃisi	21	m ɨ ∼ tʃ i s i
+411	Kor	Fingernail	FINGERNAIL	1258	m ɨ tʃ i	mɨtʃiun	21	m ɨ - tʃ i - -
+197	Ksh	Fingernail	FINGERNAIL	1258	u n ts i s	Untsis	21	- u n ts i s -
+200	Mar	Fingernail	FINGERNAIL	1258	m ɨ ∼ ts i s i	mɨ̃tsisi	21	m ɨ ∼ ts i s i
+412	Mat	Fingernail	FINGERNAIL	1258	m ɨ n t i s	mɨntis	21	m ɨ n t i s -
+413	MatMay	Fingernail	FINGERNAIL	1258	m ɨ n ts i s	mɨntsis	21	m ɨ n ts i s -
+409	Maw	Fingernail	FINGERNAIL	1258	m ɨ ∼ ts i s i	mɨ̃tsisi	21	m ɨ ∼ ts i s i
+196	ProPa	Fingernail	FINGERNAIL	1258	m ɨ n ts i s i	mɨ̃-tsisi	21	m ɨ n ts i s i
+195	ProPaTa	Fingernail	FINGERNAIL	1258	m ɨ ts i z i	mɨ-tsizi	21	m ɨ - ts i z i
+565	ProTa	Fingernail	FINGERNAIL	1258	m e t i ʃ i	metiji	21	m e - t i ʃ i
+567	ReyMar	Fingernail	FINGERNAIL	1258	m e t i tʃ i	emetichi	21	m e - t i tʃ i
+405	Shan	Fingernail	FINGERNAIL	1258	m ɨ tʃ i ʃ i	mɨtʃiʃi	21	m ɨ - tʃ i ʃ i
+205	Shar	Fingernail	FINGERNAIL	1258	m ɨ ts i s i	mɨtsisi	21	m ɨ - ts i s i
+198	SK	Fingernail	FINGERNAIL	1258	m ɨ n ts i s	mɨ̃ntsis	21	m ɨ n ts i s -
+566	Tac	Fingernail	FINGERNAIL	1258	m e	e-me-haca	21	m e - - - - -
+203	Yam	Fingernail	FINGERNAIL	1258	m i ts i s	mitsis	21	m i - ts i s -
+410	Yaw	Fingernail	FINGERNAIL	1258	m ɨ ts i s i	mɨtsisi	21	m ɨ - ts i s i
 #
-335	Ama	Fire	FIRE	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
-521	Aro	Fire	FIRE	t e	etesi	22	t e - -
-522	Cav	Fire	FIRE	t i	e-tiki	22	t i - -
-110	Chak	Fire	FIRE	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
-113	Chan	Fire	FIRE	tʃ i i	tʃii	22	tʃ i - i
-336	HanKax	Fire	FIRE	tʃ i	tʃi	22	tʃ i - -
-108	Kap	Fire	FIRE	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
-334	Kat	Fire	FIRE	tʃ i i	tʃii	22	tʃ i - i
-111	Kax	Fire	FIRE	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
-106	Ksh	Fire	FIRE	tʃ i i	tʃii	22	tʃ i - i
-109	Mar	Fire	FIRE	tʃ i	tʃi	22	tʃ i - -
-337	Maw	Fire	FIRE	tʃ i	tʃi	22	tʃ i - -
-105	ProPa	Fire	FIRE	ts i ʔ i	tsiʔi	22	ts i ʔ i
-104	ProPaTa	Fire	FIRE	ts i ʔ i	tsiʔi	22	ts i ʔ i
-518	ProTa	Fire	FIRE	t i	ti	22	t i - -
-520	ReyMar	Fire	FIRE	t i	-ti-	22	t i - -
-333	Shan	Fire	FIRE	tʃ i	tʃi	22	tʃ i - -
-114	Shar	Fire	FIRE	tʃ i i	tʃii	22	tʃ i - i
-107	SK	Fire	FIRE	tʃ i i	tʃii	22	tʃ i - i
-519	Tac	Fire	FIRE	t i	e-ti-ře	22	t i - -
-112	Yam	Fire	FIRE	tʃ i i	tʃii	22	tʃ i - i
-338	Yaw	Fire	FIRE	tʃ i	tʃi	22	tʃ i - -
+335	Ama	Fire	FIRE	221	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
+521	Aro	Fire	FIRE	221	t e	etesi	22	t e - -
+522	Cav	Fire	FIRE	221	t i	e-tiki	22	t i - -
+110	Chak	Fire	FIRE	221	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
+113	Chan	Fire	FIRE	221	tʃ i i	tʃii	22	tʃ i - i
+336	HanKax	Fire	FIRE	221	tʃ i	tʃi	22	tʃ i - -
+108	Kap	Fire	FIRE	221	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
+334	Kat	Fire	FIRE	221	tʃ i i	tʃii	22	tʃ i - i
+111	Kax	Fire	FIRE	221	tʃ i ʔ i	tʃiʔi	22	tʃ i ʔ i
+106	Ksh	Fire	FIRE	221	tʃ i i	tʃii	22	tʃ i - i
+109	Mar	Fire	FIRE	221	tʃ i	tʃi	22	tʃ i - -
+337	Maw	Fire	FIRE	221	tʃ i	tʃi	22	tʃ i - -
+105	ProPa	Fire	FIRE	221	ts i ʔ i	tsiʔi	22	ts i ʔ i
+104	ProPaTa	Fire	FIRE	221	ts i ʔ i	tsiʔi	22	ts i ʔ i
+518	ProTa	Fire	FIRE	221	t i	ti	22	t i - -
+520	ReyMar	Fire	FIRE	221	t i	-ti-	22	t i - -
+333	Shan	Fire	FIRE	221	tʃ i	tʃi	22	tʃ i - -
+114	Shar	Fire	FIRE	221	tʃ i i	tʃii	22	tʃ i - i
+107	SK	Fire	FIRE	221	tʃ i i	tʃii	22	tʃ i - i
+519	Tac	Fire	FIRE	221	t i	e-ti-ře	22	t i - -
+112	Yam	Fire	FIRE	221	tʃ i i	tʃii	22	tʃ i - i
+338	Yaw	Fire	FIRE	221	tʃ i	tʃi	22	tʃ i - -
 #
-390	Ama	Flesh	FLESH	n a m i	nami	23	n a m i
-559	Ara	Flesh	FLESH	a m i	éami	23	- a m i
-555	Aro	Flesh	FLESH	j a m i	yami	23	j a m i
-556	Cav	Flesh	FLESH	r a m i	e-rami	23	r a m i
-180	Chak	Flesh	FLESH	n a m i	nami	23	n a m i
-183	Chan	Flesh	FLESH	n a b i	nabi	23	n a b i
-557	Ese	Flesh	FLESH	j a m i	eyami	23	j a m i
-391	HanKax	Flesh	FLESH	n a m i	nami	23	n a m i
-178	Kap	Flesh	FLESH	n a m i	nami	23	n a m i
-388	Kat	Flesh	FLESH	n a m i	nami	23	n a m i
-181	Kax	Flesh	FLESH	l a m i	lami	23	l a m i
-176	Ksh	Flesh	FLESH	n a m i	nami	23	n a m i
-179	Mar	Flesh	FLESH	n a m i	nami	23	n a m i
-394	Mat	Flesh	FLESH	n a m i	nami	23	n a m i
-395	MatMay	Flesh	FLESH	n a m i	nami	23	n a m i
-392	Maw	Flesh	FLESH	n a m i	nami	23	n a m i
-389	Poy	Flesh	FLESH	n a ∼.b i	nãbi	23	n a ∼.b i
-175	ProPa	Flesh	FLESH	n a m i	nami	23	n a m i
-174	ProPaTa	Flesh	FLESH	r a m i	Nami	23	r a m i
-552	ProTa	Flesh	FLESH	r a m i	ɾami	23	r a m i
-554	ReyMar	Flesh	FLESH	j a m i	yami	23	j a m i
-387	Shan	Flesh	FLESH	n a m i	nami	23	n a m i
-184	Shar	Flesh	FLESH	n a m i	nami	23	n a m i
-177	SK	Flesh	FLESH	n a m i	nami	23	n a m i
-553	Tac	Flesh	FLESH	j a m i	yami	23	j a m i
-558	War	Flesh	FLESH	j a m i	eyami	23	j a m i
-182	Yam	Flesh	FLESH	n a m i	nami	23	n a m i
-393	Yaw	Flesh	FLESH	n a m i	nami	23	n a m i
+390	Ama	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+559	Ara	Flesh	FLESH	2259	a m i	éami	23	- a m i
+555	Aro	Flesh	FLESH	2259	j a m i	yami	23	j a m i
+556	Cav	Flesh	FLESH	2259	r a m i	e-rami	23	r a m i
+180	Chak	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+183	Chan	Flesh	FLESH	2259	n a b i	nabi	23	n a b i
+557	Ese	Flesh	FLESH	2259	j a m i	eyami	23	j a m i
+391	HanKax	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+178	Kap	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+388	Kat	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+181	Kax	Flesh	FLESH	2259	l a m i	lami	23	l a m i
+176	Ksh	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+179	Mar	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+394	Mat	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+395	MatMay	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+392	Maw	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+389	Poy	Flesh	FLESH	2259	n a ∼.b i	nãbi	23	n a ∼.b i
+175	ProPa	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+174	ProPaTa	Flesh	FLESH	2259	r a m i	Nami	23	r a m i
+552	ProTa	Flesh	FLESH	2259	r a m i	ɾami	23	r a m i
+554	ReyMar	Flesh	FLESH	2259	j a m i	yami	23	j a m i
+387	Shan	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+184	Shar	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+177	SK	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+553	Tac	Flesh	FLESH	2259	j a m i	yami	23	j a m i
+558	War	Flesh	FLESH	2259	j a m i	eyami	23	j a m i
+182	Yam	Flesh	FLESH	2259	n a m i	nami	23	n a m i
+393	Yaw	Flesh	FLESH	2259	n a m i	nami	23	n a m i
 #
-417	Ama	Foot,leg	FOOT OR LEG	t a	taʔɨ	24	t a
-573	Cav	Foot,leg	FOOT OR LEG	t a	awa-taka	24	t a
-212	Chak	Foot,leg	FOOT OR LEG	t a	taʔɨ	24	t a
-215	Chan	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-418	HanKax	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-210	Kap	Foot,leg	FOOT OR LEG	t a	taʔɨ	24	t a
-415	Kat	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-213	Kax	Foot,leg	FOOT OR LEG	t a	taʔɨ	24	t a
-421	Kor	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-208	Ksh	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-572	Mab	Foot,leg	FOOT OR LEG	tʰ a	itha	24	tʰ a
-211	Mar	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-422	Mat	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-423	MatMay	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-419	Maw	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-416	Poy	Foot,leg	FOOT OR LEG	t a	tay	24	t a
-207	ProPa	Foot,leg	FOOT OR LEG	t a	ta-	24	t a
-206	ProPaTa	Foot,leg	FOOT OR LEG	t a	ta-	24	t a
-570	ProTa	Foot,leg	FOOT OR LEG	t a	ta-	24	t a
-414	Shan	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-216	Shar	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-209	SK	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-571	Tac	Foot,leg	FOOT OR LEG	t a	e-ta-buce	24	t a
-214	Yam	Foot,leg	FOOT OR LEG	t a	taɨ	24	t a
-420	Yaw	Foot,leg	FOOT OR LEG	t a	tai	24	t a
+417	Ama	Foot,leg	FOOT OR LEG	2098	t a	taʔɨ	24	t a
+573	Cav	Foot,leg	FOOT OR LEG	2098	t a	awa-taka	24	t a
+212	Chak	Foot,leg	FOOT OR LEG	2098	t a	taʔɨ	24	t a
+215	Chan	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+418	HanKax	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+210	Kap	Foot,leg	FOOT OR LEG	2098	t a	taʔɨ	24	t a
+415	Kat	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+213	Kax	Foot,leg	FOOT OR LEG	2098	t a	taʔɨ	24	t a
+421	Kor	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+208	Ksh	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+572	Mab	Foot,leg	FOOT OR LEG	2098	tʰ a	itha	24	tʰ a
+211	Mar	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+422	Mat	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+423	MatMay	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+419	Maw	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+416	Poy	Foot,leg	FOOT OR LEG	2098	t a	tay	24	t a
+207	ProPa	Foot,leg	FOOT OR LEG	2098	t a	ta-	24	t a
+206	ProPaTa	Foot,leg	FOOT OR LEG	2098	t a	ta-	24	t a
+570	ProTa	Foot,leg	FOOT OR LEG	2098	t a	ta-	24	t a
+414	Shan	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+216	Shar	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+209	SK	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+571	Tac	Foot,leg	FOOT OR LEG	2098	t a	e-ta-buce	24	t a
+214	Yam	Foot,leg	FOOT OR LEG	2098	t a	taɨ	24	t a
+420	Yaw	Foot,leg	FOOT OR LEG	2098	t a	tai	24	t a
 #
-313	Ama	Hand	HAND	m ɨ	mɨkɨ̃	27	m ɨ
-506	Ara	Hand	HAND	m a	emã	27	m a
-502	Aro	Hand	HAND	m e	eme	27	m e
-503	Cav	Hand	HAND	m e	e-me	27	m e
-79	Chak	Hand	HAND	m ɨ	mɨkɨnɨ	27	m ɨ
-82	Chan	Hand	HAND	m ɨ	mɨkɨ	27	m ɨ
-504	Ese	Hand	HAND	m e	e-me	27	m e
-314	HanKax	Hand	HAND	m ɨ	mɨkɨ̃	27	m ɨ
-78	Kap	Hand	HAND	m ɨ	mɨkɨn	27	m ɨ
-80	Kax	Hand	HAND	m ɨ	mɨkɨlɨ	27	m ɨ
-76	Ksh	Hand	HAND	m ɨ	mɨkɨ̃	27	m ɨ
-316	Mat	Hand	HAND	m ɨ	mɨkɨn	27	m ɨ
-317	MatMay	Hand	HAND	m ɨ	mɨdante	27	m ɨ
-315	Maw	Hand	HAND	m ɨ	mɨkɨ	27	m ɨ
-75	ProPa	Hand	HAND	m ɨ	mɨ-	27	m ɨ
-74	ProPaTa	Hand	HAND	m ɨ	mɨ-	27	m ɨ
-498	ProTa	Hand	HAND	m e	me-	27	m e
-500	ReyMar	Hand	HAND	m e	emechuja	27	m e
-501	Sap	Hand	HAND	m e	eme	27	m e
-83	Shar	Hand	HAND	m ɨ	mɨkɨ	27	m ɨ
-77	SK	Hand	HAND	m ɨ	mɨkɨ̃	27	m ɨ
-499	Tac	Hand	HAND	m e	e-me	27	m e
-505	War	Hand	HAND	m e	e-mé	27	m e
-81	Yam	Hand	HAND	m ɨ	mɨkɨ̃	27	m ɨ
+313	Ama	Hand	HAND	1277	m ɨ	mɨkɨ̃	27	m ɨ
+506	Ara	Hand	HAND	1277	m a	emã	27	m a
+502	Aro	Hand	HAND	1277	m e	eme	27	m e
+503	Cav	Hand	HAND	1277	m e	e-me	27	m e
+79	Chak	Hand	HAND	1277	m ɨ	mɨkɨnɨ	27	m ɨ
+82	Chan	Hand	HAND	1277	m ɨ	mɨkɨ	27	m ɨ
+504	Ese	Hand	HAND	1277	m e	e-me	27	m e
+314	HanKax	Hand	HAND	1277	m ɨ	mɨkɨ̃	27	m ɨ
+78	Kap	Hand	HAND	1277	m ɨ	mɨkɨn	27	m ɨ
+80	Kax	Hand	HAND	1277	m ɨ	mɨkɨlɨ	27	m ɨ
+76	Ksh	Hand	HAND	1277	m ɨ	mɨkɨ̃	27	m ɨ
+316	Mat	Hand	HAND	1277	m ɨ	mɨkɨn	27	m ɨ
+317	MatMay	Hand	HAND	1277	m ɨ	mɨdante	27	m ɨ
+315	Maw	Hand	HAND	1277	m ɨ	mɨkɨ	27	m ɨ
+75	ProPa	Hand	HAND	1277	m ɨ	mɨ-	27	m ɨ
+74	ProPaTa	Hand	HAND	1277	m ɨ	mɨ-	27	m ɨ
+498	ProTa	Hand	HAND	1277	m e	me-	27	m e
+500	ReyMar	Hand	HAND	1277	m e	emechuja	27	m e
+501	Sap	Hand	HAND	1277	m e	eme	27	m e
+83	Shar	Hand	HAND	1277	m ɨ	mɨkɨ	27	m ɨ
+77	SK	Hand	HAND	1277	m ɨ	mɨkɨ̃	27	m ɨ
+499	Tac	Hand	HAND	1277	m e	e-me	27	m e
+505	War	Hand	HAND	1277	m e	e-mé	27	m e
+81	Yam	Hand	HAND	1277	m ɨ	mɨkɨ̃	27	m ɨ
 #
-384	Ama	I	I	ɨ	ɨ	28	- ɨ
-549	Aro	I	I	e	ema	28	- e
-550	Cav	I	I	e	e-ra	28	- e
-173	Chak	I	I	ɨ	ɨ	28	- ɨ
-551	Ese	I	I	e	ea	28	- e
-385	HanKax	I	I	ɨ	ɨ	28	- ɨ
-172	Kap	I	I	ʔ ɨ	ʔɨ	28	ʔ ɨ
-170	Ksh	I	I	ʔ ɨ	ʔɨ	28	ʔ ɨ
-386	Maw	I	I	ɨ	ɨ	28	- ɨ
-169	ProPa	I	I	ʔ ɨ	ʔɨ	28	ʔ ɨ
-168	ProPaTa	I	I	ʔ ɨ	ʔɨ	28	ʔ ɨ
-546	ProTa	I	I	e	e	28	- e
-548	ReyMar	I	I	e	e-me	28	- e
-171	SK	I	I	ʔ ɨ	ʔɨ	28	ʔ ɨ
-547	Tac	I	I	e	e-ma	28	- e
+384	Ama	I	I	1209	ɨ	ɨ	28	- ɨ
+549	Aro	I	I	1209	e	ema	28	- e
+550	Cav	I	I	1209	e	e-ra	28	- e
+173	Chak	I	I	1209	ɨ	ɨ	28	- ɨ
+551	Ese	I	I	1209	e	ea	28	- e
+385	HanKax	I	I	1209	ɨ	ɨ	28	- ɨ
+172	Kap	I	I	1209	ʔ ɨ	ʔɨ	28	ʔ ɨ
+170	Ksh	I	I	1209	ʔ ɨ	ʔɨ	28	ʔ ɨ
+386	Maw	I	I	1209	ɨ	ɨ	28	- ɨ
+169	ProPa	I	I	1209	ʔ ɨ	ʔɨ	28	ʔ ɨ
+168	ProPaTa	I	I	1209	ʔ ɨ	ʔɨ	28	ʔ ɨ
+546	ProTa	I	I	1209	e	e	28	- e
+548	ReyMar	I	I	1209	e	e-me	28	- e
+171	SK	I	I	1209	ʔ ɨ	ʔɨ	28	ʔ ɨ
+547	Tac	I	I	1209	e	e-ma	28	- e
 #
-340	Ama	Knee	KNEE	r a	rawoxko	30	r a -
-119	Kap	Knee	KNEE	r a ∼	rãβoʂo	30	r a ∼
-339	Kat	Knee	KNEE	r a	raβɨʂo	30	r a -
-121	Kax	Knee	KNEE	tʃ a ∼	tʃãburu	30	tʃ a ∼
-117	Ksh	Knee	KNEE	r a ∼	rãβoʂo	30	r a ∼
-120	Mar	Knee	KNEE	r a	ravuʃɨ	30	r a -
-116	ProPa	Knee	KNEE	r a ∼	rã-	30	r a ∼
-115	ProPaTa	Knee	KNEE	d a n	da-n	30	d a n
-523	ProTa	Knee	KNEE	d a	da	30	d a -
-118	SK	Knee	KNEE	r a ∼	rãβoʂo	30	r a ∼
-524	Tac	Knee	KNEE	d a	e-ma-da-cua	30	d a -
+340	Ama	Knee	KNEE	1371	r a	rawoxko	30	r a -
+119	Kap	Knee	KNEE	1371	r a ∼	rãβoʂo	30	r a ∼
+339	Kat	Knee	KNEE	1371	r a	raβɨʂo	30	r a -
+121	Kax	Knee	KNEE	1371	tʃ a ∼	tʃãburu	30	tʃ a ∼
+117	Ksh	Knee	KNEE	1371	r a ∼	rãβoʂo	30	r a ∼
+120	Mar	Knee	KNEE	1371	r a	ravuʃɨ	30	r a -
+116	ProPa	Knee	KNEE	1371	r a ∼	rã-	30	r a ∼
+115	ProPaTa	Knee	KNEE	1371	d a n	da-n	30	d a n
+523	ProTa	Knee	KNEE	1371	d a	da	30	d a -
+118	SK	Knee	KNEE	1371	r a ∼	rãβoʂo	30	r a ∼
+524	Tac	Knee	KNEE	1371	d a	e-ma-da-cua	30	d a -
 #
-280	Ama	Liver	LIVER	t a k a	taka	33	t a k a
-478	Ara	Liver	LIVER	t a kʷ a	etákua	33	t a kʷ a
-475	Cav	Liver	LIVER	t a kʷ a	e-takwa	33	t a kʷ a
-37	Chak	Liver	LIVER	t a k a	taka	33	t a k a
-39	Chan	Liver	LIVER	t a k a	taka	33	t a k a
-476	Ese	Liver	LIVER	k a kʷ a	e-kakwa	33	k a kʷ a
-281	HanKax	Liver	LIVER	t a k a	taka	33	t a k a
-35	Kap	Liver	LIVER	t a k a	taka	33	t a k a
-278	Kat	Liver	LIVER	t a k a	taka	33	t a k a
-38	Kax	Liver	LIVER	t a k a	taka	33	t a k a
-284	Kor	Liver	LIVER	t a kʷ a	takʷa	33	t a kʷ a
-33	Ksh	Liver	LIVER	t a kʷ a	takʷa	33	t a kʷ a
-36	Mar	Liver	LIVER	t a k a	taka	33	t a k a
-285	Mat	Liver	LIVER	t a kʷ a	takua	33	t a kʷ a
-286	MatMay	Liver	LIVER	t a kʷ a	takʷa	33	t a kʷ a
-282	Maw	Liver	LIVER	t a k a	taka	33	t a k a
-279	Poy	Liver	LIVER	t a k a	taka	33	t a k a
-32	ProPa	Liver	LIVER	t a kʷ a	takʷa	33	t a kʷ a
-31	ProPaTa	Liver	LIVER	t a kʷ a	takʷa	33	t a kʷ a
-472	ProTa	Liver	LIVER	t a kʷ a	takʷa	33	t a kʷ a
-474	ReyMar	Liver	LIVER	t a kʷ a	e-takwa	33	t a kʷ a
-277	Shan	Liver	LIVER	t a k a	taka	33	t a k a
-40	Shar	Liver	LIVER	t a k a	taka	33	t a k a
-34	SK	Liver	LIVER	t a k a	taka	33	t a k a
-473	Tac	Liver	LIVER	t a kʷ a	e-takwa	33	t a kʷ a
-477	War	Liver	LIVER	t a kʷ e	e-takwe	33	t a kʷ e
-283	Yaw	Liver	LIVER	t a k a	taka	33	t a k a
+280	Ama	Liver	LIVER	1224	t a k a	taka	33	t a k a
+478	Ara	Liver	LIVER	1224	t a kʷ a	etákua	33	t a kʷ a
+475	Cav	Liver	LIVER	1224	t a kʷ a	e-takwa	33	t a kʷ a
+37	Chak	Liver	LIVER	1224	t a k a	taka	33	t a k a
+39	Chan	Liver	LIVER	1224	t a k a	taka	33	t a k a
+476	Ese	Liver	LIVER	1224	k a kʷ a	e-kakwa	33	k a kʷ a
+281	HanKax	Liver	LIVER	1224	t a k a	taka	33	t a k a
+35	Kap	Liver	LIVER	1224	t a k a	taka	33	t a k a
+278	Kat	Liver	LIVER	1224	t a k a	taka	33	t a k a
+38	Kax	Liver	LIVER	1224	t a k a	taka	33	t a k a
+284	Kor	Liver	LIVER	1224	t a kʷ a	takʷa	33	t a kʷ a
+33	Ksh	Liver	LIVER	1224	t a kʷ a	takʷa	33	t a kʷ a
+36	Mar	Liver	LIVER	1224	t a k a	taka	33	t a k a
+285	Mat	Liver	LIVER	1224	t a kʷ a	takua	33	t a kʷ a
+286	MatMay	Liver	LIVER	1224	t a kʷ a	takʷa	33	t a kʷ a
+282	Maw	Liver	LIVER	1224	t a k a	taka	33	t a k a
+279	Poy	Liver	LIVER	1224	t a k a	taka	33	t a k a
+32	ProPa	Liver	LIVER	1224	t a kʷ a	takʷa	33	t a kʷ a
+31	ProPaTa	Liver	LIVER	1224	t a kʷ a	takʷa	33	t a kʷ a
+472	ProTa	Liver	LIVER	1224	t a kʷ a	takʷa	33	t a kʷ a
+474	ReyMar	Liver	LIVER	1224	t a kʷ a	e-takwa	33	t a kʷ a
+277	Shan	Liver	LIVER	1224	t a k a	taka	33	t a k a
+40	Shar	Liver	LIVER	1224	t a k a	taka	33	t a k a
+34	SK	Liver	LIVER	1224	t a k a	taka	33	t a k a
+473	Tac	Liver	LIVER	1224	t a kʷ a	e-takwa	33	t a kʷ a
+477	War	Liver	LIVER	1224	t a kʷ e	e-takwe	33	t a kʷ e
+283	Yaw	Liver	LIVER	1224	t a k a	taka	33	t a k a
 #
-435	Ama	Mouth	MOUTH	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
-588	Cav	Mouth	MOUTH	kʷ a tʂ a	e-kwaca	35	kʷ a tʂ a
-241	Chan	Mouth	MOUTH	k ɨ ʃ a	kɨʃa	35	k ɨ ʃ a
-589	Ese	Mouth	MOUTH	kʷ a s a	e-kwasa	35	kʷ a s a
-436	HanKax	Mouth	MOUTH	k ɨ ʂ a	kɨʂ̃a	35	k ɨ ʂ a
-237	Kap	Mouth	MOUTH	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
-433	Kat	Mouth	MOUTH	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
-239	Kax	Mouth	MOUTH	k ɨ ʂ a	kɨʂaka	35	k ɨ ʂ a
-235	Ksh	Mouth	MOUTH	kʷ ɨ ʂ a	kʷɨʂa	35	kʷ ɨ ʂ a
-587	Mab	Mouth	MOUTH	kʷ a ts a	ikwatsa	35	kʷ a ts a
-238	Mar	Mouth	MOUTH	k ɨ ʃ a	kɨʃa	35	k ɨ ʃ a
-437	Maw	Mouth	MOUTH	k ɨ ʃ a	kɨʃa	35	k ɨ ʃ a
-434	Poy	Mouth	MOUTH	k ɨ x a	kɨxaa	35	k ɨ x a
-234	ProPa	Mouth	MOUTH	kʷ ɨ ʂ a	kʷɨʂa	35	kʷ ɨ ʂ a
-233	ProPaTa	Mouth	MOUTH	kʷ e ʂ a	kʷeʂa	35	kʷ e ʂ a
-583	ProTa	Mouth	MOUTH	kʷ a tʂ a	kʷatʂa	35	kʷ a tʂ a
-585	ReyMar	Mouth	MOUTH	kʷ a tʂ a	e-kwaca	35	kʷ a tʂ a
-586	Sap	Mouth	MOUTH	kʷ a tʃ a	ecuacha	35	kʷ a tʃ a
-432	Shan	Mouth	MOUTH	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
-242	Shar	Mouth	MOUTH	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
-236	SK	Mouth	MOUTH	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
-584	Tac	Mouth	MOUTH	kʷ a tʂ a	e-kwaca	35	kʷ a tʂ a
-590	War	Mouth	MOUTH	kʷ a s a	e-kwasa	35	kʷ a s a
-240	Yam	Mouth	MOUTH	k ɨ ʂ a	kɨʂã	35	k ɨ ʂ a
-438	Yaw	Mouth	MOUTH	k ɨ h a	kɨha	35	k ɨ h a
+435	Ama	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
+588	Cav	Mouth	MOUTH	674	kʷ a tʂ a	e-kwaca	35	kʷ a tʂ a
+241	Chan	Mouth	MOUTH	674	k ɨ ʃ a	kɨʃa	35	k ɨ ʃ a
+589	Ese	Mouth	MOUTH	674	kʷ a s a	e-kwasa	35	kʷ a s a
+436	HanKax	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂ̃a	35	k ɨ ʂ a
+237	Kap	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
+433	Kat	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
+239	Kax	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂaka	35	k ɨ ʂ a
+235	Ksh	Mouth	MOUTH	674	kʷ ɨ ʂ a	kʷɨʂa	35	kʷ ɨ ʂ a
+587	Mab	Mouth	MOUTH	674	kʷ a ts a	ikwatsa	35	kʷ a ts a
+238	Mar	Mouth	MOUTH	674	k ɨ ʃ a	kɨʃa	35	k ɨ ʃ a
+437	Maw	Mouth	MOUTH	674	k ɨ ʃ a	kɨʃa	35	k ɨ ʃ a
+434	Poy	Mouth	MOUTH	674	k ɨ x a	kɨxaa	35	k ɨ x a
+234	ProPa	Mouth	MOUTH	674	kʷ ɨ ʂ a	kʷɨʂa	35	kʷ ɨ ʂ a
+233	ProPaTa	Mouth	MOUTH	674	kʷ e ʂ a	kʷeʂa	35	kʷ e ʂ a
+583	ProTa	Mouth	MOUTH	674	kʷ a tʂ a	kʷatʂa	35	kʷ a tʂ a
+585	ReyMar	Mouth	MOUTH	674	kʷ a tʂ a	e-kwaca	35	kʷ a tʂ a
+586	Sap	Mouth	MOUTH	674	kʷ a tʃ a	ecuacha	35	kʷ a tʃ a
+432	Shan	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
+242	Shar	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
+236	SK	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂa	35	k ɨ ʂ a
+584	Tac	Mouth	MOUTH	674	kʷ a tʂ a	e-kwaca	35	kʷ a tʂ a
+590	War	Mouth	MOUTH	674	kʷ a s a	e-kwasa	35	kʷ a s a
+240	Yam	Mouth	MOUTH	674	k ɨ ʂ a	kɨʂã	35	k ɨ ʂ a
+438	Yaw	Mouth	MOUTH	674	k ɨ h a	kɨha	35	k ɨ h a
 #
-743	Ama	NEGATIVE	NOT	m a	-yama	36	m a
-820	Cav	NEGATIVE	NOT	m a	-ma	36	m a
-664	Chak	NEGATIVE	NOT	m a	-yama	36	m a
-821	Ese	NEGATIVE	NOT	m a	-ma	36	m a
-744	HanKax	NEGATIVE	NOT	m a	-ma	36	m a
-662	Kap	NEGATIVE	NOT	m a	yama	36	m a
-741	Kat	NEGATIVE	NOT	m a	yama	36	m a
-665	Kax	NEGATIVE	NOT	m a	-ma	36	m a
-747	Kor	NEGATIVE	NOT	m a	-ma	36	m a
-660	Ksh	NEGATIVE	NOT	m a	-ma	36	m a
-663	Mar	NEGATIVE	NOT	m a	-ma	36	m a
-748	Mat	NEGATIVE	NOT	m a	-ama	36	m a
-745	Maw	NEGATIVE	NOT	m a	-ma	36	m a
-742	Poy	NEGATIVE	NOT	b a	ba	36	b a
-659	ProPa	NEGATIVE	NOT	m a	-yama	36	m a
-658	ProPaTa	NEGATIVE	NOT	m a	-ma	36	m a
-818	ProTa	NEGATIVE	NOT	m a	-ma	36	m a
-740	Shan	NEGATIVE	NOT	m a	-ma	36	m a
-667	Shar	NEGATIVE	NOT	m a	-ma	36	m a
-661	SK	NEGATIVE	NOT	m a	-yama	36	m a
-819	Tac	NEGATIVE	NOT	m a	-ma	36	m a
-666	Yam	NEGATIVE	NOT	m a	maa	36	m a
-746	Yaw	NEGATIVE	NOT	m a	-ma	36	m a
+743	Ama	NEGATIVE	NOT	1240	m a	-yama	36	m a
+820	Cav	NEGATIVE	NOT	1240	m a	-ma	36	m a
+664	Chak	NEGATIVE	NOT	1240	m a	-yama	36	m a
+821	Ese	NEGATIVE	NOT	1240	m a	-ma	36	m a
+744	HanKax	NEGATIVE	NOT	1240	m a	-ma	36	m a
+662	Kap	NEGATIVE	NOT	1240	m a	yama	36	m a
+741	Kat	NEGATIVE	NOT	1240	m a	yama	36	m a
+665	Kax	NEGATIVE	NOT	1240	m a	-ma	36	m a
+747	Kor	NEGATIVE	NOT	1240	m a	-ma	36	m a
+660	Ksh	NEGATIVE	NOT	1240	m a	-ma	36	m a
+663	Mar	NEGATIVE	NOT	1240	m a	-ma	36	m a
+748	Mat	NEGATIVE	NOT	1240	m a	-ama	36	m a
+745	Maw	NEGATIVE	NOT	1240	m a	-ma	36	m a
+742	Poy	NEGATIVE	NOT	1240	b a	ba	36	b a
+659	ProPa	NEGATIVE	NOT	1240	m a	-yama	36	m a
+658	ProPaTa	NEGATIVE	NOT	1240	m a	-ma	36	m a
+818	ProTa	NEGATIVE	NOT	1240	m a	-ma	36	m a
+740	Shan	NEGATIVE	NOT	1240	m a	-ma	36	m a
+667	Shar	NEGATIVE	NOT	1240	m a	-ma	36	m a
+661	SK	NEGATIVE	NOT	1240	m a	-yama	36	m a
+819	Tac	NEGATIVE	NOT	1240	m a	-ma	36	m a
+666	Yam	NEGATIVE	NOT	1240	m a	maa	36	m a
+746	Yaw	NEGATIVE	NOT	1240	m a	-ma	36	m a
 #
-290	Ama	Leaf, to fan	None	p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
-480	Cav	Leaf, to fan	None	p e i	pei-	31	p e - i
-47	Chak	Leaf, to fan	None	p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
-50	Chan	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-481	Ese	Leaf, to fan	None	p e x i	e-pexi	31	p e x i
-291	HanKax	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-45	Kap	Leaf, to fan	None	p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
-288	Kat	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-48	Kax	Leaf, to fan	None	p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
-43	Ksh	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-46	Mar	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-294	Mat	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-295	MatMay	Leaf, to fan	None	p ɨ	pɨ	31	p ɨ - -
-292	Maw	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-289	Poy	Leaf, to fan	None	p u i	puy	31	p u - i
-42	ProPa	Leaf, to fan	None	p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
-41	ProPaTa	Leaf, to fan	None	p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
-479	ProTa	Leaf, to fan	None	p e i	pei	31	p e - i
-287	Shan	Leaf, to fan	None	p ɨ i	pɨj	31	p ɨ - i
-51	Shar	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-44	SK	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-482	War	Leaf, to fan	None	p i o	pio-	31	p i - o
-49	Yam	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-293	Yaw	Leaf, to fan	None	p ɨ i	pɨi	31	p ɨ - i
-321	Ama	Night	None	m ɨ	yamɨː	37	m ɨ - -
-513	Ara	Night	None	m e t e	eméte	37	m e t e
-511	Cav	Night	None	m e t a	meta	37	m e t a
-92	Chan	Night	None	b ɨ	yabɨ	37	b ɨ - -
-512	Ese	Night	None	m e k a	meka-waxe	37	m e k a
-322	HanKax	Night	None	m ɨ	yamɨ	37	m ɨ - -
-88	Kap	Night	None	m ɨ	yamɨ	37	m ɨ - -
-319	Kat	Night	None	m ɨ	yamɨ	37	m ɨ - -
-90	Kax	Night	None	m ɨ t a	yamɨta	37	m ɨ t a
-325	Kor	Night	None	m ɨ t	imɨt	37	m ɨ t -
-86	Ksh	Night	None	m ɨ	imɨ	37	m ɨ - -
-89	Mar	Night	None	m ɨ	yamɨ	37	m ɨ - -
-326	Mat	Night	None	m ɨ d	imɨd	37	m ɨ d -
-323	Maw	Night	None	m ɨ	yamɨ	37	m ɨ - -
-320	Poy	Night	None	∼.b u	iãvu	37	∼.b u - -
-85	ProPa	Night	None	m ɨ t a	yamɨtV	37	m ɨ t a
-84	ProPaTa	Night	None	m ɨ t a	mɨta	37	m ɨ t a
-507	ProTa	Night	None	m e t a	meta	37	m e t a
-509	ReyMar	Night	None	m ai t a	maita	37	m ai t a
-510	Sap	Night	None	m ae t a	maetahe	37	m ae t a
-318	Shan	Night	None	m ɨ	yamɨ	37	m ɨ - -
-93	Shar	Night	None	m ɨ	yamɨ	37	m ɨ - -
-87	SK	Night	None	m ɨ	yamɨ	37	m ɨ - -
-508	Tac	Night	None	m ue t a	mueta	37	m ue t a
-91	Yam	Night	None	m ɨ a	yamɨa	37	m ɨ - a
-324	Yaw	Night	None	m ɨ	iamɨ	37	m ɨ - -
-364	Ama	Moon, Sun	None	b a r i	bari	40	b a r i
-534	Aro	Moon, Sun	None	b a d i	badi	40	b a d i
-535	Cav	Moon, Sun	None	b a d i	badi	40	b a d i
-148	Chak	Moon, Sun	None	β a ɾ i	βaɾi	40	β a ɾ i
-537	Cham	Moon, Sun	None	m a i	mái	40	m a - i
-150	Chan	Moon, Sun	None	ɸ a ɾ i	ɸaɾi	40	ɸ a ɾ i
-536	Ese	Moon, Sun	None	b a ʔ i	baʔi	40	b a ʔ i
-365	HanKax	Moon, Sun	None	b a d i	badi	40	b a d i
-146	Kap	Moon, Sun	None	β a ɾ i	βaɾi	40	β a ɾ i
-362	Kat	Moon, Sun	None	β a ɾ i	βaɾi	40	β a ɾ i
-149	Kax	Moon, Sun	None	β a tʃ i	βatʃi	40	β a tʃ i
-368	Kor	Moon, Sun	None	β a ɬ i	βaɬi	40	β a ɬ i
-144	Ksh	Moon, Sun	None	β a ɾ i	βaɾi	40	β a ɾ i
-147	Mar	Moon, Sun	None	β a ɾ i	vaɾi	40	β a ɾ i
-369	Mat	Moon, Sun	None	b a d i	badi	40	b a d i
-370	MatMay	Moon, Sun	None	b a d i	badiad	40	b a d i
-366	Maw	Moon, Sun	None	ɸ a ɾ i	ɸaɾi	40	ɸ a ɾ i
-363	Poy	Moon, Sun	None	β a ɾ i	βaɾi	40	β a ɾ i
-143	ProPa	Moon, Sun	None	β a r i	βari	40	β a r i
-142	ProPaTa	Moon, Sun	None	b a d i	badi	40	b a d i
-530	ProTa	Moon, Sun	None	b a d i	badi	40	b a d i
-532	ReyMar	Moon, Sun	None	m.b a n.dz i	mbandzi	40	m.b a n.dz i
-533	Sap	Moon, Sun	None	b a r i	bari	40	b a r i
-361	Shan	Moon, Sun	None	f a ɾ i	faɾi	40	f a ɾ i
-151	Shar	Moon, Sun	None	ɸ a r i	ɸari	40	ɸ a r i
-145	SK	Moon, Sun	None	β a ɾ i	βaɾi	40	β a ɾ i
-531	Tac	Moon, Sun	None	b a d i	badi	40	b a d i
-367	Yaw	Moon, Sun	None	β a ɾ i	βaɾi	40	β a ɾ i
-577	Cav	Lip,edge	None	kʷ e	kwesa	32	kʷ e
-221	Chak	Lip,edge	None	k ɨ	kɨβitʃi	32	k ɨ
-578	Ese	Lip,edge	None	kʷ e	e-kwe-ša	32	kʷ e
-424	HanKax	Lip,edge	None	k ɨ	kɨbitʃi	32	k ɨ
-219	Ksh	Lip,edge	None	kʷ ɨ	kʷɨβi-	32	kʷ ɨ
-425	MatMay	Lip,edge	None	kʷ i	kwibi	32	kʷ i
-218	ProPa	Lip,edge	None	kʷ ɨ	kʷɨ-	32	kʷ ɨ
-217	ProPaTa	Lip,edge	None	kʷ ɨ	kʷɨ	32	kʷ ɨ
-574	ProTa	Lip,edge	None	kʷ e	kʷe-	32	kʷ e
-576	ReyMar	Lip,edge	None	kʷ e	kwesa	32	kʷ e
-222	Shar	Lip,edge	None	k u	kuɸirisika	32	k u
-220	SK	Lip,edge	None	k ɨ	kɨβi-	32	k ɨ
-575	Tac	Lip,edge	None	k e	e-ke-ke	32	k e
-719	Ama	1st SG 'I'	None	ɨ	ɨ	1	- ɨ
-777	Aro	1st SG 'I'	None	e	ema	1	- e
-778	Cav	1st SG 'I'	None	e	e-ra	1	- e
-603	Chak	1st SG 'I'	None	ɨ	ɨ	1	- ɨ
-779	Ese	1st SG 'I'	None	e	ea	1	- e
-720	HanKax	1st SG 'I'	None	ɨ	ɨ	1	- ɨ
-602	Kap	1st SG 'I'	None	ʔ ɨ	ʔɨ	1	ʔ ɨ
-600	Ksh	1st SG 'I'	None	ʔ ɨ	ʔɨ	1	ʔ ɨ
-721	Maw	1st SG 'I'	None	ɨ	ɨ	1	- ɨ
-599	ProPa	1st SG 'I'	None	ʔ ɨ	ʔɨ	1	ʔ ɨ
-598	ProPaTa	1st SG 'I'	None	ʔ ɨ	ʔɨ	1	ʔ ɨ
-774	ProTa	1st SG 'I'	None	e	e	1	- e
-776	ReyMar	1st SG 'I'	None	e	e-me	1	- e
-601	SK	1st SG 'I'	None	ʔ ɨ	ʔɨ	1	ʔ ɨ
-775	Tac	1st SG 'I'	None	e	e-ma	1	- e
-604	Yam	1st SG 'I'	None	ɨ	ɨ̃	1	- ɨ
-722	Ama	2nd SG 'you'	None	m i	miya	2	m i
-783	Aro	2nd SG 'you'	None	m i	mitya	2	m i
-784	Cav	2nd SG 'you'	None	m i	mi-kwana	2	m i
-610	Chak	2nd SG 'you'	None	m i	mia	2	m i
-785	Ese	2nd SG 'you'	None	m i	mi-a	2	m i
-723	HanKax	2nd SG 'you'	None	m i	mia	2	m i
-609	Kap	2nd SG 'you'	None	m i	mia	2	m i
-725	Kor	2nd SG 'you'	None	m i	mi	2	m i
-607	Ksh	2nd SG 'you'	None	m i	mii	2	m i
-726	Mat	2nd SG 'you'	None	m i	mi_	2	m i
-727	MatMay	2nd SG 'you'	None	m i	mi_	2	m i
-724	Maw	2nd SG 'you'	None	m i	mia	2	m i
-606	ProPa	2nd SG 'you'	None	m i	mi	2	m i
-605	ProPaTa	2nd SG 'you'	None	m i	mi	2	m i
-780	ProTa	2nd SG 'you'	None	m i	mi	2	m i
-782	ReyMar	2nd SG 'you'	None	m i	mibe	2	m i
-608	SK	2nd SG 'you'	None	m i	mia	2	m i
-781	Tac	2nd SG 'you'	None	m i	mi-ke	2	m i
-611	Yam	2nd SG 'you'	None	m i	mĩ	2	m i
-788	Cav	DEMONSTRATIVE	None	o	o-ho	11	- o
-616	Chak	DEMONSTRATIVE	None	o	oa	11	- o
-789	Ese	DEMONSTRATIVE	None	o	o-haya	11	- o
-614	Ksh	DEMONSTRATIVE	None	u	un_	11	- u
-728	MatMay	DEMONSTRATIVE	None	u	uid	11	- u
-613	ProPa	DEMONSTRATIVE	None	ʔ o	ʔo-	11	ʔ o
-612	ProPaTa	DEMONSTRATIVE	None	ʔ u	ʔu-	11	ʔ u
-786	ProTa	DEMONSTRATIVE	None	u	u-	11	- u
-615	SK	DEMONSTRATIVE	None	o	oa	11	- o
-787	Tac	DEMONSTRATIVE	None	u	u-ha	11	- u
-617	Yam	DEMONSTRATIVE	None	o	oa	11	- o
-792	Cav	DEMONSTRATIVE proximate	None	r e	reeke	13	r e
-622	Chak	DEMONSTRATIVE proximate	None	n o	noa	13	n o
-793	Ese	DEMONSTRATIVE proximate	None	h i	hikio	13	h i
-620	Ksh	DEMONSTRATIVE proximate	None	n ɨ	ɨnɨn_	13	n ɨ
-729	MatMay	DEMONSTRATIVE proximate	None	n ɨ	nɨid	13	n ɨ
-619	ProPa	DEMONSTRATIVE proximate	None	n ɨ	nɨ-	13	n ɨ - - - - - - - - -
-618	ProPaTa	DEMONSTRATIVE proximate	None	r ɨ	Nɨ-	13	r ɨ - - - - - - - - -
-790	ProTa	DEMONSTRATIVE proximate	None	r e	ree-	13	r e
-621	SK	DEMONSTRATIVE proximate	None	n ɨ	nɨ-	13	n ɨ
-791	Tac	DEMONSTRATIVE proximate	None	j e	ye	13	j e
-623	Yam	DEMONSTRATIVE proximate	None	n a	na	13	n a
-797	Cav	GENITIVE	None	kʷ e	-kwe	25	kʷ e -
-798	Ese	GENITIVE	None	kʷ e	-kwe	25	kʷ e -
-626	Ksh	GENITIVE	None	n	=n	25	- - n
-625	ProPa	GENITIVE	None	w ɨ n	-wɨ̃	25	w ɨ n
-624	ProPaTa	GENITIVE	None	gʷ ɨ n	-gʷɨ-n	25	gʷ ɨ n
-794	ProTa	GENITIVE	None	kʷ e	-kʷe	25	kʷ e -
-796	ReyMar	GENITIVE	None	k i	ki-	25	k i -
-627	SK	GENITIVE	None	n	-n	25	- - n
-795	Tac	GENITIVE	None	k e	-ke	25	k e -
-628	Yam	GENITIVE	None	n	-na	25	- - n
-801	Cav	IMPERATIVE	None	kʷ e	-kwe	29	kʷ e
-635	Chak	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-732	HanKax	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-633	Kap	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-731	Kat	IMPERATIVE	None	w ɨ	wɨ	29	w ɨ
-636	Kax	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-631	Ksh	IMPERATIVE	None	ɨ	-ɨ	29	- ɨ
-634	Mar	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-733	Maw	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-630	ProPa	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-629	ProPaTa	IMPERATIVE	None	gʷ ɨ	-gʷɨ	29	gʷ ɨ
-799	ProTa	IMPERATIVE	None	kʷ e	-kʷe	29	kʷ e
-730	Shan	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-638	Shar	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-632	SK	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-800	Tac	IMPERATIVE	None	k e	-ke	29	k e
-637	Yam	IMPERATIVE	None	ɸ ɨ	-ɸɨ	29	ɸ ɨ
-734	Yaw	IMPERATIVE	None	w ɨ	-wɨ	29	w ɨ
-805	Aro	GOING DOWN,DOWNWARD	None	b o t e	-bote	26	b o t e
-806	Cav	GOING DOWN,DOWNWARD	None	b o t e	e-bote	26	b o t e
-807	Ese	GOING DOWN,DOWNWARD	None	ʔ o k e	'oke	26	ʔ o k e
-641	Ksh	GOING DOWN,DOWNWARD	None	b u t	-but	26	b u t -
-735	MatMay	GOING DOWN,DOWNWARD	None	b u d	-bud	26	b u d -
-640	ProPa	GOING DOWN,DOWNWARD	None	β u t	-βut	26	β u t -
-639	ProPaTa	GOING DOWN,DOWNWARD	None	b u t ɨ	-but[ɨ]	26	b u t ɨ
-802	ProTa	GOING DOWN,DOWNWARD	None	b u t e	-bu[te]	26	b u t e
-804	ReyMar	GOING DOWN,DOWNWARD	None	b u t e	bute	26	b u t e
-803	Tac	GOING DOWN,DOWNWARD	None	b u t e	e-bute-hi	26	b u t e
-736	Ama	DO COMING	None	b ɨ	-vɨran	17	b ɨ
-811	Cav	DO COMING	None	b e	-be	17	b e
-646	Chak	DO COMING	None	b ɨ	-bɨna	17	b ɨ
-812	Ese	DO COMING	None	b e	-jebe	17	b e
-644	Ksh	DO COMING	None	b ɨ	-bɨtsin	17	b ɨ
-737	MatMay	DO COMING	None	b ɨ	-bɨtsen	17	b ɨ
-643	ProPa	DO COMING	None	β ɨ	-βɨ	17	β ɨ
-642	ProPaTa	DO COMING	None	b ɨ	-bɨ	17	b ɨ
-808	ProTa	DO COMING	None	b e	-be	17	b e
-810	ReyMar	DO COMING	None	b e	-bebe	17	b e
-645	SK	DO COMING	None	b ɨ	-bɨiran	17	b ɨ
-809	Tac	DO COMING	None	b e	-be	17	b e
-647	Yam	DO COMING	None	ɸ ɨ	-ɸɨran	17	ɸ ɨ
-738	Ama	DESIDERATIVE	None	k a ts i	-katsi	14	k a ts i
-815	Aro	DESIDERATIVE	None	h a e	-hae	14	h a - e
-816	Cav	DESIDERATIVE	None	k a r a	-kara	14	k a r a
-654	Chak	DESIDERATIVE	None	k a s	-kas-	14	k a s -
-817	Ese	DESIDERATIVE	None	s a	-sa	14	- - s a
-652	Kap	DESIDERATIVE	None	k a ts i	-katsiʔ-	14	k a ts i
-655	Kax	DESIDERATIVE	None	k a ts a	-katsa	14	k a ts a
-650	Ksh	DESIDERATIVE	None	k a s	-kas	14	k a s -
-653	Mar	DESIDERATIVE	None	k a ts i	-katsi	14	k a ts i
-739	MatMay	DESIDERATIVE	None	k a s	-kas-	14	k a s -
-649	ProPa	DESIDERATIVE	None	k a ts a	-katsa	14	k a ts a
-648	ProPaTa	DESIDERATIVE	None	k a ts a	-katsa	14	k a ts a
-813	ProTa	DESIDERATIVE	None	k a ts a	-katsa	14	k a ts a
-657	Shar	DESIDERATIVE	None	k a s	-kas-mai	14	k a s -
-651	SK	DESIDERATIVE	None	k a s	-kas	14	k a s -
-814	Tac	DESIDERATIVE	None	ts a	-tsa	14	- - ts a
-656	Yam	DESIDERATIVE	None	k a s	kasma	14	k a s -
-750	Ama	CAUSATIVE	None	m a	-ma-	7	m a
-824	Aro	CAUSATIVE	None	m e	-me	7	m e
-825	Cav	CAUSATIVE	None	m e	-mere	7	m e
-674	Chak	CAUSATIVE	None	m a	-ma	7	m a
-826	Ese	CAUSATIVE	None	m e	-mee	7	m e
-751	HanKax	CAUSATIVE	None	m a	-ma-	7	m a
-672	Kap	CAUSATIVE	None	m a	-ma-	7	m a
-754	Kor	CAUSATIVE	None	m e	-me	7	m e
-670	Ksh	CAUSATIVE	None	m i	-mi-	7	m i
-673	Mar	CAUSATIVE	None	m a	-ma	7	m a
-755	Mat	CAUSATIVE	None	m e	-me	7	m e
-756	MatMay	CAUSATIVE	None	m e	-me	7	m e
-752	Maw	CAUSATIVE	None	m a	-ma	7	m a
-669	ProPa	CAUSATIVE	None	m a	-m[a]	7	m a
-668	ProPaTa	CAUSATIVE	None	m a	-m[a/e]	7	m a
-822	ProTa	CAUSATIVE	None	m e	-me[re]	7	m e
-749	Shan	CAUSATIVE	None	m a	-ma	7	m a
-676	Shar	CAUSATIVE	None	m a	-ma-	7	m a
-671	SK	CAUSATIVE	None	m a	-ma-	7	m a
-823	Tac	CAUSATIVE	None	m e	-me	7	m e
-675	Yam	CAUSATIVE	None	m a	-ma	7	m a
-753	Yaw	CAUSATIVE	None	m a	-ma-	7	m a
-829	Cav	AUGMENTATIVE	None	p a	-pa	3	p a
-681	Chak	AUGMENTATIVE	None	w a	-wa	3	w a
-680	Kap	AUGMENTATIVE	None	w a	-ahhuan	3	w a
-757	MatMay	AUGMENTATIVE	None	p a	-pa	3	p a
-678	ProPa	AUGMENTATIVE	None	p a	pa	3	p a
-677	ProPaTa	AUGMENTATIVE	None	p a	-pa	3	p a
-827	ProTa	AUGMENTATIVE	None	p a	-pa	3	p a
-679	SK	AUGMENTATIVE	None	w a	-n_ewá	3	w a
-828	Tac	AUGMENTATIVE	None	p a	-pa	3	p a
-682	Yam	AUGMENTATIVE	None	f a	-nfã	3	f a
-758	Ama	DO (TR.),AUXILIARY (TR.)	None	ʔ a	ʔa-	16	ʔ a -
-832	Cav	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-689	Chak	DO (TR.),AUXILIARY (TR.)	None	ʔ a	ʔa-	16	ʔ a -
-692	Chan	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-833	Ese	DO (TR.),AUXILIARY (TR.)	None	a k	a-ka-	16	- a k
-759	HanKax	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-687	Kap	DO (TR.),AUXILIARY (TR.)	None	ʔ a	ʔa-	16	ʔ a -
-690	Kax	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-761	Kor	DO (TR.),AUXILIARY (TR.)	None	a k	ak-	16	- a k
-685	Ksh	DO (TR.),AUXILIARY (TR.)	None	ʔ a	ʔa-	16	ʔ a -
-688	Mar	DO (TR.),AUXILIARY (TR.)	None	a	a	16	- a -
-762	Mat	DO (TR.),AUXILIARY (TR.)	None	a k	ak-	16	- a k
-763	MatMay	DO (TR.),AUXILIARY (TR.)	None	a k	ak-	16	- a k
-760	Maw	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-684	ProPa	DO (TR.),AUXILIARY (TR.)	None	ʔ a k	ʔak-	16	ʔ a k
-683	ProPaTa	DO (TR.),AUXILIARY (TR.)	None	ʔ a k	ʔak-	16	ʔ a k
-830	ProTa	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-693	Shar	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-686	SK	DO (TR.),AUXILIARY (TR.)	None	ʔ a	ʔa-	16	ʔ a -
-831	Tac	DO (TR.),AUXILIARY (TR.)	None	a	a-	16	- a -
-691	Yam	DO (TR.),AUXILIARY (TR.)	None	a k	ak-	16	- a k
-837	Cav	TRANSITIVIZER	None	a	-a	41	- a
-697	Chak	TRANSITIVIZER	None	w a	-wa	41	w a
-838	Ese	TRANSITIVIZER	None	a	-a	41	- a
-764	HanKax	TRANSITIVIZER	None	w a	wa-	41	w a
-696	Ksh	TRANSITIVIZER	None	ɔ	-ɔ	41	- ɔ
-695	ProPa	TRANSITIVIZER	None	w a	-wa	41	w a
-694	ProPaTa	TRANSITIVIZER	None	w a	-wa	41	w a
-834	ProTa	TRANSITIVIZER	None	a	-a	41	- a
-836	ReyMar	TRANSITIVIZER	None	a	-a	41	- a
-835	Tac	TRANSITIVIZER	None	a	-a	41	- a
-841	Cav	DETRANSITIVIZER,REFLEXIVE	None	t i	-ti	15	t i
-842	Ese	DETRANSITIVIZER,REFLEXIVE	None	k i	-ki	15	k i
-700	Ksh	DETRANSITIVIZER,REFLEXIVE	None	t	-t	15	t -
-699	ProPa	DETRANSITIVIZER,REFLEXIVE	None	t	-t	15	t -
-698	ProPaTa	DETRANSITIVIZER,REFLEXIVE	None	t i	-ti	15	t i
-839	ProTa	DETRANSITIVIZER,REFLEXIVE	None	t i	-ti	15	t i
-701	SK	DETRANSITIVIZER,REFLEXIVE	None	t	-t	15	t -
-840	Tac	DETRANSITIVIZER,REFLEXIVE	None	t i	-ti	15	t i
-845	Cav	ERGATIVE	None	r a	-ra	18	r a
-846	Ese	ERGATIVE	None	a	-a	18	- a
-706	Kap	ERGATIVE	None	n	-n	18	n -
-704	Ksh	ERGATIVE	None	n	=n	18	n -
-765	MatMay	ERGATIVE	None	n	-n	18	n -
-703	ProPa	ERGATIVE	None	n	-n	18	n -
-702	ProPaTa	ERGATIVE	None	r a	-N[a]	18	r a
-843	ProTa	ERGATIVE	None	r a	-ra	18	r a
-705	SK	ERGATIVE	None	n	=n	18	n -
-844	Tac	ERGATIVE	None	a	-a	18	- a
-766	Ama	PREVIOUS EVENT, SAME-SUBJECT	None	ts o	=çon	38	ts o
-849	Aro	PREVIOUS EVENT, SAME-SUBJECT	None	ts o	-tso	38	ts o
-850	Cav	PREVIOUS EVENT, SAME-SUBJECT	None	ts u	-atsu	38	ts u
-711	Chak	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ o	-ʂo	38	ʂ o
-767	HanKax	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ u	=ʂun	38	ʂ u
-712	Kax	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ u	-ʂu	38	ʂ u
-709	Ksh	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ u	-ʂun	38	ʂ u
-768	Mat	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ u	=ʂun	38	ʂ u
-769	MatMay	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ u	=ʂun	38	ʂ u
-708	ProPa	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ o	-ʂo-n	38	ʂ o
-707	ProPaTa	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ u	-ṣu	38	ʂ u
-847	ProTa	PREVIOUS EVENT, SAME-SUBJECT	None	tʂ u	-ṭṣu	38	tʂ u
-710	SK	PREVIOUS EVENT, SAME-SUBJECT	None	ʂ o	-ʂon	38	ʂ o
-848	Tac	PREVIOUS EVENT, SAME-SUBJECT	None	s u	-su	38	s u
-770	Ama	COMITATIVE,ALONG WITH	None	w ɨ	-wɨ	8	w ɨ - -
-854	Aro	COMITATIVE,ALONG WITH	None	b e t a	beta	8	b e t a
-855	Cav	COMITATIVE,ALONG WITH	None	b e t a	beta	8	b e t a
-717	Chak	COMITATIVE,ALONG WITH	None	b ɨ t a	-bɨta	8	b ɨ t a
-856	Ese	COMITATIVE,ALONG WITH	None	b e k a	beka	8	b e k a
-771	HanKax	COMITATIVE,ALONG WITH	None	b ɨ	-bɨ	8	b ɨ - -
-715	Ksh	COMITATIVE,ALONG WITH	None	b ɨ	-bɨ	8	b ɨ - -
-773	MatMay	COMITATIVE,ALONG WITH	None	b i d	-bid_	8	b i d -
-772	Maw	COMITATIVE,ALONG WITH	None	f ɨ t a	-fɨta	8	f ɨ t a
-714	ProPa	COMITATIVE,ALONG WITH	None	β ɨ t a	βɨta	8	β ɨ t a
-713	ProPaTa	COMITATIVE,ALONG WITH	None	b ɨ t a	bɨta	8	b ɨ t a
-851	ProTa	COMITATIVE,ALONG WITH	None	b e t a	beta	8	b e t a
-853	ReyMar	COMITATIVE,ALONG WITH	None	m.b e t a	mbeta	8	m.b e t a
-716	SK	COMITATIVE,ALONG WITH	None	b ɨ	-bɨ	8	b ɨ - -
-852	Tac	COMITATIVE,ALONG WITH	None	b e t a	beta	8	b e t a
-718	Yam	COMITATIVE,ALONG WITH	None	f ɨ t a	-fɨtã	8	f ɨ t a
+290	Ama	Leaf, to fan	None		p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
+480	Cav	Leaf, to fan	None		p e i	pei-	31	p e - i
+47	Chak	Leaf, to fan	None		p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
+50	Chan	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+481	Ese	Leaf, to fan	None		p e x i	e-pexi	31	p e x i
+291	HanKax	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+45	Kap	Leaf, to fan	None		p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
+288	Kat	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+48	Kax	Leaf, to fan	None		p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
+43	Ksh	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+46	Mar	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+294	Mat	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+295	MatMay	Leaf, to fan	None		p ɨ	pɨ	31	p ɨ - -
+292	Maw	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+289	Poy	Leaf, to fan	None		p u i	puy	31	p u - i
+42	ProPa	Leaf, to fan	None		p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
+41	ProPaTa	Leaf, to fan	None		p ɨ ʔ i	pɨʔi	31	p ɨ ʔ i
+479	ProTa	Leaf, to fan	None		p e i	pei	31	p e - i
+287	Shan	Leaf, to fan	None		p ɨ i	pɨj	31	p ɨ - i
+51	Shar	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+44	SK	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+482	War	Leaf, to fan	None		p i o	pio-	31	p i - o
+49	Yam	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+293	Yaw	Leaf, to fan	None		p ɨ i	pɨi	31	p ɨ - i
+321	Ama	Night	None		m ɨ	yamɨː	37	m ɨ - -
+513	Ara	Night	None		m e t e	eméte	37	m e t e
+511	Cav	Night	None		m e t a	meta	37	m e t a
+92	Chan	Night	None		b ɨ	yabɨ	37	b ɨ - -
+512	Ese	Night	None		m e k a	meka-waxe	37	m e k a
+322	HanKax	Night	None		m ɨ	yamɨ	37	m ɨ - -
+88	Kap	Night	None		m ɨ	yamɨ	37	m ɨ - -
+319	Kat	Night	None		m ɨ	yamɨ	37	m ɨ - -
+90	Kax	Night	None		m ɨ t a	yamɨta	37	m ɨ t a
+325	Kor	Night	None		m ɨ t	imɨt	37	m ɨ t -
+86	Ksh	Night	None		m ɨ	imɨ	37	m ɨ - -
+89	Mar	Night	None		m ɨ	yamɨ	37	m ɨ - -
+326	Mat	Night	None		m ɨ d	imɨd	37	m ɨ d -
+323	Maw	Night	None		m ɨ	yamɨ	37	m ɨ - -
+320	Poy	Night	None		∼.b u	iãvu	37	∼.b u - -
+85	ProPa	Night	None		m ɨ t a	yamɨtV	37	m ɨ t a
+84	ProPaTa	Night	None		m ɨ t a	mɨta	37	m ɨ t a
+507	ProTa	Night	None		m e t a	meta	37	m e t a
+509	ReyMar	Night	None		m ai t a	maita	37	m ai t a
+510	Sap	Night	None		m ae t a	maetahe	37	m ae t a
+318	Shan	Night	None		m ɨ	yamɨ	37	m ɨ - -
+93	Shar	Night	None		m ɨ	yamɨ	37	m ɨ - -
+87	SK	Night	None		m ɨ	yamɨ	37	m ɨ - -
+508	Tac	Night	None		m ue t a	mueta	37	m ue t a
+91	Yam	Night	None		m ɨ a	yamɨa	37	m ɨ - a
+324	Yaw	Night	None		m ɨ	iamɨ	37	m ɨ - -
+364	Ama	Moon, Sun	None		b a r i	bari	40	b a r i
+534	Aro	Moon, Sun	None		b a d i	badi	40	b a d i
+535	Cav	Moon, Sun	None		b a d i	badi	40	b a d i
+148	Chak	Moon, Sun	None		β a ɾ i	βaɾi	40	β a ɾ i
+537	Cham	Moon, Sun	None		m a i	mái	40	m a - i
+150	Chan	Moon, Sun	None		ɸ a ɾ i	ɸaɾi	40	ɸ a ɾ i
+536	Ese	Moon, Sun	None		b a ʔ i	baʔi	40	b a ʔ i
+365	HanKax	Moon, Sun	None		b a d i	badi	40	b a d i
+146	Kap	Moon, Sun	None		β a ɾ i	βaɾi	40	β a ɾ i
+362	Kat	Moon, Sun	None		β a ɾ i	βaɾi	40	β a ɾ i
+149	Kax	Moon, Sun	None		β a tʃ i	βatʃi	40	β a tʃ i
+368	Kor	Moon, Sun	None		β a ɬ i	βaɬi	40	β a ɬ i
+144	Ksh	Moon, Sun	None		β a ɾ i	βaɾi	40	β a ɾ i
+147	Mar	Moon, Sun	None		β a ɾ i	vaɾi	40	β a ɾ i
+369	Mat	Moon, Sun	None		b a d i	badi	40	b a d i
+370	MatMay	Moon, Sun	None		b a d i	badiad	40	b a d i
+366	Maw	Moon, Sun	None		ɸ a ɾ i	ɸaɾi	40	ɸ a ɾ i
+363	Poy	Moon, Sun	None		β a ɾ i	βaɾi	40	β a ɾ i
+143	ProPa	Moon, Sun	None		β a r i	βari	40	β a r i
+142	ProPaTa	Moon, Sun	None		b a d i	badi	40	b a d i
+530	ProTa	Moon, Sun	None		b a d i	badi	40	b a d i
+532	ReyMar	Moon, Sun	None		m.b a n.dz i	mbandzi	40	m.b a n.dz i
+533	Sap	Moon, Sun	None		b a r i	bari	40	b a r i
+361	Shan	Moon, Sun	None		f a ɾ i	faɾi	40	f a ɾ i
+151	Shar	Moon, Sun	None		ɸ a r i	ɸari	40	ɸ a r i
+145	SK	Moon, Sun	None		β a ɾ i	βaɾi	40	β a ɾ i
+531	Tac	Moon, Sun	None		b a d i	badi	40	b a d i
+367	Yaw	Moon, Sun	None		β a ɾ i	βaɾi	40	β a ɾ i
+577	Cav	Lip,edge	None		kʷ e	kwesa	32	kʷ e
+221	Chak	Lip,edge	None		k ɨ	kɨβitʃi	32	k ɨ
+578	Ese	Lip,edge	None		kʷ e	e-kwe-ša	32	kʷ e
+424	HanKax	Lip,edge	None		k ɨ	kɨbitʃi	32	k ɨ
+219	Ksh	Lip,edge	None		kʷ ɨ	kʷɨβi-	32	kʷ ɨ
+425	MatMay	Lip,edge	None		kʷ i	kwibi	32	kʷ i
+218	ProPa	Lip,edge	None		kʷ ɨ	kʷɨ-	32	kʷ ɨ
+217	ProPaTa	Lip,edge	None		kʷ ɨ	kʷɨ	32	kʷ ɨ
+574	ProTa	Lip,edge	None		kʷ e	kʷe-	32	kʷ e
+576	ReyMar	Lip,edge	None		kʷ e	kwesa	32	kʷ e
+222	Shar	Lip,edge	None		k u	kuɸirisika	32	k u
+220	SK	Lip,edge	None		k ɨ	kɨβi-	32	k ɨ
+575	Tac	Lip,edge	None		k e	e-ke-ke	32	k e
+719	Ama	1st SG 'I'	None		ɨ	ɨ	1	- ɨ
+777	Aro	1st SG 'I'	None		e	ema	1	- e
+778	Cav	1st SG 'I'	None		e	e-ra	1	- e
+603	Chak	1st SG 'I'	None		ɨ	ɨ	1	- ɨ
+779	Ese	1st SG 'I'	None		e	ea	1	- e
+720	HanKax	1st SG 'I'	None		ɨ	ɨ	1	- ɨ
+602	Kap	1st SG 'I'	None		ʔ ɨ	ʔɨ	1	ʔ ɨ
+600	Ksh	1st SG 'I'	None		ʔ ɨ	ʔɨ	1	ʔ ɨ
+721	Maw	1st SG 'I'	None		ɨ	ɨ	1	- ɨ
+599	ProPa	1st SG 'I'	None		ʔ ɨ	ʔɨ	1	ʔ ɨ
+598	ProPaTa	1st SG 'I'	None		ʔ ɨ	ʔɨ	1	ʔ ɨ
+774	ProTa	1st SG 'I'	None		e	e	1	- e
+776	ReyMar	1st SG 'I'	None		e	e-me	1	- e
+601	SK	1st SG 'I'	None		ʔ ɨ	ʔɨ	1	ʔ ɨ
+775	Tac	1st SG 'I'	None		e	e-ma	1	- e
+604	Yam	1st SG 'I'	None		ɨ	ɨ̃	1	- ɨ
+722	Ama	2nd SG 'you'	None		m i	miya	2	m i
+783	Aro	2nd SG 'you'	None		m i	mitya	2	m i
+784	Cav	2nd SG 'you'	None		m i	mi-kwana	2	m i
+610	Chak	2nd SG 'you'	None		m i	mia	2	m i
+785	Ese	2nd SG 'you'	None		m i	mi-a	2	m i
+723	HanKax	2nd SG 'you'	None		m i	mia	2	m i
+609	Kap	2nd SG 'you'	None		m i	mia	2	m i
+725	Kor	2nd SG 'you'	None		m i	mi	2	m i
+607	Ksh	2nd SG 'you'	None		m i	mii	2	m i
+726	Mat	2nd SG 'you'	None		m i	mi_	2	m i
+727	MatMay	2nd SG 'you'	None		m i	mi_	2	m i
+724	Maw	2nd SG 'you'	None		m i	mia	2	m i
+606	ProPa	2nd SG 'you'	None		m i	mi	2	m i
+605	ProPaTa	2nd SG 'you'	None		m i	mi	2	m i
+780	ProTa	2nd SG 'you'	None		m i	mi	2	m i
+782	ReyMar	2nd SG 'you'	None		m i	mibe	2	m i
+608	SK	2nd SG 'you'	None		m i	mia	2	m i
+781	Tac	2nd SG 'you'	None		m i	mi-ke	2	m i
+611	Yam	2nd SG 'you'	None		m i	mĩ	2	m i
+788	Cav	DEMONSTRATIVE	None		o	o-ho	11	- o
+616	Chak	DEMONSTRATIVE	None		o	oa	11	- o
+789	Ese	DEMONSTRATIVE	None		o	o-haya	11	- o
+614	Ksh	DEMONSTRATIVE	None		u	un_	11	- u
+728	MatMay	DEMONSTRATIVE	None		u	uid	11	- u
+613	ProPa	DEMONSTRATIVE	None		ʔ o	ʔo-	11	ʔ o
+612	ProPaTa	DEMONSTRATIVE	None		ʔ u	ʔu-	11	ʔ u
+786	ProTa	DEMONSTRATIVE	None		u	u-	11	- u
+615	SK	DEMONSTRATIVE	None		o	oa	11	- o
+787	Tac	DEMONSTRATIVE	None		u	u-ha	11	- u
+617	Yam	DEMONSTRATIVE	None		o	oa	11	- o
+792	Cav	DEMONSTRATIVE proximate	None		r e	reeke	13	r e
+622	Chak	DEMONSTRATIVE proximate	None		n o	noa	13	n o
+793	Ese	DEMONSTRATIVE proximate	None		h i	hikio	13	h i
+620	Ksh	DEMONSTRATIVE proximate	None		n ɨ	ɨnɨn_	13	n ɨ
+729	MatMay	DEMONSTRATIVE proximate	None		n ɨ	nɨid	13	n ɨ
+619	ProPa	DEMONSTRATIVE proximate	None		n ɨ	nɨ-	13	n ɨ - - - - - - - - -
+618	ProPaTa	DEMONSTRATIVE proximate	None		r ɨ	Nɨ-	13	r ɨ - - - - - - - - -
+790	ProTa	DEMONSTRATIVE proximate	None		r e	ree-	13	r e
+621	SK	DEMONSTRATIVE proximate	None		n ɨ	nɨ-	13	n ɨ
+791	Tac	DEMONSTRATIVE proximate	None		j e	ye	13	j e
+623	Yam	DEMONSTRATIVE proximate	None		n a	na	13	n a
+797	Cav	GENITIVE	None		kʷ e	-kwe	25	kʷ e -
+798	Ese	GENITIVE	None		kʷ e	-kwe	25	kʷ e -
+626	Ksh	GENITIVE	None		n	=n	25	- - n
+625	ProPa	GENITIVE	None		w ɨ n	-wɨ̃	25	w ɨ n
+624	ProPaTa	GENITIVE	None		gʷ ɨ n	-gʷɨ-n	25	gʷ ɨ n
+794	ProTa	GENITIVE	None		kʷ e	-kʷe	25	kʷ e -
+796	ReyMar	GENITIVE	None		k i	ki-	25	k i -
+627	SK	GENITIVE	None		n	-n	25	- - n
+795	Tac	GENITIVE	None		k e	-ke	25	k e -
+628	Yam	GENITIVE	None		n	-na	25	- - n
+801	Cav	IMPERATIVE	None		kʷ e	-kwe	29	kʷ e
+635	Chak	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+732	HanKax	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+633	Kap	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+731	Kat	IMPERATIVE	None		w ɨ	wɨ	29	w ɨ
+636	Kax	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+631	Ksh	IMPERATIVE	None		ɨ	-ɨ	29	- ɨ
+634	Mar	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+733	Maw	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+630	ProPa	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+629	ProPaTa	IMPERATIVE	None		gʷ ɨ	-gʷɨ	29	gʷ ɨ
+799	ProTa	IMPERATIVE	None		kʷ e	-kʷe	29	kʷ e
+730	Shan	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+638	Shar	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+632	SK	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+800	Tac	IMPERATIVE	None		k e	-ke	29	k e
+637	Yam	IMPERATIVE	None		ɸ ɨ	-ɸɨ	29	ɸ ɨ
+734	Yaw	IMPERATIVE	None		w ɨ	-wɨ	29	w ɨ
+805	Aro	GOING DOWN,DOWNWARD	None		b o t e	-bote	26	b o t e
+806	Cav	GOING DOWN,DOWNWARD	None		b o t e	e-bote	26	b o t e
+807	Ese	GOING DOWN,DOWNWARD	None		ʔ o k e	'oke	26	ʔ o k e
+641	Ksh	GOING DOWN,DOWNWARD	None		b u t	-but	26	b u t -
+735	MatMay	GOING DOWN,DOWNWARD	None		b u d	-bud	26	b u d -
+640	ProPa	GOING DOWN,DOWNWARD	None		β u t	-βut	26	β u t -
+639	ProPaTa	GOING DOWN,DOWNWARD	None		b u t ɨ	-but[ɨ]	26	b u t ɨ
+802	ProTa	GOING DOWN,DOWNWARD	None		b u t e	-bu[te]	26	b u t e
+804	ReyMar	GOING DOWN,DOWNWARD	None		b u t e	bute	26	b u t e
+803	Tac	GOING DOWN,DOWNWARD	None		b u t e	e-bute-hi	26	b u t e
+736	Ama	DO COMING	None		b ɨ	-vɨran	17	b ɨ
+811	Cav	DO COMING	None		b e	-be	17	b e
+646	Chak	DO COMING	None		b ɨ	-bɨna	17	b ɨ
+812	Ese	DO COMING	None		b e	-jebe	17	b e
+644	Ksh	DO COMING	None		b ɨ	-bɨtsin	17	b ɨ
+737	MatMay	DO COMING	None		b ɨ	-bɨtsen	17	b ɨ
+643	ProPa	DO COMING	None		β ɨ	-βɨ	17	β ɨ
+642	ProPaTa	DO COMING	None		b ɨ	-bɨ	17	b ɨ
+808	ProTa	DO COMING	None		b e	-be	17	b e
+810	ReyMar	DO COMING	None		b e	-bebe	17	b e
+645	SK	DO COMING	None		b ɨ	-bɨiran	17	b ɨ
+809	Tac	DO COMING	None		b e	-be	17	b e
+647	Yam	DO COMING	None		ɸ ɨ	-ɸɨran	17	ɸ ɨ
+738	Ama	DESIDERATIVE	None		k a ts i	-katsi	14	k a ts i
+815	Aro	DESIDERATIVE	None		h a e	-hae	14	h a - e
+816	Cav	DESIDERATIVE	None		k a r a	-kara	14	k a r a
+654	Chak	DESIDERATIVE	None		k a s	-kas-	14	k a s -
+817	Ese	DESIDERATIVE	None		s a	-sa	14	- - s a
+652	Kap	DESIDERATIVE	None		k a ts i	-katsiʔ-	14	k a ts i
+655	Kax	DESIDERATIVE	None		k a ts a	-katsa	14	k a ts a
+650	Ksh	DESIDERATIVE	None		k a s	-kas	14	k a s -
+653	Mar	DESIDERATIVE	None		k a ts i	-katsi	14	k a ts i
+739	MatMay	DESIDERATIVE	None		k a s	-kas-	14	k a s -
+649	ProPa	DESIDERATIVE	None		k a ts a	-katsa	14	k a ts a
+648	ProPaTa	DESIDERATIVE	None		k a ts a	-katsa	14	k a ts a
+813	ProTa	DESIDERATIVE	None		k a ts a	-katsa	14	k a ts a
+657	Shar	DESIDERATIVE	None		k a s	-kas-mai	14	k a s -
+651	SK	DESIDERATIVE	None		k a s	-kas	14	k a s -
+814	Tac	DESIDERATIVE	None		ts a	-tsa	14	- - ts a
+656	Yam	DESIDERATIVE	None		k a s	kasma	14	k a s -
+750	Ama	CAUSATIVE	None		m a	-ma-	7	m a
+824	Aro	CAUSATIVE	None		m e	-me	7	m e
+825	Cav	CAUSATIVE	None		m e	-mere	7	m e
+674	Chak	CAUSATIVE	None		m a	-ma	7	m a
+826	Ese	CAUSATIVE	None		m e	-mee	7	m e
+751	HanKax	CAUSATIVE	None		m a	-ma-	7	m a
+672	Kap	CAUSATIVE	None		m a	-ma-	7	m a
+754	Kor	CAUSATIVE	None		m e	-me	7	m e
+670	Ksh	CAUSATIVE	None		m i	-mi-	7	m i
+673	Mar	CAUSATIVE	None		m a	-ma	7	m a
+755	Mat	CAUSATIVE	None		m e	-me	7	m e
+756	MatMay	CAUSATIVE	None		m e	-me	7	m e
+752	Maw	CAUSATIVE	None		m a	-ma	7	m a
+669	ProPa	CAUSATIVE	None		m a	-m[a]	7	m a
+668	ProPaTa	CAUSATIVE	None		m a	-m[a/e]	7	m a
+822	ProTa	CAUSATIVE	None		m e	-me[re]	7	m e
+749	Shan	CAUSATIVE	None		m a	-ma	7	m a
+676	Shar	CAUSATIVE	None		m a	-ma-	7	m a
+671	SK	CAUSATIVE	None		m a	-ma-	7	m a
+823	Tac	CAUSATIVE	None		m e	-me	7	m e
+675	Yam	CAUSATIVE	None		m a	-ma	7	m a
+753	Yaw	CAUSATIVE	None		m a	-ma-	7	m a
+829	Cav	AUGMENTATIVE	None		p a	-pa	3	p a
+681	Chak	AUGMENTATIVE	None		w a	-wa	3	w a
+680	Kap	AUGMENTATIVE	None		w a	-ahhuan	3	w a
+757	MatMay	AUGMENTATIVE	None		p a	-pa	3	p a
+678	ProPa	AUGMENTATIVE	None		p a	pa	3	p a
+677	ProPaTa	AUGMENTATIVE	None		p a	-pa	3	p a
+827	ProTa	AUGMENTATIVE	None		p a	-pa	3	p a
+679	SK	AUGMENTATIVE	None		w a	-n_ewá	3	w a
+828	Tac	AUGMENTATIVE	None		p a	-pa	3	p a
+682	Yam	AUGMENTATIVE	None		f a	-nfã	3	f a
+758	Ama	DO (TR.),AUXILIARY (TR.)	None		ʔ a	ʔa-	16	ʔ a -
+832	Cav	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+689	Chak	DO (TR.),AUXILIARY (TR.)	None		ʔ a	ʔa-	16	ʔ a -
+692	Chan	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+833	Ese	DO (TR.),AUXILIARY (TR.)	None		a k	a-ka-	16	- a k
+759	HanKax	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+687	Kap	DO (TR.),AUXILIARY (TR.)	None		ʔ a	ʔa-	16	ʔ a -
+690	Kax	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+761	Kor	DO (TR.),AUXILIARY (TR.)	None		a k	ak-	16	- a k
+685	Ksh	DO (TR.),AUXILIARY (TR.)	None		ʔ a	ʔa-	16	ʔ a -
+688	Mar	DO (TR.),AUXILIARY (TR.)	None		a	a	16	- a -
+762	Mat	DO (TR.),AUXILIARY (TR.)	None		a k	ak-	16	- a k
+763	MatMay	DO (TR.),AUXILIARY (TR.)	None		a k	ak-	16	- a k
+760	Maw	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+684	ProPa	DO (TR.),AUXILIARY (TR.)	None		ʔ a k	ʔak-	16	ʔ a k
+683	ProPaTa	DO (TR.),AUXILIARY (TR.)	None		ʔ a k	ʔak-	16	ʔ a k
+830	ProTa	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+693	Shar	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+686	SK	DO (TR.),AUXILIARY (TR.)	None		ʔ a	ʔa-	16	ʔ a -
+831	Tac	DO (TR.),AUXILIARY (TR.)	None		a	a-	16	- a -
+691	Yam	DO (TR.),AUXILIARY (TR.)	None		a k	ak-	16	- a k
+837	Cav	TRANSITIVIZER	None		a	-a	41	- a
+697	Chak	TRANSITIVIZER	None		w a	-wa	41	w a
+838	Ese	TRANSITIVIZER	None		a	-a	41	- a
+764	HanKax	TRANSITIVIZER	None		w a	wa-	41	w a
+696	Ksh	TRANSITIVIZER	None		ɔ	-ɔ	41	- ɔ
+695	ProPa	TRANSITIVIZER	None		w a	-wa	41	w a
+694	ProPaTa	TRANSITIVIZER	None		w a	-wa	41	w a
+834	ProTa	TRANSITIVIZER	None		a	-a	41	- a
+836	ReyMar	TRANSITIVIZER	None		a	-a	41	- a
+835	Tac	TRANSITIVIZER	None		a	-a	41	- a
+841	Cav	DETRANSITIVIZER,REFLEXIVE	None		t i	-ti	15	t i
+842	Ese	DETRANSITIVIZER,REFLEXIVE	None		k i	-ki	15	k i
+700	Ksh	DETRANSITIVIZER,REFLEXIVE	None		t	-t	15	t -
+699	ProPa	DETRANSITIVIZER,REFLEXIVE	None		t	-t	15	t -
+698	ProPaTa	DETRANSITIVIZER,REFLEXIVE	None		t i	-ti	15	t i
+839	ProTa	DETRANSITIVIZER,REFLEXIVE	None		t i	-ti	15	t i
+701	SK	DETRANSITIVIZER,REFLEXIVE	None		t	-t	15	t -
+840	Tac	DETRANSITIVIZER,REFLEXIVE	None		t i	-ti	15	t i
+845	Cav	ERGATIVE	None		r a	-ra	18	r a
+846	Ese	ERGATIVE	None		a	-a	18	- a
+706	Kap	ERGATIVE	None		n	-n	18	n -
+704	Ksh	ERGATIVE	None		n	=n	18	n -
+765	MatMay	ERGATIVE	None		n	-n	18	n -
+703	ProPa	ERGATIVE	None		n	-n	18	n -
+702	ProPaTa	ERGATIVE	None		r a	-N[a]	18	r a
+843	ProTa	ERGATIVE	None		r a	-ra	18	r a
+705	SK	ERGATIVE	None		n	=n	18	n -
+844	Tac	ERGATIVE	None		a	-a	18	- a
+766	Ama	PREVIOUS EVENT, SAME-SUBJECT	None		ts o	=çon	38	ts o
+849	Aro	PREVIOUS EVENT, SAME-SUBJECT	None		ts o	-tso	38	ts o
+850	Cav	PREVIOUS EVENT, SAME-SUBJECT	None		ts u	-atsu	38	ts u
+711	Chak	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ o	-ʂo	38	ʂ o
+767	HanKax	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ u	=ʂun	38	ʂ u
+712	Kax	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ u	-ʂu	38	ʂ u
+709	Ksh	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ u	-ʂun	38	ʂ u
+768	Mat	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ u	=ʂun	38	ʂ u
+769	MatMay	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ u	=ʂun	38	ʂ u
+708	ProPa	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ o	-ʂo-n	38	ʂ o
+707	ProPaTa	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ u	-ṣu	38	ʂ u
+847	ProTa	PREVIOUS EVENT, SAME-SUBJECT	None		tʂ u	-ṭṣu	38	tʂ u
+710	SK	PREVIOUS EVENT, SAME-SUBJECT	None		ʂ o	-ʂon	38	ʂ o
+848	Tac	PREVIOUS EVENT, SAME-SUBJECT	None		s u	-su	38	s u
+770	Ama	COMITATIVE,ALONG WITH	None		w ɨ	-wɨ	8	w ɨ - -
+854	Aro	COMITATIVE,ALONG WITH	None		b e t a	beta	8	b e t a
+855	Cav	COMITATIVE,ALONG WITH	None		b e t a	beta	8	b e t a
+717	Chak	COMITATIVE,ALONG WITH	None		b ɨ t a	-bɨta	8	b ɨ t a
+856	Ese	COMITATIVE,ALONG WITH	None		b e k a	beka	8	b e k a
+771	HanKax	COMITATIVE,ALONG WITH	None		b ɨ	-bɨ	8	b ɨ - -
+715	Ksh	COMITATIVE,ALONG WITH	None		b ɨ	-bɨ	8	b ɨ - -
+773	MatMay	COMITATIVE,ALONG WITH	None		b i d	-bid_	8	b i d -
+772	Maw	COMITATIVE,ALONG WITH	None		f ɨ t a	-fɨta	8	f ɨ t a
+714	ProPa	COMITATIVE,ALONG WITH	None		β ɨ t a	βɨta	8	β ɨ t a
+713	ProPaTa	COMITATIVE,ALONG WITH	None		b ɨ t a	bɨta	8	b ɨ t a
+851	ProTa	COMITATIVE,ALONG WITH	None		b e t a	beta	8	b e t a
+853	ReyMar	COMITATIVE,ALONG WITH	None		m.b e t a	mbeta	8	m.b e t a
+716	SK	COMITATIVE,ALONG WITH	None		b ɨ	-bɨ	8	b ɨ - -
+852	Tac	COMITATIVE,ALONG WITH	None		b e t a	beta	8	b e t a
+718	Yam	COMITATIVE,ALONG WITH	None		f ɨ t a	-fɨtã	8	f ɨ t a
 #
-517	Cav	Skin	SKIN	b i t i	e-biti	39	b i t i
-100	Chak	Skin	SKIN	β i tʃ i	βitʃi	39	β i tʃ i
-102	Chan	Skin	SKIN	ɸ i tʃ i	ɸitʃi	39	ɸ i tʃ i
-328	HanKax	Skin	SKIN	b i tʃ i	bitʃi	39	b i tʃ i
-98	Kap	Skin	SKIN	β i tʃ i	βitʃi	39	β i tʃ i
-101	Kax	Skin	SKIN	b i tʃ i	bitʃi	39	b i tʃ i
-96	Ksh	Skin	SKIN	β i tʃ i	βitʃi	39	β i tʃ i
-99	Mar	Skin	SKIN	β i tʃ i	vitʃi	39	β i tʃ i
-331	Mat	Skin	SKIN	b i ts i	bitsi	39	b i ts i
-332	MatMay	Skin	SKIN	b i ts i	bitsi	39	b i ts i
-329	Maw	Skin	SKIN	ɸ i tʃ i	ɸitʃi	39	ɸ i tʃ i
-95	ProPa	Skin	SKIN	β i ts i	βitsi	39	β i ts i
-94	ProPaTa	Skin	SKIN	b i ts i	bitsi	39	b i ts i
-514	ProTa	Skin	SKIN	b i t i	biti	39	b i t i
-516	ReyMar	Skin	SKIN	m.b i t i	e-mbiti	39	m.b i t i
-327	Shan	Skin	SKIN	f i tʃ i	fitʃi	39	f i tʃ i
-103	Shar	Skin	SKIN	ɸ i tʃ i	ɸitʃi	39	ɸ i tʃ i
-97	SK	Skin	SKIN	β i tʃ i	βitʃi	39	β i tʃ i
-515	Tac	Skin	SKIN	b i t i	e-biti	39	b i t i
-330	Yaw	Skin	SKIN	β ɨ tʃ i	βɨtʃi	39	β ɨ tʃ i
+517	Cav	Skin	SKIN	763	b i t i	e-biti	39	b i t i
+100	Chak	Skin	SKIN	763	β i tʃ i	βitʃi	39	β i tʃ i
+102	Chan	Skin	SKIN	763	ɸ i tʃ i	ɸitʃi	39	ɸ i tʃ i
+328	HanKax	Skin	SKIN	763	b i tʃ i	bitʃi	39	b i tʃ i
+98	Kap	Skin	SKIN	763	β i tʃ i	βitʃi	39	β i tʃ i
+101	Kax	Skin	SKIN	763	b i tʃ i	bitʃi	39	b i tʃ i
+96	Ksh	Skin	SKIN	763	β i tʃ i	βitʃi	39	β i tʃ i
+99	Mar	Skin	SKIN	763	β i tʃ i	vitʃi	39	β i tʃ i
+331	Mat	Skin	SKIN	763	b i ts i	bitsi	39	b i ts i
+332	MatMay	Skin	SKIN	763	b i ts i	bitsi	39	b i ts i
+329	Maw	Skin	SKIN	763	ɸ i tʃ i	ɸitʃi	39	ɸ i tʃ i
+95	ProPa	Skin	SKIN	763	β i ts i	βitsi	39	β i ts i
+94	ProPaTa	Skin	SKIN	763	b i ts i	bitsi	39	b i ts i
+514	ProTa	Skin	SKIN	763	b i t i	biti	39	b i t i
+516	ReyMar	Skin	SKIN	763	m.b i t i	e-mbiti	39	m.b i t i
+327	Shan	Skin	SKIN	763	f i tʃ i	fitʃi	39	f i tʃ i
+103	Shar	Skin	SKIN	763	ɸ i tʃ i	ɸitʃi	39	ɸ i tʃ i
+97	SK	Skin	SKIN	763	β i tʃ i	βitʃi	39	β i tʃ i
+515	Tac	Skin	SKIN	763	b i t i	e-biti	39	b i t i
+330	Yaw	Skin	SKIN	763	β ɨ tʃ i	βɨtʃi	39	β ɨ tʃ i
 #
-371	Ama	You	THOU	m i	miya	47	m i
-544	Ara	You	THOU	m i	mikia	47	m i
-541	Aro	You	THOU	m i	mitya	47	m i
-542	Cav	You	THOU	m i	mi-kwana	47	m i
-157	Chak	You	THOU	m i	mia	47	m i
-543	Ese	You	THOU	m i	mi-a	47	m i
-372	HanKax	You	THOU	m i	mia	47	m i
-156	Kap	You	THOU	m i	mia	47	m i
-374	Kor	You	THOU	m i	mi	47	m i
-154	Ksh	You	THOU	m i	miː	47	m i
-375	Mat	You	THOU	m i	mi_	47	m i
-376	MatMay	You	THOU	m i	mi_	47	m i
-373	Maw	You	THOU	m i	mia	47	m i
-153	ProPa	You	THOU	m i	mi	47	m i
-152	ProPaTa	You	THOU	m i	mi	47	m i
-538	ProTa	You	THOU	m i	mi	47	m i
-540	ReyMar	You	THOU	m i	mibe	47	m i
-155	SK	You	THOU	m i	mia	47	m i
-539	Tac	You	THOU	m i	mi-ke	47	m i
+371	Ama	You	THOU	1215	m i	miya	47	m i
+544	Ara	You	THOU	1215	m i	mikia	47	m i
+541	Aro	You	THOU	1215	m i	mitya	47	m i
+542	Cav	You	THOU	1215	m i	mi-kwana	47	m i
+157	Chak	You	THOU	1215	m i	mia	47	m i
+543	Ese	You	THOU	1215	m i	mi-a	47	m i
+372	HanKax	You	THOU	1215	m i	mia	47	m i
+156	Kap	You	THOU	1215	m i	mia	47	m i
+374	Kor	You	THOU	1215	m i	mi	47	m i
+154	Ksh	You	THOU	1215	m i	miː	47	m i
+375	Mat	You	THOU	1215	m i	mi_	47	m i
+376	MatMay	You	THOU	1215	m i	mi_	47	m i
+373	Maw	You	THOU	1215	m i	mia	47	m i
+153	ProPa	You	THOU	1215	m i	mi	47	m i
+152	ProPaTa	You	THOU	1215	m i	mi	47	m i
+538	ProTa	You	THOU	1215	m i	mi	47	m i
+540	ReyMar	You	THOU	1215	m i	mibe	47	m i
+155	SK	You	THOU	1215	m i	mia	47	m i
+539	Tac	You	THOU	1215	m i	mi-ke	47	m i
 #
-307	Ama	Tongue	TONGUE	h a n a	hana	43	h a n a
-497	Ara	Tongue	TONGUE	a n a	eána	43	- a n a
-493	Cav	Tongue	TONGUE	a n a	y-ana	43	- a n a
-69	Chak	Tongue	TONGUE	h a n a	hana	43	h a n a
-72	Chan	Tongue	TONGUE	a d a	ada	43	- a d a
-494	Ese	Tongue	TONGUE	a n a	eyana	43	- a n a
-308	HanKax	Tongue	TONGUE	h a n a	hana	43	h a n a
-67	Kap	Tongue	TONGUE	h a n a	hana	43	h a n a
-305	Kat	Tongue	TONGUE	a n a	ana	43	- a n a
-70	Kax	Tongue	TONGUE	h a n a	hana	43	h a n a
-311	Kor	Tongue	TONGUE	a n a	ana	43	- a n a
-65	Ksh	Tongue	TONGUE	a n a	ana	43	- a n a
-68	Mar	Tongue	TONGUE	a n a	ana	43	- a n a
-312	Mat	Tongue	TONGUE	a n a	ana	43	- a n a
-309	Maw	Tongue	TONGUE	a n a	ana	43	- a n a
-306	Poy	Tongue	TONGUE	a ∼.d a	ãda	43	- a ∼.d a
-64	ProPa	Tongue	TONGUE	h a n a	hana	43	h a n a
-63	ProPaTa	Tongue	TONGUE	h a n a	hana	43	h a n a
-489	ProTa	Tongue	TONGUE	a n a	ana	43	- a n a
-491	ReyMar	Tongue	TONGUE	a n a	y-ana	43	- a n a
-492	Sap	Tongue	TONGUE	a n a	eana	43	- a n a
-304	Shan	Tongue	TONGUE	a n a	ana	43	- a n a
-73	Shar	Tongue	TONGUE	a n a	ana	43	- a n a
-66	SK	Tongue	TONGUE	h a n a	hana	43	h a n a
-490	Tac	Tongue	TONGUE	a n a	y-ana	43	- a n a
-496	Tia	Tongue	TONGUE	a n a	yana	43	- a n a
-495	War	Tongue	TONGUE	a n a	y-ana	43	- a n a
-71	Yam	Tongue	TONGUE	a n a	ana	43	- a n a
-310	Yaw	Tongue	TONGUE	a n a	anna	43	- a n a
+307	Ama	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+497	Ara	Tongue	TONGUE	1205	a n a	eána	43	- a n a
+493	Cav	Tongue	TONGUE	1205	a n a	y-ana	43	- a n a
+69	Chak	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+72	Chan	Tongue	TONGUE	1205	a d a	ada	43	- a d a
+494	Ese	Tongue	TONGUE	1205	a n a	eyana	43	- a n a
+308	HanKax	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+67	Kap	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+305	Kat	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+70	Kax	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+311	Kor	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+65	Ksh	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+68	Mar	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+312	Mat	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+309	Maw	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+306	Poy	Tongue	TONGUE	1205	a ∼.d a	ãda	43	- a ∼.d a
+64	ProPa	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+63	ProPaTa	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+489	ProTa	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+491	ReyMar	Tongue	TONGUE	1205	a n a	y-ana	43	- a n a
+492	Sap	Tongue	TONGUE	1205	a n a	eana	43	- a n a
+304	Shan	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+73	Shar	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+66	SK	Tongue	TONGUE	1205	h a n a	hana	43	h a n a
+490	Tac	Tongue	TONGUE	1205	a n a	y-ana	43	- a n a
+496	Tia	Tongue	TONGUE	1205	a n a	yana	43	- a n a
+495	War	Tongue	TONGUE	1205	a n a	y-ana	43	- a n a
+71	Yam	Tongue	TONGUE	1205	a n a	ana	43	- a n a
+310	Yaw	Tongue	TONGUE	1205	a n a	anna	43	- a n a
 #
-261	Ama	Tooth	TOOTH	x ɨ	xɨta	44	x ɨ
-461	Ara	Tooth	TOOTH	s e	ese	44	s e
-456	Cav	Tooth	TOOTH	tʂ e	e-ce	44	tʂ e
-17	Chak	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-460	Cham	Tooth	TOOTH	s e	e-sé	44	s e
-457	Ese	Tooth	TOOTH	s e	e-se	44	s e
-262	HanKax	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-15	Kap	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-260	Kat	Tooth	TOOTH	ʂ i	ʂita	44	ʂ i
-18	Kax	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-265	Kor	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-13	Ksh	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-455	Mab	Tooth	TOOTH	ts i	itsi	44	ts i
-16	Mar	Tooth	TOOTH	ʃ ɨ	ʃɨta	44	ʃ ɨ
-266	Mat	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-267	MatMay	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-263	Maw	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-12	ProPa	Tooth	TOOTH	ʂ ɨ	ʂɨ-	44	ʂ ɨ
-11	ProPaTa	Tooth	TOOTH	ʂ ɨ	ʂɨ-	44	ʂ ɨ
-452	ProTa	Tooth	TOOTH	tʂ e	e-ce	44	tʂ e
-453	ReyMar	Tooth	TOOTH	tʂ e	e-ce	44	tʂ e
-454	Sap	Tooth	TOOTH	tʃ e	echee	44	tʃ e
-259	Shan	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-19	Shar	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-14	SK	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
-459	Tia	Tooth	TOOTH	s e	ese	44	s e
-458	War	Tooth	TOOTH	s e	e-sé	44	s e
-264	Yaw	Tooth	TOOTH	ʂ ɨ	ʂɨta	44	ʂ ɨ
+261	Ama	Tooth	TOOTH	1380	x ɨ	xɨta	44	x ɨ
+461	Ara	Tooth	TOOTH	1380	s e	ese	44	s e
+456	Cav	Tooth	TOOTH	1380	tʂ e	e-ce	44	tʂ e
+17	Chak	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+460	Cham	Tooth	TOOTH	1380	s e	e-sé	44	s e
+457	Ese	Tooth	TOOTH	1380	s e	e-se	44	s e
+262	HanKax	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+15	Kap	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+260	Kat	Tooth	TOOTH	1380	ʂ i	ʂita	44	ʂ i
+18	Kax	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+265	Kor	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+13	Ksh	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+455	Mab	Tooth	TOOTH	1380	ts i	itsi	44	ts i
+16	Mar	Tooth	TOOTH	1380	ʃ ɨ	ʃɨta	44	ʃ ɨ
+266	Mat	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+267	MatMay	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+263	Maw	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+12	ProPa	Tooth	TOOTH	1380	ʂ ɨ	ʂɨ-	44	ʂ ɨ
+11	ProPaTa	Tooth	TOOTH	1380	ʂ ɨ	ʂɨ-	44	ʂ ɨ
+452	ProTa	Tooth	TOOTH	1380	tʂ e	e-ce	44	tʂ e
+453	ReyMar	Tooth	TOOTH	1380	tʂ e	e-ce	44	tʂ e
+454	Sap	Tooth	TOOTH	1380	tʃ e	echee	44	tʃ e
+259	Shan	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+19	Shar	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+14	SK	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
+459	Tia	Tooth	TOOTH	1380	s e	ese	44	s e
+458	War	Tooth	TOOTH	1380	s e	e-sé	44	s e
+264	Yaw	Tooth	TOOTH	1380	ʂ ɨ	ʂɨta	44	ʂ ɨ
 #
-254	Ama	Tree	TREE	h i	hiː	45	h i - -
-451	Ara	Tree	TREE	a kʷ i	akui	45	- a kʷ i
-446	Aro	Tree	TREE	a kʷ i	acui	45	- a kʷ i
-448	Cav	Tree	TREE	a kʷ i	akwi	45	- a kʷ i
-7	Chak	Tree	TREE	h i w i	hiwi	45	h i w i
-449	Ese	Tree	TREE	a kʷ i	akwi	45	- a kʷ i
-255	HanKax	Tree	TREE	h i	hi	45	h i - -
-5	Kap	Tree	TREE	h i w i	hiwi	45	h i w i
-252	Kat	Tree	TREE	h i w i	hiwi	45	h i w i
-8	Kax	Tree	TREE	h i w i	hiwi	45	h i w i
-257	Kor	Tree	TREE	i w i	iwi	45	- i w i
-3	Ksh	Tree	TREE	i	i	45	- i - -
-447	Mab	Tree	TREE	a kʷ i	akwi	45	- a kʷ i
-6	Mar	Tree	TREE	i w i	iwi	45	- i w i
-258	MatMay	Tree	TREE	i w i	iwi	45	- i w i
-256	Maw	Tree	TREE	i w i	iwi	45	- i w i
-253	Poy	Tree	TREE	i w i	iwi	45	- i w i
-2	ProPa	Tree	TREE	h i w i	hiwi	45	h i w i
-1	ProPaTa	Tree	TREE	h e gʷ i	hegʷi	45	h e gʷ i
-443	ProTa	Tree	TREE	a kʷ i	akʷi	45	- a kʷ i
-445	ReyMar	Tree	TREE	e k e	ekená	45	- e k e
-251	Shan	Tree	TREE	i w i	iwi	45	- i w i
-10	Shar	Tree	TREE	i ɸ i	iɸi	45	- i ɸ i
-4	SK	Tree	TREE	h i w i	hiwi	45	h i w i
-444	Tac	Tree	TREE	a k i	aki	45	- a k i
-450	War	Tree	TREE	a kʷ i	akwi	45	- a kʷ i
-9	Yam	Tree	TREE	i ɸ i	iɸi	45	- i ɸ i
+254	Ama	Tree	TREE	906	h i	hiː	45	h i - -
+451	Ara	Tree	TREE	906	a kʷ i	akui	45	- a kʷ i
+446	Aro	Tree	TREE	906	a kʷ i	acui	45	- a kʷ i
+448	Cav	Tree	TREE	906	a kʷ i	akwi	45	- a kʷ i
+7	Chak	Tree	TREE	906	h i w i	hiwi	45	h i w i
+449	Ese	Tree	TREE	906	a kʷ i	akwi	45	- a kʷ i
+255	HanKax	Tree	TREE	906	h i	hi	45	h i - -
+5	Kap	Tree	TREE	906	h i w i	hiwi	45	h i w i
+252	Kat	Tree	TREE	906	h i w i	hiwi	45	h i w i
+8	Kax	Tree	TREE	906	h i w i	hiwi	45	h i w i
+257	Kor	Tree	TREE	906	i w i	iwi	45	- i w i
+3	Ksh	Tree	TREE	906	i	i	45	- i - -
+447	Mab	Tree	TREE	906	a kʷ i	akwi	45	- a kʷ i
+6	Mar	Tree	TREE	906	i w i	iwi	45	- i w i
+258	MatMay	Tree	TREE	906	i w i	iwi	45	- i w i
+256	Maw	Tree	TREE	906	i w i	iwi	45	- i w i
+253	Poy	Tree	TREE	906	i w i	iwi	45	- i w i
+2	ProPa	Tree	TREE	906	h i w i	hiwi	45	h i w i
+1	ProPaTa	Tree	TREE	906	h e gʷ i	hegʷi	45	h e gʷ i
+443	ProTa	Tree	TREE	906	a kʷ i	akʷi	45	- a kʷ i
+445	ReyMar	Tree	TREE	906	e k e	ekená	45	- e k e
+251	Shan	Tree	TREE	906	i w i	iwi	45	- i w i
+10	Shar	Tree	TREE	906	i ɸ i	iɸi	45	- i ɸ i
+4	SK	Tree	TREE	906	h i w i	hiwi	45	h i w i
+444	Tac	Tree	TREE	906	a k i	aki	45	- a k i
+450	War	Tree	TREE	906	a kʷ i	akwi	45	- a kʷ i
+9	Yam	Tree	TREE	906	i ɸ i	iɸi	45	- i ɸ i
 #
-271	Ama	Two	TWO	β ɨ	raβɨ	46	β ɨ - -
-466	Aro	Two	TWO	b e t a	beta	46	b e t a
-467	Cav	Two	TWO	b e t a	beta	46	b e t a
-26	Chak	Two	TWO	β ɨ	raβɨ	46	β ɨ - -
-471	Cham	Two	TWO	b e k a	béka	46	b e k a
-29	Chan	Two	TWO	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
-468	Ese	Two	TWO	b e k a	beka	46	b e k a
-24	Kap	Two	TWO	β ɨ	raβɨ	46	β ɨ - -
-269	Kat	Two	TWO	β i	raβi	46	β i - -
-27	Kax	Two	TWO	b ɨ t a	tʃabɨta	46	b ɨ t a
-274	Kor	Two	TWO	β ɨ t	ɬaβɨtpa	46	β ɨ t -
-22	Ksh	Two	TWO	β ɨ	raβɨ	46	β ɨ - -
-25	Mar	Two	TWO	β ɨ	ravɨvakĩ	46	β ɨ - -
-275	Mat	Two	TWO	b ɨ d	dabɨdpa	46	b ɨ d -
-276	MatMay	Two	TWO	ɨ d	daɨd	46	- ɨ d -
-272	Maw	Two	TWO	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
-270	Poy	Two	TWO	β u	raβu	46	β u - -
-21	ProPa	Two	TWO	β ɨ t a	ra-βɨta	46	β ɨ t a
-20	ProPaTa	Two	TWO	b ɨ t a	bɨta	46	b ɨ t a
-462	ProTa	Two	TWO	b e t a	beta	46	b e t a
-464	ReyMar	Two	TWO	m.b e t a	mbeta	46	m.b e t a
-465	Sap	Two	TWO	b e t a	beta	46	b e t a
-268	Shan	Two	TWO	f u	rafu	46	f u - -
-30	Shar	Two	TWO	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
-23	SK	Two	TWO	β ɨ	raβɨ	46	β ɨ - -
-463	Tac	Two	TWO	b e t a	beta	46	b e t a
-470	Tia	Two	TWO	b i k a	bikapiai	46	b i k a
-469	War	Two	TWO	b e a	beabué	46	b e - a
-28	Yam	Two	TWO	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
-273	Yaw	Two	TWO	β ɨ	raβɨ	46	β ɨ - -
+271	Ama	Two	TWO	1498	β ɨ	raβɨ	46	β ɨ - -
+466	Aro	Two	TWO	1498	b e t a	beta	46	b e t a
+467	Cav	Two	TWO	1498	b e t a	beta	46	b e t a
+26	Chak	Two	TWO	1498	β ɨ	raβɨ	46	β ɨ - -
+471	Cham	Two	TWO	1498	b e k a	béka	46	b e k a
+29	Chan	Two	TWO	1498	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
+468	Ese	Two	TWO	1498	b e k a	beka	46	b e k a
+24	Kap	Two	TWO	1498	β ɨ	raβɨ	46	β ɨ - -
+269	Kat	Two	TWO	1498	β i	raβi	46	β i - -
+27	Kax	Two	TWO	1498	b ɨ t a	tʃabɨta	46	b ɨ t a
+274	Kor	Two	TWO	1498	β ɨ t	ɬaβɨtpa	46	β ɨ t -
+22	Ksh	Two	TWO	1498	β ɨ	raβɨ	46	β ɨ - -
+25	Mar	Two	TWO	1498	β ɨ	ravɨvakĩ	46	β ɨ - -
+275	Mat	Two	TWO	1498	b ɨ d	dabɨdpa	46	b ɨ d -
+276	MatMay	Two	TWO	1498	ɨ d	daɨd	46	- ɨ d -
+272	Maw	Two	TWO	1498	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
+270	Poy	Two	TWO	1498	β u	raβu	46	β u - -
+21	ProPa	Two	TWO	1498	β ɨ t a	ra-βɨta	46	β ɨ t a
+20	ProPaTa	Two	TWO	1498	b ɨ t a	bɨta	46	b ɨ t a
+462	ProTa	Two	TWO	1498	b e t a	beta	46	b e t a
+464	ReyMar	Two	TWO	1498	m.b e t a	mbeta	46	m.b e t a
+465	Sap	Two	TWO	1498	b e t a	beta	46	b e t a
+268	Shan	Two	TWO	1498	f u	rafu	46	f u - -
+30	Shar	Two	TWO	1498	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
+23	SK	Two	TWO	1498	β ɨ	raβɨ	46	β ɨ - -
+463	Tac	Two	TWO	1498	b e t a	beta	46	b e t a
+470	Tia	Two	TWO	1498	b i k a	bikapiai	46	b i k a
+469	War	Two	TWO	1498	b e a	beabué	46	b e - a
+28	Yam	Two	TWO	1498	ɸ ɨ	raɸɨ	46	ɸ ɨ - -
+273	Yaw	Two	TWO	1498	β ɨ	raβɨ	46	β ɨ - -
