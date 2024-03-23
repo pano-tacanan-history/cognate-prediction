@@ -1,330 +1,330 @@
-ID	Concept	Concepticon	ProtoTakana	ProtoPano_p	Doculect	Predicted	Form	Evaluation
-1	*encima	ABOVE	beake	βɨakɨ	Shipibo	βɨakɨ		
-2	*achiote	ACHIOTE	maʈʂe	maʂɨ	Shipibo	maʂɨ		
-3	*flecha	ARROW	pisa	p[i/ɨ]sa	Shipibo	p[i/ɨ]sa		
-4	*ceniza	ASH	muru	mono	Shipibo	mono		
-5	*espalda	BACK	bazede	βaʃɨrɨ	Shipibo	βaʃɨnɨ		
-6	*murciélago	BAT	bina	β[i/ɨ]na	Shipibo	β[i/ɨ]na		
-7	*bañar	BATHE	nawi	naɽ[i/ɨ]	Shipibo	naɽ[i/ɨ]		
-8	*barba	BEARD	kʷei	[kʷ/w]ɨ[i/ɨ]	Shipibo	[k/w]ɨ[i/ɨ]		
-9	*morder	BITE	ʈʂu	ʂo	Shipibo	ʂo		
-10	*negro	BLACK	zewe	ʃɨɽɨ	Shipibo	ʃɨɽɨ		
-11	*sangre	BLOOD	ami	am[i/ɨ]	Shipibo	[a/hi]m[i/ɨ]		
-12	*hueso	BONE	ʈʂau	ʂao	Shipibo	ʂao		
-13	*teta	BREAST	aʈʂu	aʂo	Shipibo	[a/hi]ʂo		
-14	*llamar	CALL	iwara	[i/ɨ]ɽana	Shipibo	[i/ɨ]ɽana		
-15	*canoa	CANOE	kʷaba	[kʷ/w]aβa	Shipibo	[k/w]aβa		
-16	*capibara	CAPYBARA	zududu	ʃororo	Shipibo	ʃonono		
-17	*yuca	CASSAVA	kʷawe	[kʷ/w]aɽɨ	Shipibo	[k/w]aɽɨ		
-18	*pecho	CHEST	ʈʂedu	ʂɨro	Shipibo	ʂɨno		
-19	*pecho	CHEST	kʷa	[kʷ/w]a	Shipibo	[k/w]a		
-20	*frío	COLD	wina	ɽ[i/ɨ]na	Shipibo	ɽ[i/ɨ]na		
-21	*algodón	COTTON	wapa	ɽapa	Shipibo	ɽapa		
-22	*gatear	CRAWL	ɽe	rɨ	Shipibo	nɨ		
-23	*paujil	CURASSOW	mapi	map[i/ɨ]	Shipibo	map[i/ɨ]		
-24	*cortar	CUT	saka	saka	Shipibo	saka		
-25	*morir	DIE	manu	mano	Shipibo	mano		
-26	*hacer	DO	a	a	Shipibo	[a/hi]		
-27	*pato	DUCK	suse	sosɨ	Shipibo	sosɨ		
-28	*tierra	EARTH (SOIL)	meʈʂi	mɨʂ[i/ɨ]	Shipibo	mɨʂ[i/ɨ]		
-29	*tierra	EARTH (SOIL)	uwa	oɽa	Shipibo	oɽa		
-30	*huevo	EGG	ka	ka	Shipibo	ka		
-31	*codo	ELBOW	baʈʂu	βaʂo	Shipibo	βaʂo		
-32	*apagar	EXTINGUISH	tiku	[t/ts][i/ɨ]ko	Shipibo	[t/ts/tʃ][i/ɨ]ko		
-33	*ojo	EYE	tuka	[t/ts]oka	Shipibo	[t/ts/tʃ]oka		
-34	*cara	FACE	bu	βo	Shipibo	βo		
-35	*excremento	FAECES (EXCREMENT)	dumi	rom[i/ɨ]	Shipibo	nom[i/ɨ]		
-36	*caer	FALL	daka	raka	Shipibo	naka		
-37	*grasa,gordura	FAT (ORGANIC SUBSTANCE)	ʈʂeri	ʂɨn[i/ɨ]	Shipibo	ʂɨn[i/ɨ]		
-38	*papá	FATHER	tata	[t/ts]a[t/ts]a	Shipibo	[t/ts/tʃ]a[t/ts/tʃ]a		
-39	*terminar,*acabar	FINISH	ape	apɨ	Shipibo	[a/hi]pɨ		
-40	*fuego	FIRE	tiki	[t/ts][i/ɨ]k[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]k[i/ɨ]		
-41	*fuego	FIRE	ti	[t/ts][i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]		
-42	*leña	FIREWOOD	kʷati	[kʷ/w]a[t/ts][i/ɨ]	Shipibo	[k/w]a[t/ts/tʃ][i/ɨ]		
-43	*pez,pescado	FISH	sae	saɨ	Shipibo	saɨ		
-44	*espuma	FOAM	uba	oβa	Shipibo	oβa		
-45	*pié	FOOT	waʈʂi	ɽaʂ[i/ɨ]	Shipibo	ɽaʂ[i/ɨ]		
-46	*pie,pierna	FOOT OR LEG	ʈʂaka	ʂaka	Shipibo	ʂaka		
-47	*fruta	FRUIT	kaka	kaka	Shipibo	kaka		
-48	*dar	GIVE	tia	[t/ts][i/ɨ]a	Shipibo	[t/ts/tʃ][i/ɨ]a		
-49	*bueno	GOOD	sai	sa[i/ɨ]	Shipibo	sa[i/ɨ]		
-50	*crecer	GROW	muɽu	moro	Shipibo	mono		
-51	*cabeza	HEAD	ʈʂapa	ʂapa	Shipibo	ʂapa		
-52	*cabeza	HEAD	juka	soka	Shipibo	soka		
-53	*pesado	HEAVY	bikʷe	β[i/ɨ][kʷ/w]ɨ	Shipibo	β[i/ɨ][k/w]ɨ		
-54	*hipo	HICCOUGH	ʈʂudu	ʂoro	Shipibo	ʂono		
-55	*pegar	HIT	ije	[i/ɨ]sɨ	Shipibo	[i/ɨ]sɨ		
-56	*cuerno	HORN (ANATOMY)	dana	rana	Shipibo	nana		
-57	*caliente	HOT	kʷase	[kʷ/w]asɨ	Shipibo	[k/w]asɨ		
-58	*casa	HOUSE	tare	[t/ts]anɨ	Shipibo	[t/ts/tʃ]anɨ		
-59	*picaflor	HUMMINGBIRD	kʷadidi	[kʷ/w]ar[i/ɨ]r[i/ɨ]	Shipibo	[k/w]an[i/ɨ]n[i/ɨ]		
-60	*tigre	JAGUAR	iba	[i/ɨ]βa	Shipibo	[i/ɨ]βa		
-61	*mandíbula	JAW	ʃawi	saɽ[i/ɨ]	Shipibo	saɽ[i/ɨ]		
-62	*lago	LAKE	bai	βa[i/ɨ]	Shipibo	βa[i/ɨ]		
-63	*acostar,echarse	LIE DOWN	sa	sa	Shipibo	sa		
-64	*hígado	LIVER	takʷa	[t/ts]a[kʷ/w]a	Shipibo	[t/ts/tʃ]a[k/w]a		
-65	*piojo	LOUSE	bia	β[i/ɨ]a	Shipibo	β[i/ɨ]a		
-66	*maíz	MAIZE	ʃike	s[i/ɨ]kɨ	Shipibo	s[i/ɨ]kɨ		
-67	*remedio	MEDICINE	idu	[i/ɨ]ro	Shipibo	[i/ɨ]no		
-68	*luna	MOON	badi	βar[i/ɨ]	Shipibo	βan[i/ɨ]		
-69	*mosquito	MOSQUITO	diʔi	r[i/ɨ]ʔ[i/ɨ]	Shipibo	n[i/ɨ]ʔ[i/ɨ]		
-70	*boca	MOUTH	kʷaʈʂa	[kʷ/w]aʂa	Shipibo	[k/w]aʂa		
-71	*nombre	NAME	bakani	βakan[i/ɨ]	Shipibo	βakan[i/ɨ]		
-72	*cuello,pescuezo	NECK	naka	naka	Shipibo	naka		
-73	*pescuezo,cuello	NECK	piti	p[i/ɨ][t/ts][i/ɨ]	Shipibo	p[i/ɨ][t/ts/tʃ][i/ɨ]		
-74	*sobrino/a	NEPHEW	bu	βo	Shipibo	βo		
-75	*sobrino,sobrina	NEPHEW	ukʷa	o[kʷ/w]a	Shipibo	o[k/w]a		
-76	*quedarse,*tener,*estar	None	ani	an[i/ɨ]	Shipibo	[a/hi]n[i/ɨ]		
-77	*transitivizing suffix	None	a	a	Shipibo	[a/hi]		
-78	*con qué?	None	aʔinike	aʔ[i/ɨ]n[i/ɨ]kɨ	Shipibo	[a/hi]ʔ[i/ɨ]n[i/ɨ]kɨ		
-79	*para qué?	None	aʔipuki	aʔ[i/ɨ]pok[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]pok[i/ɨ]		
-80	*de quién	None	aʔisa	aʔ[i/ɨ]sa	Shipibo	[a/hi]ʔ[i/ɨ]sa		
-81	*interrogación	None	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]		
-82	*chontaloro	None	adune	aronɨ	Shipibo	[a/hi]nonɨ		
-83	*negative suffix	None	ma	ma	Shipibo	ma		
-84	*motacucillo	None	amaʈʂa	amaʂa	Shipibo	[a/hi]maʂa		
-85	*palo santo	None	anani	anan[i/ɨ]	Shipibo	[a/hi]nan[i/ɨ]		
-86	*gualusa	None	anuʔai	anoʔa[i/ɨ]	Shipibo	[a/hi]noʔa[i/ɨ]		
-87	*crecer,agrandar	None	ari	an[i/ɨ]	Shipibo	[a/hi]n[i/ɨ]		
-88	*ajoajo	None	baʔawa	βaʔaɽa	Shipibo	βaʔaɽa		
-89	*cedro	None	baʈʂa	βaʂa	Shipibo	βaʂa		
-90	*gualusa	None	baʈʂi	βaʂ[i/ɨ]	Shipibo	βaʂ[i/ɨ]		
-91	*desidia	None	badu	βaro	Shipibo	βano		
-92	*jochi pintado	None	bakasume	βakasomɨ	Shipibo	βakasomɨ		
-93	*caricari	None	bana	βana	Shipibo	βana		
-94	*acomodar	None	basa	βasa	Shipibo	βasa		
-95	*tostar	None	bazu	βaʃo	Shipibo	βaʃo		
-96	*ventear	None	be	βɨ	Shipibo	βɨ		
-97	*también	None	bea	βɨa	Shipibo	βɨa		
-98	*río arriba	None	beakʷa	βɨa[kʷ/w]a	Shipibo	βɨa[k/w]a		
-99	*buitre negro	None	bedu	βɨro	Shipibo	βɨno		
-100	*garrapata	None	bekʷiʃi	βɨ[kʷ/w][i/ɨ]s[i/ɨ]	Shipibo	βɨ[k/w][i/ɨ]s[i/ɨ]		
-101	*escarbar	None	bere	βɨnɨ	Shipibo	βɨnɨ		
-102	*oso hormiguero,oso perezoso	None	bei	βɨ[i/ɨ]	Shipibo	βɨ[i/ɨ]		
-103	*palma real	None	biʔi	β[i/ɨ]ʔ[i/ɨ]	Shipibo	β[i/ɨ]ʔ[i/ɨ]		
-104	*cuquisa	None	biʃiʃi	β[i/ɨ]s[i/ɨ]s[i/ɨ]	Shipibo	β[i/ɨ]s[i/ɨ]s[i/ɨ]		
-105	*avispo,peto	None	bira	β[i/ɨ]na	Shipibo	β[i/ɨ]na		
-106	*marimono	None	biwa	β[i/ɨ]ɽa	Shipibo	β[i/ɨ]ɽa		
-107	*melero	None	buka	βoka	Shipibo	βoka		
-108	*tucandera	None	buna	βona	Shipibo	βona		
-109	*risueño	None	buɽi	βor[i/ɨ]	Shipibo	βon[i/ɨ]		
-110	*pus,materia	None	busu	βoso	Shipibo	βoso		
-111	*floración	None	ʈʂa	ʂa	Shipibo	ʂa		
-112	*necesito	None	ʈʂaʔa	ʂaʔa	Shipibo	ʂaʔa		
-113	*punta de flecha hecha de tacuara raspada	None	ʈʂati	ʂa[t/ts][i/ɨ]	Shipibo	ʂa[t/ts/tʃ][i/ɨ]		
-114	*dual suffix	None	ʈʂe	ʂɨ	Shipibo	ʂɨ		
-115	*fuerte,agrio	None	ʈʂeʈʂe	ʂɨʂɨ	Shipibo	ʂɨʂɨ		
-116	*puerta,afuera	None	ʈʂekʷe	ʂɨ[kʷ/w]ɨ	Shipibo	ʂɨ[k/w]ɨ		
-117	*atorar	None	ʈʂi	ʂ[i/ɨ]	Shipibo	ʂ[i/ɨ]		
-118	*día,fiesta	None	ʈʂine	ʂ[i/ɨ]nɨ	Shipibo	ʂ[i/ɨ]nɨ		
-119	*marihuí	None	ʈʂiu	ʂ[i/ɨ]o	Shipibo	ʂ[i/ɨ]o		
-120	*excusar	None	ʈʂiwe	ʂ[i/ɨ]ɽɨ	Shipibo	ʂ[i/ɨ]ɽɨ		
-121	*cuando,harto	None	ʈʂunu	ʂono	Shipibo	ʂono		
-122	*aro	None	ʈʂure	ʂonɨ	Shipibo	ʂonɨ		
-123	*adjectivizing suffix	None	da	ra	Shipibo	na		
-124	*tábano	None	dakanabu	rakanaβo	Shipibo	nakanaβo		
-125	*tortuga,peta	None	dati	ra[t/ts][i/ɨ]	Shipibo	na[t/ts/tʃ][i/ɨ]		
-126	*mono nocturno	None	di	r[i/ɨ]	Shipibo	n[i/ɨ]		
-127	*entrar,centro	None	dubi	roβ[i/ɨ]	Shipibo	noβ[i/ɨ]		
-128	*brujo,dios	None	duʈʂi	roʂ[i/ɨ]	Shipibo	noʂ[i/ɨ]		
-129	*moler,tocar	None	dudu	roro	Shipibo	nono		
-130	*mono manechi	None	duʔu	roʔo	Shipibo	noʔo		
-131	*absolutive prefix	None	e	ɨ	Shipibo	ɨ		
-132	*raya	None	ibabi	[i/ɨ]βaβ[i/ɨ]	Shipibo	[i/ɨ]βaβ[i/ɨ]		
-133	*cariño	None	iʃami	[i/ɨ]sam[i/ɨ]	Shipibo	[i/ɨ]sam[i/ɨ]		
-134	*diablo,zorro	None	iʃawa	[i/ɨ]saɽa	Shipibo	[i/ɨ]saɽa		
-135	*hoja,pelo,pluma	None	ina	[i/ɨ]na	Shipibo	[i/ɨ]na		
-136	*japutamu	None	inakʷa	[i/ɨ]na[kʷ/w]a	Shipibo	[i/ɨ]na[k/w]a		
-137	*urupé (cedazo)	None	iɽare	[i/ɨ]ranɨ	Shipibo	[i/ɨ]nanɨ		
-138	*nuevo,ahora	None	ijakʷa	[i/ɨ]sa[kʷ/w]a	Shipibo	[i/ɨ]sa[k/w]a		
-139	*bofe	None	ʃa	sa	Shipibo	sa		
-140	*tareche	None	ʃeʃe	sɨsɨ	Shipibo	sɨsɨ		
-141	*chaquillo (árbol)	None	kama	kama	Shipibo	kama		
-142	*zumaqui (árbol)	None	kape	kapɨ	Shipibo	kapɨ		
-143	*costillo de casa	None	kaʈʂa	kaʂa	Shipibo	kaʂa		
-144	*roll up	None	kaka	kaka	Shipibo	kaka		
-145	*paraba	None	kara	kana	Shipibo	kana		
-146	*agent nominalizer suffix	None	ke	kɨ	Shipibo	kɨ		
-147	*hoy día,ahora	None	kea	kɨa	Shipibo	kɨa		
-148	*sacar,comprar	None	kemi	kɨm[i/ɨ]	Shipibo	kɨm[i/ɨ]		
-149	*haz	None	kere	kɨnɨ	Shipibo	kɨnɨ		
-150	*past participle	None	ki	k[i/ɨ]	Shipibo	k[i/ɨ]		
-151	*pachiuba (palmera)	None	kiri	k[i/ɨ]n[i/ɨ]	Shipibo	k[i/ɨ]n[i/ɨ]		
-152	*campanillo (wild turkey)	None	kuʈʂu	koʂo	Shipibo	koʂo		
-153	*bejuco	None	kunu	kono	Shipibo	kono		
-154	*tigrecillo	None	kuɽi	kor[i/ɨ]	Shipibo	kon[i/ɨ]		
-155	*canoso	None	kuɽu	koro	Shipibo	kono		
-156	*plural suffix, noun and pronoun	None	kʷana	[kʷ/w]ana	Shipibo	[k/w]ana		
-157	*jefe,juez	None	kʷari	[kʷ/w]an[i/ɨ]	Shipibo	[k/w]an[i/ɨ]		
-158	*asomar	None	kʷazi	[kʷ/w]aʃ[i/ɨ]	Shipibo	[k/w]aʃ[i/ɨ]		
-159	*imperative suffix	None	kʷe	[kʷ/w]ɨ	Shipibo	[k/w]ɨ		
-160	*possessive affix	None	kʷe	[kʷ/w]ɨ	Shipibo	[k/w]ɨ		
-161	*tumbar	None	kʷere	[kʷ/w]ɨnɨ	Shipibo	[k/w]ɨnɨ		
-162	*pintado	None	kʷeɽe	[kʷ/w]ɨrɨ	Shipibo	[k/w]ɨnɨ		
-163	*negative/privative suffix	None	ma	ma	Shipibo	ma		
-164	*jochi colorado	None	mada	mara	Shipibo	mana		
-165	*martin pescador (ave)	None	madakapa	marakapa	Shipibo	manakapa		
-166	*bibosi (árbol)	None	maka	maka	Shipibo	maka		
-167	*guerra,enemigo	None	makai	maka[i/ɨ]	Shipibo	maka[i/ɨ]		
-168	*orilla,banda	None	makare	makanɨ	Shipibo	makanɨ		
-169	*palometa (pez)	None	make	makɨ	Shipibo	makɨ		
-170	*saya,majo	None	maku	mako	Shipibo	mako		
-171	*majillo (palmera)	None	makuri	makon[i/ɨ]	Shipibo	makon[i/ɨ]		
-172	*árbol de siringa	None	mani	man[i/ɨ]	Shipibo	man[i/ɨ]		
-173	*llevar,cargar,abrazar	None	mapa	mapa	Shipibo	mapa		
-174	*bruja,hechicero	None	maru	mano	Shipibo	mano		
-175	*caitu (hilo hecho en casa)	None	masi	mas[i/ɨ]	Shipibo	mas[i/ɨ]		
-176	*lagarto,caiman	None	matusa	ma[t/ts]osa	Shipibo	ma[t/ts/tʃ]osa		
-177	*mucho,malo,difícil	None	maza	maʃa	Shipibo	maʃa		
-178	*greda,barro colorado,piedra	None	me	mɨ	Shipibo	mɨ		
-179	*tierra,arena	None	meʃi	mɨs[i/ɨ]	Shipibo	mɨs[i/ɨ]		
-180	*adjective suffix	None	me	mɨ	Shipibo	mɨ		
-181	*vaciar	None	meki	mɨk[i/ɨ]	Shipibo	mɨk[i/ɨ]		
-182	*causative suffix	None	mere	mɨnɨ	Shipibo	mɨnɨ		
-183	*mañana,ayer	None	meta	mɨ[t/ts]a	Shipibo	mɨ[t/ts/tʃ]a		
-184	*celar	None	mewi	mɨɽ[i/ɨ]	Shipibo	mɨɽ[i/ɨ]		
-185	*palabra,hablar,cantar	None	mimi	m[i/ɨ]m[i/ɨ]	Shipibo	m[i/ɨ]m[i/ɨ]		
-186	*pancho	None	miza	m[i/ɨ]ʃa	Shipibo	m[i/ɨ]ʃa		
-187	*arrancar,desplumar	None	muʈʂu	moʂo	Shipibo	moʂo		
-188	*tacuara,flauta	None	muri	mon[i/ɨ]	Shipibo	mon[i/ɨ]		
-189	*gorgojo	None	musu	moso	Shipibo	moso		
-190	*almendro	None	muke	mokɨ	Shipibo	mokɨ		
-191	*agua,lluvia,río	None	na	na	Shipibo	na		
-192	*completive suffix	None	na	na	Shipibo	na		
-193	*tierno,chico	None	nana	nana	Shipibo	nana		
-194	*plátano,pacay	None	nasa	nasa	Shipibo	nasa		
-195	*turiro	None	nawama	naɽama	Shipibo	naɽama		
-196	*defender,tener mezquindad	None	nawe	naɽɨ	Shipibo	naɽɨ		
-197	*parar,pararse	None	neti	nɨ[t/ts][i/ɨ]	Shipibo	nɨ[t/ts/tʃ][i/ɨ]		
-198	*anima,espíritu,corazón	None	niʃu	n[i/ɨ]so	Shipibo	n[i/ɨ]so		
-199	*genio,carácter,conciencia	None	nime	n[i/ɨ]mɨ	Shipibo	n[i/ɨ]mɨ		
-200	*meter,entrar	None	nubi	noβ[i/ɨ]	Shipibo	noβ[i/ɨ]		
-201	*pasto,paja	None	nuʈʂa	noʂa	Shipibo	noʂa		
-202	*árbol con fruto que se comen	None	nui	no[i/ɨ]	Shipibo	no[i/ɨ]		
-203	*augmentative suffix	None	pa	pa	Shipibo	pa		
-204	*carpir	None	paɽu	paro	Shipibo	pano		
-205	*tuerto,gris	None	paza	paʃa	Shipibo	paʃa		
-206	*ventear	None	pei	pɨ[i/ɨ]	Shipibo	pɨ[i/ɨ]		
-207	*un lado,junto,ante,adelante	None	peke	pɨkɨ	Shipibo	pɨkɨ		
-208	*cayapo,balsa	None	peɽe	pɨrɨ	Shipibo	pɨnɨ		
-209	*desenganchar	None	pesu	pɨso	Shipibo	pɨso		
-210	*pasar,atravesar	None	petu	pɨ[t/ts]o	Shipibo	pɨ[t/ts/tʃ]o		
-211	*ligoso	None	pidi	p[i/ɨ]r[i/ɨ]	Shipibo	p[i/ɨ]n[i/ɨ]		
-212	*venir,llegar	None	pue	poɨ	Shipibo	poɨ		
-213	*nominalizing agentive suffix	None	puki	pok[i/ɨ]	Shipibo	pok[i/ɨ]		
-214	*curucusí,luciérnaga	None	purari	ponan[i/ɨ]	Shipibo	ponan[i/ɨ]		
-215	*transivitizing (and instrumental) suffix, mainly pronominal	None	ra	na	Shipibo	na		
-216	*este,aquí	None	ree	nɨɨ	Shipibo	nɨɨ		
-217	*cortar,quebrar	None	ɽa	ra	Shipibo	na		
-218	*juntar,amontonar,acarrear	None	ɽada	rara	Shipibo	nana		
-219	*chapapear,abochornar	None	ɽaɽi	rar[i/ɨ]	Shipibo	nan[i/ɨ]		
-220	*pascana	None	ɽeɽe	rɨrɨ	Shipibo	nɨnɨ		
-221	*zurcir,frunzar	None	ɽiʈʂ	r[i/ɨ]ʂ	Shipibo	n[i/ɨ]ʂ		
-222	*possessive suffix	None	sa	sa	Shipibo	sa		
-223	*fuerte,ácido,agrio	None	saku	sako	Shipibo	sako		
-224	*gallinazo,sucha	None	samani	saman[i/ɨ]	Shipibo	saman[i/ɨ]		
-225	*vena,nervio,tendón	None	saruna	sanona	Shipibo	sanona		
-226	*sarna	None	saɽiɽi	sar[i/ɨ]r[i/ɨ]	Shipibo	san[i/ɨ]n[i/ɨ]		
-227	*madurar,amarillo	None	sawa	saɽa	Shipibo	saɽa		
-228	*chichilo	None	sawi	saɽ[i/ɨ]	Shipibo	saɽ[i/ɨ]		
-229	*venir,andar,tirar	None	se	sɨ	Shipibo	sɨ		
-230	*yacamí (ave)	None	seme	sɨmɨ	Shipibo	sɨmɨ		
-231	*resbaloso,resbalar	None	seri	sɨn[i/ɨ]	Shipibo	sɨn[i/ɨ]		
-232	*cortar,serruchar	None	sikʷi	s[i/ɨ][kʷ/w][i/ɨ]	Shipibo	s[i/ɨ][k/w][i/ɨ]		
-233	*caliente,cocinar	None	sina	s[i/ɨ]na	Shipibo	s[i/ɨ]na		
-234	*mono silbador	None	siroma	s[i/ɨ]noma	Shipibo	s[i/ɨ]noma		
-235	*locative suffix	None	su	so	Shipibo	so		
-236	*juntos,ambos	None	taʈʂe	[t/ts]aʂɨ	Shipibo	[t/ts/tʃ]aʂɨ		
-237	*picotada	None	taʈʂu	[t/ts]aʂo	Shipibo	[t/ts/tʃ]aʂo		
-238	*duro,fuerte	None	tada	[t/ts]ara	Shipibo	[t/ts/tʃ]ana		
-239	*hormiga cazadora	None	tapi	[t/ts]ap[i/ɨ]	Shipibo	[t/ts/tʃ]ap[i/ɨ]		
-240	*calabacera grande (insecto)	None	taɽi	[t/ts]ar[i/ɨ]	Shipibo	[t/ts/tʃ]an[i/ɨ]		
-241	*remar,batir	None	taɽu	[t/ts]aro	Shipibo	[t/ts/tʃ]ano		
-242	*clavar,arreglar	None	tata	[t/ts]a[t/ts]a	Shipibo	[t/ts/tʃ]a[t/ts/tʃ]a		
-243	*matar,cazar	None	tekʷa	[t/ts]ɨ[kʷ/w]a	Shipibo	[t/ts/tʃ]ɨ[k/w]a		
-244	*jacuú	None	temi	[t/ts]ɨm[i/ɨ]	Shipibo	[t/ts/tʃ]ɨm[i/ɨ]		
-245	*chaco	None	tee	[t/ts]ɨɨ	Shipibo	[t/ts/tʃ]ɨɨ		
-246	*tronco,pierna	None	tibu	[t/ts][i/ɨ]βo	Shipibo	[t/ts/tʃ][i/ɨ]βo		
-247	*pierna,falda	None	tiʈʂe	[t/ts][i/ɨ]ʂɨ	Shipibo	[t/ts/tʃ][i/ɨ]ʂɨ		
-248	*atrás,después	None	tike	[t/ts][i/ɨ]kɨ	Shipibo	[t/ts/tʃ][i/ɨ]kɨ		
-249	*reflexive suffix	None	ti	[t/ts][i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]		
-250	*tronar	None	tiɽi	[t/ts][i/ɨ]r[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]n[i/ɨ]		
-251	*quejido	None	tisi	[t/ts][i/ɨ]s[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]s[i/ɨ]		
-252	*pisar,arañar	None	tizi	[t/ts][i/ɨ]ʃ[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]ʃ[i/ɨ]		
-253	*3ra persona	None	tu	[t/ts]o	Shipibo	[t/ts/tʃ]o		
-254	*cortar,trozar	None	tubu	[t/ts]oβo	Shipibo	[t/ts/tʃ]oβo		
-255	*motacú	None	tumi	[t/ts]om[i/ɨ]	Shipibo	[t/ts/tʃ]om[i/ɨ]		
-256	*así	None	u	o	Shipibo	o		
-257	*marfil (palmera)	None	umeɽe	omɨrɨ	Shipibo	omɨnɨ		
-258	*sardina	None	umiʃa	om[i/ɨ]sa	Shipibo	om[i/ɨ]sa		
-259	*chanco de tropa	None	wabu	ɽaβo	Shipibo	ɽaβo		
-260	*sabañon	None	waʈʂi	ɽaʂ[i/ɨ]	Shipibo	ɽaʂ[i/ɨ]		
-261	*abejo	None	wanu	ɽano	Shipibo	ɽano		
-262	*palizado	None	wape	ɽapɨ	Shipibo	ɽapɨ		
-263	*huaracachi (ave)	None	waraka	ɽanaka	Shipibo	ɽanaka		
-264	*toco	None	wari	ɽan[i/ɨ]	Shipibo	ɽan[i/ɨ]		
-265	*abeja,miel	None	wasa	ɽasa	Shipibo	ɽasa		
-266	*desnudar,sacar,destejar	None	wika	ɽ[i/ɨ]ka	Shipibo	ɽ[i/ɨ]ka		
-267	*perdiz chica	None	wiɽiɽi	ɽ[i/ɨ]r[i/ɨ]r[i/ɨ]	Shipibo	ɽ[i/ɨ]n[i/ɨ]n[i/ɨ]		
-268	*colorear	None	wuɽa	ɽora	Shipibo	ɽona		
-269	*plantar,clavar	None	wuju	ɽoso	Shipibo	ɽoso		
-270	*banda	None	ju	so	Shipibo	so		
-271	*past tense	None	za	ʃa	Shipibo	ʃa		
-272	*cerner,punzar	None	zakʷa	ʃa[kʷ/w]a	Shipibo	ʃa[k/w]a		
-273	*sancochar	None	zapa	ʃapa	Shipibo	ʃapa		
-274	*prender	None	zaɽa	ʃara	Shipibo	ʃana		
-275	*barriga,intestinos	None	zere	ʃɨnɨ	Shipibo	ʃɨnɨ		
-276	*ensartar,costurar	None	zu	ʃo	Shipibo	ʃo		
-277	*izquierdo,zurdo	None	ʃani	san[i/ɨ]	Shipibo	san[i/ɨ]		
-278	*desiderative	None	ka	ka	Shipibo	ka		
-279	*viejo	OLD	beru	βɨno	Shipibo	βɨno		
-280	*viejo	OLD	ziri	ʃ[i/ɨ]n[i/ɨ]	Shipibo	ʃ[i/ɨ]n[i/ɨ]		
-281	*uno	ONE	peia	pɨ[i/ɨ]a	Shipibo	pɨ[i/ɨ]a		
-282	*nutria	OTTER	kʷeʈʂara	[kʷ/w]ɨʂana	Shipibo	[k/w]ɨʂana		
-283	*loro	PARROT	kuɽakʷa	kora[kʷ/w]a	Shipibo	kona[k/w]a		
-284	*loro (chico)	PARROT	tui	[t/ts]o[i/ɨ]	Shipibo	[t/ts/tʃ]o[i/ɨ]		
-285	*camino	PATH	diʃi	r[i/ɨ]s[i/ɨ]	Shipibo	n[i/ɨ]s[i/ɨ]		
-286	*lluvia,aguacero	RAIN (PRECIPITATION)	nai	na[i/ɨ]	Shipibo	na[i/ɨ]		
-287	*pariente	RELATIVES	du	ro	Shipibo	no		
-288	*río	RIVER	kʷeri	[kʷ/w]ɨn[i/ɨ]	Shipibo	[k/w]ɨn[i/ɨ]		
-289	*asar	ROAST (SOMETHING)	kʷawi	[kʷ/w]aɽ[i/ɨ]	Shipibo	[k/w]aɽ[i/ɨ]		
-290	*techo	ROOF	kama	kama	Shipibo	kama		
-291	*raíz	ROOT	tiri	[t/ts][i/ɨ]n[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]n[i/ɨ]		
-292	*sal	SALT	banu	βano	Shipibo	βano		
-293	*mirar,ver	SEE	ba	βa	Shipibo	βa		
-294	*agarrar	SEIZE	ina	[i/ɨ]na	Shipibo	[i/ɨ]na		
-295	*piel	SKIN	biti	β[i/ɨ][t/ts][i/ɨ]	Shipibo	β[i/ɨ][t/ts/tʃ][i/ɨ]		
-296	*cielo	SKY	ba	βa	Shipibo	βa		
-297	*cielo	SKY	bare	βanɨ	Shipibo	βanɨ		
-298	*dormir	SLEEP	tawi	[t/ts]aɽ[i/ɨ]	Shipibo	[t/ts/tʃ]aɽ[i/ɨ]		
-299	*chico	SMALL	wai	ɽa[i/ɨ]	Shipibo	ɽa[i/ɨ]		
-300	*humo	SMOKE (EXHAUST)	wani	ɽan[i/ɨ]	Shipibo	ɽan[i/ɨ]		
-301	*víbora	SNAKE	bakʷa	βa[kʷ/w]a	Shipibo	βa[k/w]a		
-302	*ardilla	SQUIRREL	dawapa	raɽapa	Shipibo	naɽapa		
-303	*robar	STEAL	ʈʂiri	ʂ[i/ɨ]n[i/ɨ]	Shipibo	ʂ[i/ɨ]n[i/ɨ]		
-304	*piedra	STONE	tumu	[t/ts]omo	Shipibo	[t/ts/tʃ]omo		
-305	*sol	SUN	ʃeti	sɨ[t/ts][i/ɨ]	Shipibo	sɨ[t/ts/tʃ][i/ɨ]		
-306	*barrer	SWEEP	ʃabu	saβo	Shipibo	saβo		
-307	*dulce	SWEET	bita	β[i/ɨ][t/ts]a	Shipibo	β[i/ɨ][t/ts/tʃ]a		
-308	*nadar	SWIM	beʈʂa	βɨʂa	Shipibo	βɨʂa		
-309	*cola	TAIL	iwa	[i/ɨ]ɽa	Shipibo	[i/ɨ]ɽa		
-310	*tapir	TAPIR	awada	aɽara	Shipibo	[a/hi]ɽana		
-311	*amarrar,atar	TIE	ɽisi	r[i/ɨ]s[i/ɨ]	Shipibo	n[i/ɨ]s[i/ɨ]		
-312	*tabaco	TOBACCO	umasa	omasa	Shipibo	omasa		
-313	*lengua	TONGUE	ana	ana	Shipibo	[a/hi]na		
-314	*diente	TOOTH	ʈʂe	ʂɨ	Shipibo	ʂɨ		
-315	*árbol	TREE	kʷi	[kʷ/w][i/ɨ]	Shipibo	[k/w][i/ɨ]		
-316	*dos	TWO	beta	βɨ[t/ts]a	Shipibo	βɨ[t/ts/tʃ]a		
-317	*voz	VOICE	ʈʂuri	ʂon[i/ɨ]	Shipibo	ʂon[i/ɨ]		
-318	*esperar	WAIT (FOR)	iʃu+a	[i/ɨ]so+a	Shipibo	[i/ɨ]so-a		
-319	*querer	WANT	beiʃi	βɨ[i/ɨ]s[i/ɨ]	Shipibo	βɨ[i/ɨ]s[i/ɨ]		
-320	*lavar	WASH	ʃakʷa	sa[kʷ/w]a	Shipibo	sa[k/w]a		
-321	*1P	WE	ei	ɨ[i/ɨ]	Shipibo	ɨ[i/ɨ]		
-322	*qué?	WHAT	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]		
-323	*blanco	WHITE	pasa	pasa	Shipibo	pasa		
-324	*quién	WHO	aʔira	aʔ[i/ɨ]na	Shipibo	[a/hi]ʔ[i/ɨ]na		
-325	*quién	WHO	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]		
-326	*viento	WIND	beni	βɨn[i/ɨ]	Shipibo	βɨn[i/ɨ]		
-327	*viento	WIND	kʷesi	[kʷ/w]ɨs[i/ɨ]	Shipibo	[k/w]ɨs[i/ɨ]		
-328	*with	WITH	n	n	Shipibo	n		
-329	*2da persona	YOU	mi	m[i/ɨ]	Shipibo	m[i/ɨ]		
+ID	Concept	Concepticon	ProtoTakana	ProtoPano_p	Doculect	Predicted	Form	Evaluation	Meaning
+44	*espuma	FOAM	uba	oβa	Shipibo	oβa	βakuʂ	doubtful	foam
+47	*fruta	FRUIT	kaka	kaka	Shipibo	kaka	kokoti	doubtful	fruit
+102	*oso hormiguero,oso perezoso	None	bei	βɨ[i/ɨ]	Shipibo	βɨ[i/ɨ]	ʂawɨ	doubtful	anteater
+116	*puerta,afuera	None	ʈʂekʷe	ʂɨ[kʷ/w]ɨ	Shipibo	ʂɨ[k/w]ɨ	ʂɨpo-ti	doubtful	door
+127	*entrar,centro	None	dubi	roβ[i/ɨ]	Shipibo	roβ[i/ɨ]	noβi	doubtful	spine of fish, center of fish
+210	*pasar,atravesar	None	petu	pɨ[t/ts]o	Shipibo	pɨ[t/ts/tʃ]o	pɨka-ti	doubtful	pass; check other case of verb first syllable
+285	*camino	PATH	diʃi	r[i/ɨ]s[i/ɨ]	Shipibo	r[i/ɨ]s[i/ɨ]	nii	doubtful	forest; check for two ii?
+311	*amarrar,atar	TIE	ɽisi	r[i/ɨ]s[i/ɨ]	Shipibo	n[i/ɨ]s[i/ɨ]	nɨʂa-ti	doubtful	tie
+8	*barba	BEARD	kʷei	[kʷ/w]ɨ[i/ɨ]	Shipibo	[k/w]ɨ[i/ɨ]	kɨ-ni	exclude	kɨ is mouth, part of ValZar
+11	*sangre	BLOOD	ami	am[i/ɨ]	Shipibo	[a/hi]m[i/ɨ]		exclude	
+12	*hueso	BONE	ʈʂau	ʂao	Shipibo	ʂao		exclude	
+13	*teta	BREAST	aʈʂu	aʂo	Shipibo	[a/hi]ʂo		exclude	
+31	*codo	ELBOW	baʈʂu	βaʂo	Shipibo	βaʂo	----	exclude	
+37	*grasa,gordura	FAT (ORGANIC SUBSTANCE)	ʈʂeri	ʂɨn[i/ɨ]	Shipibo	ʂɨn[i/ɨ]	----	exclude	
+40	*fuego	FIRE	tiki	[t/ts][i/ɨ]k[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]k[i/ɨ]	---	exclude	
+41	*fuego	FIRE	ti	[t/ts][i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]	---	exclude	
+70	*boca	MOUTH	kʷaʈʂa	[kʷ/w]aʂa	Shipibo	[k/w]aʂa	----	exclude	
+295	*piel	SKIN	biti	β[i/ɨ][t/ts][i/ɨ]	Shipibo	β[i/ɨ][t/ts/tʃ][i/ɨ]		exclude	
+313	*lengua	TONGUE	ana	ana	Shipibo	[a/hi]na	----	exclude	
+314	*diente	TOOTH	ʈʂe	ʂɨ	Shipibo	ʂɨ	----	exclude	
+315	*árbol	TREE	kʷi	[kʷ/w][i/ɨ]	Shipibo	[k/w][i/ɨ]	----	exclude	
+316	*dos	TWO	beta	βɨ[t/ts]a	Shipibo	βɨ[t/ts/tʃ]a	----	exclude	
+329	*2da persona	YOU	mi	m[i/ɨ]	Shipibo	m[i/ɨ]	---	exclude	
+2	*achiote	ACHIOTE	maʈʂe	maʂɨ	Shipibo	maʂɨ	maʂɨ	full match	achiote
+6	*murciélago	BAT	bina	β[i/ɨ]na	Shipibo	β[i/ɨ]na	βina	full match	wasp
+14	*llamar	CALL	iwara	[i/ɨ]ɽana	Shipibo	[i/ɨ]ɽana	ɽana-ti	full match	unite, bring together
+17	*yuca	CASSAVA	kʷawe	[kʷ/w]aɽɨ	Shipibo	[k/w]aɽɨ	kaɽɨ	full match	sweet potato
+25	*morir	DIE	manu	mano	Shipibo	mano	mano-ti	full match	get lost and never return
+28	*tierra	EARTH (SOIL)	meʈʂi	mɨʂ[i/ɨ]	Shipibo	mɨʂ[i/ɨ]	mɨʂi	full match	flat, thin
+29	*tierra	EARTH (SOIL)	uwa	oɽa	Shipibo	oɽa	oɽa	full match	cultivated field
+34	*cara	FACE	bu	βo	Shipibo	βo	βo	full match	hair
+57	*caliente	HOT	kʷase	[kʷ/w]asɨ	Shipibo	[k/w]asɨ	wa	full match	cooked; /kʷ a/ is ‘to cook’ in Proto-Pano
+63	*acostar,echarse	LIE DOWN	sa	sa	Shipibo	sa	sa-ati	full match	spill
+87	*crecer,agrandar	None	ari	an[i/ɨ]	Shipibo	[a/hi]n[i/ɨ]	ani-ti	full match	
+105	*avispo,peto	None	bira	β[i/ɨ]na	Shipibo	β[i/ɨ]na	βina	full match	wasp
+108	*tucandera	None	buna	βona	Shipibo	βona	βona	full match	bullet ant
+130	*mono manechi	None	duʔu	roʔo	Shipibo	roʔo	ɽoo	full match	howler monkey, adapted /r/
+243	*matar,cazar	None	tekʷa	[t/ts]ɨ[kʷ/w]a	Shipibo	[t/ts/tʃ]ɨ[k/w]a	tɨka	full match	hunt, attack (of animals)
+279	*viejo	OLD	beru	βɨno	Shipibo	βɨno	βɨno-ti	full match	woman in age ready for marriage
+286	*lluvia,aguacero	RAIN (PRECIPITATION)	nai	na[i/ɨ]	Shipibo	na[i/ɨ]	nai	full match	sky
+304	*piedra	STONE	tumu	[t/ts]omo	Shipibo	[t/ts/tʃ]omo	tʃomo	full match	clay jar
+22	*gatear	CRAWL	ɽe	rɨ	Shipibo	nɨ	mɨʂo-ti	no match	crawl
+124	*tábano	None	dakanabu	rakanaβo	Shipibo	rakanaβo	naka	no match	termite
+73	*pescuezo,cuello	NECK	piti	p[i/ɨ][t/ts][i/ɨ]	Shipibo	p[i/ɨ][t/ts/tʃ][i/ɨ]	tɨ-ʂo	possible	neck-bone, source for prefix
+132	*raya	None	ibabi	[i/ɨ]βaβ[i/ɨ]	Shipibo	[i/ɨ]βaβ[i/ɨ]	iβi	possible	lightning
+307	*dulce	SWEET	bita	β[i/ɨ][t/ts]a	Shipibo	β[i/ɨ][t/ts/tʃ]a	βata	possible	sweet
+326	*viento	WIND	beni	βɨn[i/ɨ]	Shipibo	βɨn[i/ɨ]	niβɨ	possible	wind (metatesis)
+24	*cortar	CUT	saka	saka	Shipibo	saka	ʂatɨ	probably not	cut
+62	*lago	LAKE	bai	βa[i/ɨ]	Shipibo	βa[i/ɨ]	ian	probably not	lago (drop friccative)
+3	*flecha	ARROW	pisa	p[i/ɨ]sa	Shipibo	p[i/ɨ]sa	pia	slight deviation	arrow
+7	*bañar	BATHE	nawi	naɽ[i/ɨ]	Shipibo	naɽ[i/ɨ]	naʂi-ti	slight deviation	bathe
+53	*pesado	HEAVY	bikʷe	β[i/ɨ][kʷ/w]ɨ	Shipibo	β[i/ɨ][k/w]ɨ	iwɨ	slight deviation	heavy
+65	*piojo	LOUSE	bia	β[i/ɨ]a	Shipibo	β[i/ɨ]a	ia	slight deviation	drop friccative
+66	*maíz	MAIZE	ʃike	s[i/ɨ]kɨ	Shipibo	s[i/ɨ]kɨ	ʂɨki	slight deviation	
+76	*quedarse,*tener,*estar	None	ani	an[i/ɨ]	Shipibo	[a/hi]n[i/ɨ]	βanɨ-ti	slight deviation	
+126	*mono nocturno	None	di	r[i/ɨ]	Shipibo	r[i/ɨ]	ɽiɽu	slight deviation	night monkey
+164	*jochi colorado	None	mada	mara	Shipibo	mara	mari	slight deviation	agouti
+179	*tierra,arena	None	meʃi	mɨs[i/ɨ]	Shipibo	mɨs[i/ɨ]	maʃi	slight deviation	sand
+233	*caliente,cocinar	None	sina	s[i/ɨ]na	Shipibo	s[i/ɨ]na	ʂana	slight deviation	hot
+234	*mono silbador	None	siroma	s[i/ɨ]noma	Shipibo	s[i/ɨ]noma	ʃino	slight deviation	black-striped capuchin
+1	*encima	ABOVE	beake	βɨakɨ	Shipibo	βɨakɨ			
+4	*ceniza	ASH	muru	mono	Shipibo	mono			
+5	*espalda	BACK	bazede	βaʃɨrɨ	Shipibo	βaʃɨnɨ			
+9	*morder	BITE	ʈʂu	ʂo	Shipibo	ʂo			
+10	*negro	BLACK	zewe	ʃɨɽɨ	Shipibo	ʃɨɽɨ			
+15	*canoa	CANOE	kʷaba	[kʷ/w]aβa	Shipibo	[k/w]aβa			
+16	*capibara	CAPYBARA	zududu	ʃororo	Shipibo	ʃonono			
+18	*pecho	CHEST	ʈʂedu	ʂɨro	Shipibo	ʂɨno			
+19	*pecho	CHEST	kʷa	[kʷ/w]a	Shipibo	[k/w]a			
+20	*frío	COLD	wina	ɽ[i/ɨ]na	Shipibo	ɽ[i/ɨ]na			
+21	*algodón	COTTON	wapa	ɽapa	Shipibo	ɽapa			
+23	*paujil	CURASSOW	mapi	map[i/ɨ]	Shipibo	map[i/ɨ]			
+26	*hacer	DO	a	a	Shipibo	[a/hi]			
+27	*pato	DUCK	suse	sosɨ	Shipibo	sosɨ			
+30	*huevo	EGG	ka	ka	Shipibo	ka			
+32	*apagar	EXTINGUISH	tiku	[t/ts][i/ɨ]ko	Shipibo	[t/ts/tʃ][i/ɨ]ko			
+33	*ojo	EYE	tuka	[t/ts]oka	Shipibo	[t/ts/tʃ]oka			
+35	*excremento	FAECES (EXCREMENT)	dumi	rom[i/ɨ]	Shipibo	nom[i/ɨ]			
+36	*caer	FALL	daka	raka	Shipibo	naka			
+38	*papá	FATHER	tata	[t/ts]a[t/ts]a	Shipibo	[t/ts/tʃ]a[t/ts/tʃ]a			 
+39	*terminar,*acabar	FINISH	ape	apɨ	Shipibo	[a/hi]pɨ			
+42	*leña	FIREWOOD	kʷati	[kʷ/w]a[t/ts][i/ɨ]	Shipibo	[k/w]a[t/ts/tʃ][i/ɨ]			
+43	*pez,pescado	FISH	sae	saɨ	Shipibo	saɨ			
+45	*pié	FOOT	waʈʂi	ɽaʂ[i/ɨ]	Shipibo	ɽaʂ[i/ɨ]			
+46	*pie,pierna	FOOT OR LEG	ʈʂaka	ʂaka	Shipibo	ʂaka			
+48	*dar	GIVE	tia	[t/ts][i/ɨ]a	Shipibo	[t/ts/tʃ][i/ɨ]a			
+49	*bueno	GOOD	sai	sa[i/ɨ]	Shipibo	sa[i/ɨ]			
+50	*crecer	GROW	muɽu	moro	Shipibo	mono			
+51	*cabeza	HEAD	ʈʂapa	ʂapa	Shipibo	ʂapa			
+52	*cabeza	HEAD	juka	soka	Shipibo	soka			
+54	*hipo	HICCOUGH	ʈʂudu	ʂoro	Shipibo	ʂono			
+55	*pegar	HIT	ije	[i/ɨ]sɨ	Shipibo	[i/ɨ]sɨ			
+56	*cuerno	HORN (ANATOMY)	dana	rana	Shipibo	nana			
+58	*casa	HOUSE	tare	[t/ts]anɨ	Shipibo	[t/ts/tʃ]anɨ			
+59	*picaflor	HUMMINGBIRD	kʷadidi	[kʷ/w]ar[i/ɨ]r[i/ɨ]	Shipibo	[k/w]an[i/ɨ]n[i/ɨ]			
+60	*tigre	JAGUAR	iba	[i/ɨ]βa	Shipibo	[i/ɨ]βa			
+61	*mandíbula	JAW	ʃawi	saɽ[i/ɨ]	Shipibo	saɽ[i/ɨ]			
+64	*hígado	LIVER	takʷa	[t/ts]a[kʷ/w]a	Shipibo	[t/ts/tʃ]a[k/w]a			
+67	*remedio	MEDICINE	idu	[i/ɨ]ro	Shipibo	[i/ɨ]no			
+68	*luna	MOON	badi	βar[i/ɨ]	Shipibo	βan[i/ɨ]			
+69	*mosquito	MOSQUITO	diʔi	r[i/ɨ]ʔ[i/ɨ]	Shipibo	n[i/ɨ]ʔ[i/ɨ]			
+71	*nombre	NAME	bakani	βakan[i/ɨ]	Shipibo	βakan[i/ɨ]			
+72	*cuello,pescuezo	NECK	naka	naka	Shipibo	naka			
+74	*sobrino/a	NEPHEW	bu	βo	Shipibo	βo			
+75	*sobrino,sobrina	NEPHEW	ukʷa	o[kʷ/w]a	Shipibo	o[k/w]a			
+77	*transitivizing suffix	None	a	a	Shipibo	[a/hi]			
+78	*con qué?	None	aʔinike	aʔ[i/ɨ]n[i/ɨ]kɨ	Shipibo	[a/hi]ʔ[i/ɨ]n[i/ɨ]kɨ			
+79	*para qué?	None	aʔipuki	aʔ[i/ɨ]pok[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]pok[i/ɨ]			
+80	*de quién	None	aʔisa	aʔ[i/ɨ]sa	Shipibo	[a/hi]ʔ[i/ɨ]sa			
+81	*interrogación	None	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]			
+82	*chontaloro	None	adune	aronɨ	Shipibo	[a/hi]nonɨ			
+83	*negative suffix	None	ma	ma	Shipibo	ma			
+84	*motacucillo	None	amaʈʂa	amaʂa	Shipibo	[a/hi]maʂa			
+85	*palo santo	None	anani	anan[i/ɨ]	Shipibo	[a/hi]nan[i/ɨ]			
+86	*gualusa	None	anuʔai	anoʔa[i/ɨ]	Shipibo	[a/hi]noʔa[i/ɨ]			
+88	*ajoajo	None	baʔawa	βaʔaɽa	Shipibo	βaʔaɽa			
+89	*cedro	None	baʈʂa	βaʂa	Shipibo	βaʂa			
+90	*gualusa	None	baʈʂi	βaʂ[i/ɨ]	Shipibo	βaʂ[i/ɨ]			
+91	*desidia	None	badu	βaro	Shipibo	βano			
+92	*jochi pintado	None	bakasume	βakasomɨ	Shipibo	βakasomɨ			
+93	*caricari	None	bana	βana	Shipibo	βana			
+94	*acomodar	None	basa	βasa	Shipibo	βasa			
+95	*tostar	None	bazu	βaʃo	Shipibo	βaʃo			
+96	*ventear	None	be	βɨ	Shipibo	βɨ			
+97	*también	None	bea	βɨa	Shipibo	βɨa			
+98	*río arriba	None	beakʷa	βɨa[kʷ/w]a	Shipibo	βɨa[k/w]a			
+99	*buitre negro	None	bedu	βɨro	Shipibo	βɨno			
+100	*garrapata	None	bekʷiʃi	βɨ[kʷ/w][i/ɨ]s[i/ɨ]	Shipibo	βɨ[k/w][i/ɨ]s[i/ɨ]			
+101	*escarbar	None	bere	βɨnɨ	Shipibo	βɨnɨ			
+103	*palma real	None	biʔi	β[i/ɨ]ʔ[i/ɨ]	Shipibo	β[i/ɨ]ʔ[i/ɨ]			
+104	*cuquisa	None	biʃiʃi	β[i/ɨ]s[i/ɨ]s[i/ɨ]	Shipibo	β[i/ɨ]s[i/ɨ]s[i/ɨ]			
+106	*marimono	None	biwa	β[i/ɨ]ɽa	Shipibo	β[i/ɨ]ɽa			
+107	*melero	None	buka	βoka	Shipibo	βoka			
+109	*risueño	None	buɽi	βor[i/ɨ]	Shipibo	βon[i/ɨ]			
+110	*pus,materia	None	busu	βoso	Shipibo	βoso			
+111	*floración	None	ʈʂa	ʂa	Shipibo	ʂa			
+112	*necesito	None	ʈʂaʔa	ʂaʔa	Shipibo	ʂaʔa			
+113	*punta de flecha hecha de tacuara raspada	None	ʈʂati	ʂa[t/ts][i/ɨ]	Shipibo	ʂa[t/ts/tʃ][i/ɨ]			
+114	*dual suffix	None	ʈʂe	ʂɨ	Shipibo	ʂɨ			
+115	*fuerte,agrio	None	ʈʂeʈʂe	ʂɨʂɨ	Shipibo	ʂɨʂɨ			
+117	*atorar	None	ʈʂi	ʂ[i/ɨ]	Shipibo	ʂ[i/ɨ]			
+118	*día,fiesta	None	ʈʂine	ʂ[i/ɨ]nɨ	Shipibo	ʂ[i/ɨ]nɨ			
+119	*marihuí	None	ʈʂiu	ʂ[i/ɨ]o	Shipibo	ʂ[i/ɨ]o			
+120	*excusar	None	ʈʂiwe	ʂ[i/ɨ]ɽɨ	Shipibo	ʂ[i/ɨ]ɽɨ			
+121	*cuando,harto	None	ʈʂunu	ʂono	Shipibo	ʂono			
+122	*aro	None	ʈʂure	ʂonɨ	Shipibo	ʂonɨ			
+123	*adjectivizing suffix	None	da	ra	Shipibo	na			
+125	*tortuga,peta	None	dati	ra[t/ts][i/ɨ]	Shipibo	na[t/ts/tʃ][i/ɨ]			
+128	*brujo,dios	None	duʈʂi	roʂ[i/ɨ]	Shipibo	noʂ[i/ɨ]			
+129	*moler,tocar	None	dudu	roro	Shipibo	nono			
+131	*absolutive prefix	None	e	ɨ	Shipibo	ɨ			
+133	*cariño	None	iʃami	[i/ɨ]sam[i/ɨ]	Shipibo	[i/ɨ]sam[i/ɨ]			
+134	*diablo,zorro	None	iʃawa	[i/ɨ]saɽa	Shipibo	[i/ɨ]saɽa			
+135	*hoja,pelo,pluma	None	ina	[i/ɨ]na	Shipibo	[i/ɨ]na			
+136	*japutamu	None	inakʷa	[i/ɨ]na[kʷ/w]a	Shipibo	[i/ɨ]na[k/w]a			
+137	*urupé (cedazo)	None	iɽare	[i/ɨ]ranɨ	Shipibo	[i/ɨ]nanɨ			
+138	*nuevo,ahora	None	ijakʷa	[i/ɨ]sa[kʷ/w]a	Shipibo	[i/ɨ]sa[k/w]a			
+139	*bofe	None	ʃa	sa	Shipibo	sa			
+140	*tareche	None	ʃeʃe	sɨsɨ	Shipibo	sɨsɨ			
+141	*chaquillo (árbol)	None	kama	kama	Shipibo	kama			
+142	*zumaqui (árbol)	None	kape	kapɨ	Shipibo	kapɨ			
+143	*costillo de casa	None	kaʈʂa	kaʂa	Shipibo	kaʂa			
+144	*roll up	None	kaka	kaka	Shipibo	kaka			
+145	*paraba	None	kara	kana	Shipibo	kana			
+146	*agent nominalizer suffix	None	ke	kɨ	Shipibo	kɨ			
+147	*hoy día,ahora	None	kea	kɨa	Shipibo	kɨa			
+148	*sacar,comprar	None	kemi	kɨm[i/ɨ]	Shipibo	kɨm[i/ɨ]			
+149	*haz	None	kere	kɨnɨ	Shipibo	kɨnɨ			
+150	*past participle	None	ki	k[i/ɨ]	Shipibo	k[i/ɨ]			
+151	*pachiuba (palmera)	None	kiri	k[i/ɨ]n[i/ɨ]	Shipibo	k[i/ɨ]n[i/ɨ]			
+152	*campanillo (wild turkey)	None	kuʈʂu	koʂo	Shipibo	koʂo			
+153	*bejuco	None	kunu	kono	Shipibo	kono			
+154	*tigrecillo	None	kuɽi	kor[i/ɨ]	Shipibo	kon[i/ɨ]			
+155	*canoso	None	kuɽu	koro	Shipibo	kono			
+156	*plural suffix, noun and pronoun	None	kʷana	[kʷ/w]ana	Shipibo	[k/w]ana			
+157	*jefe,juez	None	kʷari	[kʷ/w]an[i/ɨ]	Shipibo	[k/w]an[i/ɨ]			
+158	*asomar	None	kʷazi	[kʷ/w]aʃ[i/ɨ]	Shipibo	[k/w]aʃ[i/ɨ]			
+159	*imperative suffix	None	kʷe	[kʷ/w]ɨ	Shipibo	[k/w]ɨ			
+160	*possessive affix	None	kʷe	[kʷ/w]ɨ	Shipibo	[k/w]ɨ			
+161	*tumbar	None	kʷere	[kʷ/w]ɨnɨ	Shipibo	[k/w]ɨnɨ			
+162	*pintado	None	kʷeɽe	[kʷ/w]ɨrɨ	Shipibo	[k/w]ɨnɨ			
+163	*negative/privative suffix	None	ma	ma	Shipibo	ma			
+165	*martin pescador (ave)	None	madakapa	marakapa	Shipibo	manakapa			
+166	*bibosi (árbol)	None	maka	maka	Shipibo	maka			
+167	*guerra,enemigo	None	makai	maka[i/ɨ]	Shipibo	maka[i/ɨ]			
+168	*orilla,banda	None	makare	makanɨ	Shipibo	makanɨ			
+169	*palometa (pez)	None	make	makɨ	Shipibo	makɨ			
+170	*saya,majo	None	maku	mako	Shipibo	mako			
+171	*majillo (palmera)	None	makuri	makon[i/ɨ]	Shipibo	makon[i/ɨ]			
+172	*árbol de siringa	None	mani	man[i/ɨ]	Shipibo	man[i/ɨ]			
+173	*llevar,cargar,abrazar	None	mapa	mapa	Shipibo	mapa			
+174	*bruja,hechicero	None	maru	mano	Shipibo	mano			
+175	*caitu (hilo hecho en casa)	None	masi	mas[i/ɨ]	Shipibo	mas[i/ɨ]			
+176	*lagarto,caiman	None	matusa	ma[t/ts]osa	Shipibo	ma[t/ts/tʃ]osa			
+177	*mucho,malo,difícil	None	maza	maʃa	Shipibo	maʃa			
+178	*greda,barro colorado,piedra	None	me	mɨ	Shipibo	mɨ			
+180	*adjective suffix	None	me	mɨ	Shipibo	mɨ			
+181	*vaciar	None	meki	mɨk[i/ɨ]	Shipibo	mɨk[i/ɨ]			
+182	*causative suffix	None	mere	mɨnɨ	Shipibo	mɨnɨ			
+183	*mañana,ayer	None	meta	mɨ[t/ts]a	Shipibo	mɨ[t/ts/tʃ]a			
+184	*celar	None	mewi	mɨɽ[i/ɨ]	Shipibo	mɨɽ[i/ɨ]			
+185	*palabra,hablar,cantar	None	mimi	m[i/ɨ]m[i/ɨ]	Shipibo	m[i/ɨ]m[i/ɨ]			
+186	*pancho	None	miza	m[i/ɨ]ʃa	Shipibo	m[i/ɨ]ʃa			
+187	*arrancar,desplumar	None	muʈʂu	moʂo	Shipibo	moʂo			
+188	*tacuara,flauta	None	muri	mon[i/ɨ]	Shipibo	mon[i/ɨ]			
+189	*gorgojo	None	musu	moso	Shipibo	moso			
+190	*almendro	None	muke	mokɨ	Shipibo	mokɨ			
+191	*agua,lluvia,río	None	na	na	Shipibo	na			
+192	*completive suffix	None	na	na	Shipibo	na			
+193	*tierno,chico	None	nana	nana	Shipibo	nana			
+194	*plátano,pacay	None	nasa	nasa	Shipibo	nasa			
+195	*turiro	None	nawama	naɽama	Shipibo	naɽama			
+196	*defender,tener mezquindad	None	nawe	naɽɨ	Shipibo	naɽɨ			
+197	*parar,pararse	None	neti	nɨ[t/ts][i/ɨ]	Shipibo	nɨ[t/ts/tʃ][i/ɨ]			
+198	*anima,espíritu,corazón	None	niʃu	n[i/ɨ]so	Shipibo	n[i/ɨ]so			
+199	*genio,carácter,conciencia	None	nime	n[i/ɨ]mɨ	Shipibo	n[i/ɨ]mɨ			
+200	*meter,entrar	None	nubi	noβ[i/ɨ]	Shipibo	noβ[i/ɨ]			
+201	*pasto,paja	None	nuʈʂa	noʂa	Shipibo	noʂa			
+202	*árbol con fruto que se comen	None	nui	no[i/ɨ]	Shipibo	no[i/ɨ]			
+203	*augmentative suffix	None	pa	pa	Shipibo	pa			
+204	*carpir	None	paɽu	paro	Shipibo	pano			
+205	*tuerto,gris	None	paza	paʃa	Shipibo	paʃa			
+206	*ventear	None	pei	pɨ[i/ɨ]	Shipibo	pɨ[i/ɨ]			
+207	*un lado,junto,ante,adelante	None	peke	pɨkɨ	Shipibo	pɨkɨ			
+208	*cayapo,balsa	None	peɽe	pɨrɨ	Shipibo	pɨnɨ			
+209	*desenganchar	None	pesu	pɨso	Shipibo	pɨso			
+211	*ligoso	None	pidi	p[i/ɨ]r[i/ɨ]	Shipibo	p[i/ɨ]n[i/ɨ]			
+212	*venir,llegar	None	pue	poɨ	Shipibo	poɨ			
+213	*nominalizing agentive suffix	None	puki	pok[i/ɨ]	Shipibo	pok[i/ɨ]			
+214	*curucusí,luciérnaga	None	purari	ponan[i/ɨ]	Shipibo	ponan[i/ɨ]			
+215	*transivitizing (and instrumental) suffix, mainly pronominal	None	ra	na	Shipibo	na			
+216	*este,aquí	None	ree	nɨɨ	Shipibo	nɨɨ			
+217	*cortar,quebrar	None	ɽa	ra	Shipibo	na			
+218	*juntar,amontonar,acarrear	None	ɽada	rara	Shipibo	nana			
+219	*chapapear,abochornar	None	ɽaɽi	rar[i/ɨ]	Shipibo	nan[i/ɨ]			
+220	*pascana	None	ɽeɽe	rɨrɨ	Shipibo	nɨnɨ			
+221	*zurcir,frunzar	None	ɽiʈʂ	r[i/ɨ]ʂ	Shipibo	n[i/ɨ]ʂ			
+222	*possessive suffix	None	sa	sa	Shipibo	sa			
+223	*fuerte,ácido,agrio	None	saku	sako	Shipibo	sako			
+224	*gallinazo,sucha	None	samani	saman[i/ɨ]	Shipibo	saman[i/ɨ]			
+225	*vena,nervio,tendón	None	saruna	sanona	Shipibo	sanona			
+226	*sarna	None	saɽiɽi	sar[i/ɨ]r[i/ɨ]	Shipibo	san[i/ɨ]n[i/ɨ]			
+227	*madurar,amarillo	None	sawa	saɽa	Shipibo	saɽa			
+228	*chichilo	None	sawi	saɽ[i/ɨ]	Shipibo	saɽ[i/ɨ]			
+229	*venir,andar,tirar	None	se	sɨ	Shipibo	sɨ			
+230	*yacamí (ave)	None	seme	sɨmɨ	Shipibo	sɨmɨ			
+231	*resbaloso,resbalar	None	seri	sɨn[i/ɨ]	Shipibo	sɨn[i/ɨ]			
+232	*cortar,serruchar	None	sikʷi	s[i/ɨ][kʷ/w][i/ɨ]	Shipibo	s[i/ɨ][k/w][i/ɨ]			
+235	*locative suffix	None	su	so	Shipibo	so			
+236	*juntos,ambos	None	taʈʂe	[t/ts]aʂɨ	Shipibo	[t/ts/tʃ]aʂɨ			
+237	*picotada	None	taʈʂu	[t/ts]aʂo	Shipibo	[t/ts/tʃ]aʂo			
+238	*duro,fuerte	None	tada	[t/ts]ara	Shipibo	[t/ts/tʃ]ana			
+239	*hormiga cazadora	None	tapi	[t/ts]ap[i/ɨ]	Shipibo	[t/ts/tʃ]ap[i/ɨ]			
+240	*calabacera grande (insecto)	None	taɽi	[t/ts]ar[i/ɨ]	Shipibo	[t/ts/tʃ]an[i/ɨ]			
+241	*remar,batir	None	taɽu	[t/ts]aro	Shipibo	[t/ts/tʃ]ano			
+242	*clavar,arreglar	None	tata	[t/ts]a[t/ts]a	Shipibo	[t/ts/tʃ]a[t/ts/tʃ]a			
+244	*jacuú	None	temi	[t/ts]ɨm[i/ɨ]	Shipibo	[t/ts/tʃ]ɨm[i/ɨ]			
+245	*chaco	None	tee	[t/ts]ɨɨ	Shipibo	[t/ts/tʃ]ɨɨ			
+246	*tronco,pierna	None	tibu	[t/ts][i/ɨ]βo	Shipibo	[t/ts/tʃ][i/ɨ]βo			
+247	*pierna,falda	None	tiʈʂe	[t/ts][i/ɨ]ʂɨ	Shipibo	[t/ts/tʃ][i/ɨ]ʂɨ			
+248	*atrás,después	None	tike	[t/ts][i/ɨ]kɨ	Shipibo	[t/ts/tʃ][i/ɨ]kɨ			
+249	*reflexive suffix	None	ti	[t/ts][i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]			
+250	*tronar	None	tiɽi	[t/ts][i/ɨ]r[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]n[i/ɨ]			
+251	*quejido	None	tisi	[t/ts][i/ɨ]s[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]s[i/ɨ]			
+252	*pisar,arañar	None	tizi	[t/ts][i/ɨ]ʃ[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]ʃ[i/ɨ]			
+253	*3ra persona	None	tu	[t/ts]o	Shipibo	[t/ts/tʃ]o			
+254	*cortar,trozar	None	tubu	[t/ts]oβo	Shipibo	[t/ts/tʃ]oβo			
+255	*motacú	None	tumi	[t/ts]om[i/ɨ]	Shipibo	[t/ts/tʃ]om[i/ɨ]			
+256	*así	None	u	o	Shipibo	o			
+257	*marfil (palmera)	None	umeɽe	omɨrɨ	Shipibo	omɨnɨ			
+258	*sardina	None	umiʃa	om[i/ɨ]sa	Shipibo	om[i/ɨ]sa			
+259	*chanco de tropa	None	wabu	ɽaβo	Shipibo	ɽaβo			
+260	*sabañon	None	waʈʂi	ɽaʂ[i/ɨ]	Shipibo	ɽaʂ[i/ɨ]			
+261	*abejo	None	wanu	ɽano	Shipibo	ɽano			
+262	*palizado	None	wape	ɽapɨ	Shipibo	ɽapɨ			
+263	*huaracachi (ave)	None	waraka	ɽanaka	Shipibo	ɽanaka			
+264	*toco	None	wari	ɽan[i/ɨ]	Shipibo	ɽan[i/ɨ]			
+265	*abeja,miel	None	wasa	ɽasa	Shipibo	ɽasa			
+266	*desnudar,sacar,destejar	None	wika	ɽ[i/ɨ]ka	Shipibo	ɽ[i/ɨ]ka			
+267	*perdiz chica	None	wiɽiɽi	ɽ[i/ɨ]r[i/ɨ]r[i/ɨ]	Shipibo	ɽ[i/ɨ]n[i/ɨ]n[i/ɨ]			
+268	*colorear	None	wuɽa	ɽora	Shipibo	ɽona			
+269	*plantar,clavar	None	wuju	ɽoso	Shipibo	ɽoso			
+270	*banda	None	ju	so	Shipibo	so			
+271	*past tense	None	za	ʃa	Shipibo	ʃa			
+272	*cerner,punzar	None	zakʷa	ʃa[kʷ/w]a	Shipibo	ʃa[k/w]a			
+273	*sancochar	None	zapa	ʃapa	Shipibo	ʃapa			
+274	*prender	None	zaɽa	ʃara	Shipibo	ʃana			
+275	*barriga,intestinos	None	zere	ʃɨnɨ	Shipibo	ʃɨnɨ			
+276	*ensartar,costurar	None	zu	ʃo	Shipibo	ʃo			
+277	*izquierdo,zurdo	None	ʃani	san[i/ɨ]	Shipibo	san[i/ɨ]			
+278	*desiderative	None	ka	ka	Shipibo	ka			
+280	*viejo	OLD	ziri	ʃ[i/ɨ]n[i/ɨ]	Shipibo	ʃ[i/ɨ]n[i/ɨ]			
+281	*uno	ONE	peia	pɨ[i/ɨ]a	Shipibo	pɨ[i/ɨ]a			
+282	*nutria	OTTER	kʷeʈʂara	[kʷ/w]ɨʂana	Shipibo	[k/w]ɨʂana			
+283	*loro	PARROT	kuɽakʷa	kora[kʷ/w]a	Shipibo	kona[k/w]a			
+284	*loro (chico)	PARROT	tui	[t/ts]o[i/ɨ]	Shipibo	[t/ts/tʃ]o[i/ɨ]			
+287	*pariente	RELATIVES	du	ro	Shipibo	no			
+288	*río	RIVER	kʷeri	[kʷ/w]ɨn[i/ɨ]	Shipibo	[k/w]ɨn[i/ɨ]			
+289	*asar	ROAST (SOMETHING)	kʷawi	[kʷ/w]aɽ[i/ɨ]	Shipibo	[k/w]aɽ[i/ɨ]			
+290	*techo	ROOF	kama	kama	Shipibo	kama			
+291	*raíz	ROOT	tiri	[t/ts][i/ɨ]n[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]n[i/ɨ]			
+292	*sal	SALT	banu	βano	Shipibo	βano			
+293	*mirar,ver	SEE	ba	βa	Shipibo	βa			
+294	*agarrar	SEIZE	ina	[i/ɨ]na	Shipibo	[i/ɨ]na			
+296	*cielo	SKY	ba	βa	Shipibo	βa			
+297	*cielo	SKY	bare	βanɨ	Shipibo	βanɨ			
+298	*dormir	SLEEP	tawi	[t/ts]aɽ[i/ɨ]	Shipibo	[t/ts/tʃ]aɽ[i/ɨ]			
+299	*chico	SMALL	wai	ɽa[i/ɨ]	Shipibo	ɽa[i/ɨ]			
+300	*humo	SMOKE (EXHAUST)	wani	ɽan[i/ɨ]	Shipibo	ɽan[i/ɨ]			
+301	*víbora	SNAKE	bakʷa	βa[kʷ/w]a	Shipibo	βa[k/w]a			
+302	*ardilla	SQUIRREL	dawapa	raɽapa	Shipibo	naɽapa			
+303	*robar	STEAL	ʈʂiri	ʂ[i/ɨ]n[i/ɨ]	Shipibo	ʂ[i/ɨ]n[i/ɨ]			
+305	*sol	SUN	ʃeti	sɨ[t/ts][i/ɨ]	Shipibo	sɨ[t/ts/tʃ][i/ɨ]			
+306	*barrer	SWEEP	ʃabu	saβo	Shipibo	saβo			
+308	*nadar	SWIM	beʈʂa	βɨʂa	Shipibo	βɨʂa			
+309	*cola	TAIL	iwa	[i/ɨ]ɽa	Shipibo	[i/ɨ]ɽa			
+310	*tapir	TAPIR	awada	aɽara	Shipibo	[a/hi]ɽana			
+312	*tabaco	TOBACCO	umasa	omasa	Shipibo	omasa			
+317	*voz	VOICE	ʈʂuri	ʂon[i/ɨ]	Shipibo	ʂon[i/ɨ]			
+318	*esperar	WAIT (FOR)	iʃu+a	[i/ɨ]so+a	Shipibo	[i/ɨ]so-a			
+319	*querer	WANT	beiʃi	βɨ[i/ɨ]s[i/ɨ]	Shipibo	βɨ[i/ɨ]s[i/ɨ]			
+320	*lavar	WASH	ʃakʷa	sa[kʷ/w]a	Shipibo	sa[k/w]a			
+321	*1P	WE	ei	ɨ[i/ɨ]	Shipibo	ɨ[i/ɨ]			
+322	*qué?	WHAT	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]			
+323	*blanco	WHITE	pasa	pasa	Shipibo	pasa	raw?		
+324	*quién	WHO	aʔira	aʔ[i/ɨ]na	Shipibo	[a/hi]ʔ[i/ɨ]na			
+325	*quién	WHO	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]			
+327	*viento	WIND	kʷesi	[kʷ/w]ɨs[i/ɨ]	Shipibo	[k/w]ɨs[i/ɨ]			
+328	*with	WITH	n	n	Shipibo	n			
