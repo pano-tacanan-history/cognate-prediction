@@ -3,4 +3,7 @@ cldf-data/
 fuzzy_prediction/
 
 # Recordings
-recordings/
+*.wav
+*.aup3
+
+predictions/second_round/

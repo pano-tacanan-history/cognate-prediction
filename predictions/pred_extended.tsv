@@ -39,7 +39,10 @@ ID	Concept	Concepticon	ProtoTakana	ProtoPano_p	Doculect	Predicted	Form	Evaluatio
 243	*matar,cazar	None	tekʷa	[t/ts]ɨ[kʷ/w]a	Shipibo	[t/ts/tʃ]ɨ[k/w]a	tɨka	full match	hunt, attack (of animals)
 279	*viejo	OLD	beru	βɨno	Shipibo	βɨno	βɨno-ti	full match	woman in age ready for marriage
 286	*lluvia,aguacero	RAIN (PRECIPITATION)	nai	na[i/ɨ]	Shipibo	na[i/ɨ]	nai	full match	sky
-304	*piedra	STONE	tumu	[t/ts]omo	Shipibo	[t/ts/tʃ]omo	tʃomo	full match	clay jar
+304	*piedra	STONE	tumu	[t/ts]omo	Shipibo	[t/ts/tʃ]omo	tʃomo	semantic deviation	clay jar
+3	*flecha	ARROW	pisa	p[i/ɨ]sa	Shipibo	p[i/ɨ]sa	pia	full match	arrow
+53	*pesado	HEAVY	bikʷe	β[i/ɨ][kʷ/w]ɨ	Shipibo	β[i/ɨ][k/w]ɨ	iwɨ	full match	heavy
+65	*piojo	LOUSE	bia	β[i/ɨ]a	Shipibo	β[i/ɨ]a	ia	full match	drop friccative
 22	*gatear	CRAWL	ɽe	rɨ	Shipibo	nɨ	mɨʂo-ti	no match	crawl
 124	*tábano	None	dakanabu	rakanaβo	Shipibo	rakanaβo	naka	no match	termite
 73	*pescuezo,cuello	NECK	piti	p[i/ɨ][t/ts][i/ɨ]	Shipibo	p[i/ɨ][t/ts/tʃ][i/ɨ]	tɨ-ʂo	possible	neck-bone, source for prefix
@@ -48,10 +51,7 @@ ID	Concept	Concepticon	ProtoTakana	ProtoPano_p	Doculect	Predicted	Form	Evaluatio
 326	*viento	WIND	beni	βɨn[i/ɨ]	Shipibo	βɨn[i/ɨ]	niβɨ	possible	wind (metatesis)
 24	*cortar	CUT	saka	saka	Shipibo	saka	ʂatɨ	probably not	cut
 62	*lago	LAKE	bai	βa[i/ɨ]	Shipibo	βa[i/ɨ]	ian	probably not	lago (drop friccative)
-3	*flecha	ARROW	pisa	p[i/ɨ]sa	Shipibo	p[i/ɨ]sa	pia	slight deviation	arrow
 7	*bañar	BATHE	nawi	naɽ[i/ɨ]	Shipibo	naɽ[i/ɨ]	naʂi-ti	slight deviation	bathe
-53	*pesado	HEAVY	bikʷe	β[i/ɨ][kʷ/w]ɨ	Shipibo	β[i/ɨ][k/w]ɨ	iwɨ	slight deviation	heavy
-65	*piojo	LOUSE	bia	β[i/ɨ]a	Shipibo	β[i/ɨ]a	ia	slight deviation	drop friccative
 66	*maíz	MAIZE	ʃike	s[i/ɨ]kɨ	Shipibo	s[i/ɨ]kɨ	ʂɨki	slight deviation	
 76	*quedarse,*tener,*estar	None	ani	an[i/ɨ]	Shipibo	[a/hi]n[i/ɨ]	βanɨ-ti	slight deviation	
 126	*mono nocturno	None	di	r[i/ɨ]	Shipibo	r[i/ɨ]	ɽiɽu	slight deviation	night monkey
