@@ -6,4 +6,6 @@ fuzzy_prediction/
 *.wav
 *.aup3
 
+recordings/core/
+recordings/extended/
 predictions/second_round/
