@@ -42,7 +42,7 @@ def extract_shared(data, name):
     """
     # Original `predictions` gets overwritten by using the `insert` on the other variable.
     # Unclear why this is the case, but as a workaround, one can reload the predictions.
-    dataset = Wordlist('predictions/pred_full.tsv')
+    dataset = Wordlist('predictions/all_predictions.tsv')
     conceptlist = conceptlists[name]
     intersec, _ = compute_intersec(conceptlist, conceptlists['girard'])
     shared_forms = defaultdict()
@@ -54,7 +54,7 @@ def extract_shared(data, name):
 
     output_table = [[
         'ID', 'Concept', 'Concepticon', 'ProtoTakana', 'ProtoPano_p',
-        'Doculect', 'Predicted', 'Form', 'Evaluation'
+        'Doculect', 'Predicted'
         ]]
 
     for word in dataset:
@@ -64,13 +64,13 @@ def extract_shared(data, name):
             mod_data.insert(0, word)
             output_table.append(mod_data)
 
-    out = 'predictions/shared_' + name + '.tsv'
+    out = 'pilot_study/shared_' + name + '.tsv'
     write_list(out, output_table)
 
 
 # Load wordlist
-wl = Wordlist('data/girardprototakanan.tsv')
-prf = SoundGrouper.from_file('profiles/takana_to_pano.tsv', delimiter='\t')
+wl = Wordlist('cldf-data/girardprototakanan.tsv')
+prf = SoundGrouper.from_file('predictions/profiles/takana_to_pano.tsv', delimiter='\t')
 
 # Create Proto-Pano predictions
 i = 0
@@ -91,10 +91,9 @@ for idx, tokens in wl.iter_rows('tokens'):
 
 # Convert from Proto-Pano prediction to Shipibo
 wl = Wordlist(D)
-prf = SoundGrouper.from_file('profiles/pano_to_shipibo.tsv', delimiter='\t')
+prf = SoundGrouper.from_file('predictions/profiles/pano_to_shipibo.tsv', delimiter='\t')
 final = [[
-    'ID', 'Concept', 'Concepticon', 'ProtoTakana', 'ProtoPano_p',
-    'Doculect', 'Predicted', 'Form', 'Evaluation'
+    'ID', 'Concept', 'Concepticon', 'ProtoTakana', 'ProtoPano_p', 'Doculect', 'Predicted'
     ]]
 
 i = 0
@@ -111,12 +110,10 @@ for idx, tokens in wl.iter_rows('protopano'):
             wl[idx, 'prototakana'],
             wl[idx, 'protopano'],
             'Shipibo',
-            ''.join(PRED),
-            '',
-            ''
+            ''.join(PRED)
             ])
 
-write_list('predictions/pred_full.tsv', final)
+write_list('predictions/all_predictions.tsv', final)
 
 # Read in data
 PATH = 'cldf-data/concepticon/concepticondata/conceptlists/'
@@ -127,22 +124,23 @@ conceptlists = {
 }
 
 # Load data for intersections
-predictions = Wordlist('predictions/pred_full.tsv')
-oliveira = Wordlist('data/oliveiraprotopanoan.tsv')
-valenzuela = Wordlist('data/valenzuelazariquieypanotakana.tsv')
+predictions = Wordlist('predictions/all_predictions.tsv')
+oliveira = Wordlist('cldf-data/oliveiraprotopanoan.tsv')
+valenzuela = Wordlist('cldf-data/valenzuelazariquieypanotakana.tsv')
 
 
-extract_shared(valenzuela, 'valenzuela')
-extract_shared(oliveira, 'oliveira')
+# extract_shared(valenzuela, 'valenzuela')
+# extract_shared(oliveira, 'oliveira')
 
 # Create the sets of prediction
-no_intersec = [[
-    'ID', 'Concept', 'Concepticon', 'ProtoTakana', 'ProtoPano_p', 'Doculect',
-    'Predicted', 'Form', 'Evaluation'
+no_int = [[
+    'ID', 'Concept', 'Concepticon', 'ProtoTakana',
+    'ProtoPano_p', 'Doculect', 'Predicted'
     ]]
-additional = [[
-    'ID', 'Concept', 'Concepticon', 'ProtoTakana', 'ProtoPano_p', 'Doculect',
-    'Predicted', 'Form', 'Evaluation'
+
+ext = [[
+    'ID', 'Concept', 'Concepticon', 'ProtoTakana',
+    'ProtoPano_p', 'Doculect', 'Predicted'
     ]]
 
 
@@ -157,14 +155,14 @@ for item in predictions:
     if all(concept not in x for x in lists) and concept != 'None':
         COUNT += 1
         pred.insert(0, COUNT)
-        no_intersec.append(pred)
+        no_int.append(pred)
 
     else:
         COUNT_ADD += 1
         pred.insert(0, COUNT_ADD)
-        additional.append(pred)
+        ext.append(pred)
 
 
 print('In total, there are', COUNT, 'predictions to evaluate.')
-write_list('predictions/pred_core.tsv', no_intersec)
-write_list('predictions/pred_extended.tsv', additional)
+write_list('predictions/core_predictions.tsv', no_int)
+write_list('predictions/extended_predictions.tsv', ext)

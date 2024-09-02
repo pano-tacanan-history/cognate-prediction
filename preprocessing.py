@@ -71,17 +71,17 @@ def reduce_cogid(path, output):
 # Oliveira
 reduce_cogid(
     "cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json",
-    output="data/oliveiraprotopanoan"
+    output="cldf-data/oliveiraprotopanoan"
     )
 
 # Girard
 reduce_cogid(
     "cldf-data/girardprototakanan/cldf/cldf-metadata.json",
-    output="data/girardprototakanan"
+    output="cldf-data/girardprototakanan"
     )
 
 # Valenzuela & Zariquiey
 reduce_cogid(
     "cldf-data/valenzuelazariquieypanotakana/cldf/cldf-metadata.json",
-    output="data/valenzuelazariquieypanotakana"
+    output="cldf-data/valenzuelazariquieypanotakana"
     )

@@ -11,3 +11,7 @@ prediction:
 	python predict.py
 
 full-prediction: download preprocessing prediction
+
+check:
+	osf -p 87vjr fetch -f pred_core.tsv predictions/predictions_prereg.tsv
+	python check.py

@@ -1,0 +1,105 @@
+ID	Concept	Concepticon	ProtoTakana	ProtoPano_predicted	Doculect	Predicted	Form	Evaluation
+1	*encima	ABOVE	beake	ßɨakɨ	Shipibo	βɨakɨ	mana~	0
+2	*achiote	ACHIOTE	maʈʂe	maʂɨ	Shipibo	maʂɨ	maʂɨ	1
+8	*flecha	ARROW	pisa	p[i/ɨ]sa	Shipibo	p[i/ɨ]sa	pia	phon
+9	*ceniza	ASH	muru	mono	Shipibo	mono	koro	0
+16	*murciélago	BAT	bina	ß[i/ɨ]na	Shipibo	β[i/ɨ]na	kokiʃ	0
+17	*bañar	BATHE	nawi	naɽ[i/ɨ]	Shipibo	naɽ[i/ɨ]	naʃi	phon
+19	*barba	BEARD	kʷei	[kʷ/w]ɨ[i/ɨ]	Shipibo	[k/w]ɨ[i/ɨ]	kɨʂni	phon
+23	*morder	BITE	ʈʂu	ʂo	Shipibo	ʂo	natɨʂ	0
+25	*negro	BLACK	zewe	ʃɨɽɨ	Shipibo	ʃɨɽɨ	wiso	0
+26	*sangre	BLOOD	ami	am[i/ɨ]	Shipibo	[a/hi]m[i/ɨ]	himi	1
+30	*hueso	BONE	ʈʂau	ʂao	Shipibo	ʂao	ʂao	1
+40	*llamar	CALL	iwara	[i/ɨ]ɽana	Shipibo	[i/ɨ]ɽana	kɨna	0
+41	*canoa	CANOE	kʷaba	[kʷ/w]aßa	Shipibo	[k/w]aβa	no~ti	0
+42	*capibara	CAPYBARA	zududu	ʃororo	Shipibo	ʃonono	ʔamɨ~	0
+45	*yuca	CASSAVA	kʷawe	[kʷ/w]aɽɨ	Shipibo	[k/w]aɽɨ	ʔatsa	0
+57	*frío	COLD	wina	ɽ[i/ɨ]na	Shipibo	ɽ[i/ɨ]na	matsi	0
+61	*algodón	COTTON	wapa	ɽapa	Shipibo	ɽapa	waʂmɨ	0
+63	*gatear	CRAWL	ɽe	rɨ	Shipibo	nɨ	mɨʂo	0
+65	*paujil	CURASSOW	mapi	map[i/ɨ]	Shipibo	map[i/ɨ]	hasi~	0
+66	*cortar	CUT	saka	saka	Shipibo	saka	ʂatɨ	0
+69	*morir	DIE	manu	mano	Shipibo	mano	mawa	0
+80	*pato	DUCK	suse	sosɨ	Shipibo	sosɨ	nono~	0
+84	*huevo	EGG	ka	ka	Shipibo	ka	βatʃi	0
+87	*apagar	EXTINGUISH	tiku	[t/ts][i/ɨ]ko	Shipibo	[t/ts/tʃ][i/ɨ]ko	noka	0
+88	*ojo	EYE	tuka	[t/ts]oka	Shipibo	[t/ts/tʃ]oka	βɨɾo	0
+89	*cara	FACE	bu	ßo	Shipibo	βo	βɨ	0
+90	*excremento	FAECES (EXCREMENT)	dumi	rom[i/ɨ]	Shipibo	nom[i/ɨ]	poi	0
+91	*caer	FALL	daka	raka	Shipibo	naka	rɨr	0
+92	*grasa,gordura	FAT (ORGANIC SUBSTANCE)	ʈʂeri	ʂɨn[i/ɨ]	Shipibo	ʂɨn[i/ɨ]	ʂɨni	1
+93	*papá	FATHER	tata	[t/ts]a[t/ts]a	Shipibo	[t/ts/tʃ]a[t/ts/tʃ]a	papa	0
+99	*terminar,*acabar	FINISH	ape	apɨ	Shipibo	[a/hi]pɨ	kɨjo	0
+100	*fuego	FIRE	tiki	[t/ts][i/ɨ]k[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]k[i/ɨ]	tʃii	1
+101	*fuego	FIRE	ti	[t/ts][i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]	tʃii	phon
+102	*leña	FIREWOOD	kʷati	[kʷ/w]a[t/ts][i/ɨ]	Shipibo	[k/w]a[t/ts/tʃ][i/ɨ]	karo	0
+104	*pez,pescado	FISH	sae	saɨ	Shipibo	saɨ	japa	0
+111	*espuma	FOAM	uba	oßa	Shipibo	oβa	βakoʂ	0
+115	*pié	FOOT	waʈʂi	ɽaʂ[i/ɨ]	Shipibo	ɽaʂ[i/ɨ]	taɨ	0
+120	*fruta	FRUIT	kaka	kaka	Shipibo	kaka	βimi	0
+123	*dar	GIVE	tia	[t/ts][i/ɨ]a	Shipibo	[t/ts/tʃ][i/ɨ]a	ʔina~	0
+133	*crecer	GROW	muɽu	moro	Shipibo	mono	josi	0
+141	*pesado	HEAVY	bikʷe	ß[i/ɨ][kʷ/w]ɨ	Shipibo	β[i/ɨ][k/w]ɨ	ʔisɨ	0
+146	*pegar	HIT	ije	[i/ɨ]sɨ	Shipibo	[i/ɨ]sɨ	tima	0
+148	*cuerno	HORN (ANATOMY)	dana	rana	Shipibo	nana	ma~tʃa~	0
+149	*caliente	HOT	kʷase	[kʷ/w]asɨ	Shipibo	[k/w]asɨ	ʂana	0
+150	*casa	HOUSE	tare	[t/ts]anɨ	Shipibo	[t/ts/tʃ]anɨ	ʂoβo	0
+151	*picaflor	HUMMINGBIRD	kʷadidi	[kʷ/w]ar[i/ɨ]r[i/ɨ]	Shipibo	[k/w]an[i/ɨ]n[i/ɨ]	pino	0
+157	*mandíbula	JAW	ʃawi	saɽ[i/ɨ]	Shipibo	saɽ[i/ɨ]	koi	0
+161	*lago	LAKE	bai	ßa[i/ɨ]	Shipibo	βa[i/ɨ]	ʔia~	0
+164	*acostar,echarse	LIE DOWN	sa	sa	Shipibo	sa	raka	0
+166	*hígado	LIVER	takʷa	[t/ts]a[kʷ/w]a	Shipibo	[t/ts/tʃ]a[k/w]a	taka	1
+170	*piojo	LOUSE	bia	ß[i/ɨ]a	Shipibo	β[i/ɨ]a	ʔia	0
+171	*maíz	MAIZE	ʃike	s[i/ɨ]kɨ	Shipibo	s[i/ɨ]kɨ	ʂɨki	1
+173	*remedio	MEDICINE	idu	[i/ɨ]ro	Shipibo	[i/ɨ]no	rao	0
+176	*luna	MOON	badi	ßar[i/ɨ]	Shipibo	βan[i/ɨ]	ʔoʂɨ	0
+177	*mosquito	MOSQUITO	diʔi	r[i/ɨ]ʔ[i/ɨ]	Shipibo	n[i/ɨ]ʔ[i/ɨ]	βi	0
+184	*nombre	NAME	bakani	ßakan[i/ɨ]	Shipibo	βakan[i/ɨ]	hanɨ	0
+186	*cuello,pescuezo	NECK	naka	naka	Shipibo	naka	tɨʂo	0
+187	*pescuezo,cuello	NECK	piti	p[i/ɨ][t/ts][i/ɨ]	Shipibo	p[i/ɨ][t/ts/tʃ][i/ɨ]	tɨʂo	0
+189	*sobrino/a	NEPHEW	bu	ßo	Shipibo	βo	pia	0
+190	*sobrino,sobrina	NEPHEW	ukʷa	o[kʷ/w]a	Shipibo	o[k/w]a	pia	0
+400	*uno	ONE	peia	pɨ[i/ɨ]a	Shipibo	pɨ[i/ɨ]a	wɨsti	0
+402	*nutria	OTTER	kʷeʈʂara	[kʷ/w]ɨʂana	Shipibo	[k/w]ɨʂana	nɨino	0
+405	*loro	PARROT	kuɽakʷa	kora[kʷ/w]a	Shipibo	kona[k/w]a	βawa	0
+406	*loro (chico)	PARROT	tui	[t/ts]o[i/ɨ]	Shipibo	[t/ts/tʃ]o[i/ɨ]	βawa	0
+408	*camino	PATH	diʃi	r[i/ɨ]s[i/ɨ]	Shipibo	n[i/ɨ]s[i/ɨ]	βai	0
+423	*lluvia,aguacero	RAIN (PRECIPITATION)	nai	na[i/ɨ]	Shipibo	na[i/ɨ]	ʔoi	0
+427	*pariente	RELATIVES	du	ro	Shipibo	no	kaibo	0
+431	*río	RIVER	kʷeri	[kʷ/w]ɨn[i/ɨ]	Shipibo	[k/w]ɨn[i/ɨ]	paro	0
+432	*asar	ROAST (SOMETHING)	kʷawi	[kʷ/w]aɽ[i/ɨ]	Shipibo	[k/w]aɽ[i/ɨ]	ʂoi	0
+433	*techo	ROOF	kama	kama	Shipibo	kama	ʂɨwa	0
+434	*raíz	ROOT	tiri	[t/ts][i/ɨ]n[i/ɨ]	Shipibo	[t/ts/tʃ][i/ɨ]n[i/ɨ]	tapo~	0
+437	*sal	SALT	banu	ßano	Shipibo	βano	taʃi	0
+442	*mirar,ver	SEE	ba	ßa	Shipibo	βa	his	0
+443	*agarrar	SEIZE	ina	[i/ɨ]na	Shipibo	[i/ɨ]na	tsoma	0
+457	*cielo	SKY	ba	ßa	Shipibo	βa	nai	0
+458	*cielo	SKY	bare	ßanɨ	Shipibo	βanɨ	nai	0
+459	*dormir	SLEEP	tawi	[t/ts]aɽ[i/ɨ]	Shipibo	[t/ts/tʃ]aɽ[i/ɨ]	ʔoʂa	0
+460	*chico	SMALL	wai	ɽa[i/ɨ]	Shipibo	ɽa[i/ɨ]	ʂko	0
+463	*víbora	SNAKE	bakʷa	ßa[kʷ/w]a	Shipibo	βa[k/w]a	rono	0
+469	*ardilla	SQUIRREL	dawapa	raɽapa	Shipibo	naɽapa	kapa	0
+470	*robar	STEAL	ʈʂiri	ʂ[i/ɨ]n[i/ɨ]	Shipibo	ʂ[i/ɨ]n[i/ɨ]	jomɨtso	0
+472	*piedra	STONE	tumu	[t/ts]omo	Shipibo	[t/ts/tʃ]omo	ʂaʂo	0
+474	*sol	SUN	ʃeti	sɨ[t/ts][i/ɨ]	Shipibo	sɨ[t/ts/tʃ][i/ɨ]	βaɾi	0
+475	*barrer	SWEEP	ʃabu	saßo	Shipibo	saβo	was	0
+476	*dulce	SWEET	bita	ß[i/ɨ][t/ts]a	Shipibo	β[i/ɨ][t/ts/tʃ]a	βata	phon
+479	*nadar	SWIM	beʈʂa	ßɨʂa	Shipibo	βɨʂa	nono	0
+480	*cola	TAIL	iwa	[i/ɨ]ɽa	Shipibo	[i/ɨ]ɽa	hina	0
+489	*amarrar,atar	TIE	ɽisi	r[i/ɨ]s[i/ɨ]	Shipibo	n[i/ɨ]s[i/ɨ]	nɨʂa	phon
+490	*tabaco	TOBACCO	umasa	omasa	Shipibo	omasa	romɨ	0
+491	*lengua	TONGUE	ana	ana	Shipibo	[a/hi]na	hana	phon
+498	*dos	TWO	beta	ßɨ[t/ts]a	Shipibo	βɨ[t/ts/tʃ]a	raβɨ	phon
+503	*voz	VOICE	ʈʂuri	ʂon[i/ɨ]	Shipibo	ʂon[i/ɨ]	hoi	0
+505	*esperar	WAIT (FOR)	iʃu+a	[i/ɨ]so+a	Shipibo	[i/ɨ]so-a	mana	0
+506	*querer	WANT	beiʃi	ßɨ[i/ɨ]s[i/ɨ]	Shipibo	βɨ[i/ɨ]s[i/ɨ]	kas	0
+507	*lavar	WASH	ʃakʷa	sa[kʷ/w]a	Shipibo	sa[k/w]a	patsa	0
+511	*1P	WE	ei	ɨ[i/ɨ]	Shipibo	ɨ[i/ɨ]	no	0
+517	*qué?	WHAT	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]	hawɨ	phon
+519	*blanco	WHITE	pasa	pasa	Shipibo	pasa	hoʂo	0
+520	*quién	WHO	aʔira	aʔ[i/ɨ]na	Shipibo	[a/hi]ʔ[i/ɨ]na	tso	0
+521	*quién	WHO	aʔi	aʔ[i/ɨ]	Shipibo	[a/hi]ʔ[i/ɨ]	tso	0
+522	*viento	WIND	beni	ßɨn[i/ɨ]	Shipibo	βɨn[i/ɨ]	niwɨ	phon
+523	*viento	WIND	kʷesi	[kʷ/w]ɨs[i/ɨ]	Shipibo	[k/w]ɨs[i/ɨ]	niwɨ	0
+525	*with	WITH	n	n	Shipibo	n	ja	0
+533	*2da persona	YOU	mi	m[i/ɨ]	Shipibo	m[i/ɨ]	mato	0
