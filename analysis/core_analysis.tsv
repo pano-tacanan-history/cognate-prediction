@@ -108,19 +108,19 @@ ID	Concept	ProtoTakana	Predicted	Form	AlternativeForm	MeaningPredicted	Evaluatio
 181	*caerse	u	o	pakɨ-ti	ho-ti	come	doubtful		Wilian Ochavano
 192	*tejer	ʈʂipi	ʂ[i/ɨ]p[i/ɨ]	ʂɨwa-ti			doubtful		Wilian Ochavano
 196	*silbar	ui	o[i/ɨ]	ʂoini-ti			doubtful		Wilian Ochavano
-28	*llevar	dus	ros	βo-ti			error		Eli Sánchez
-43	*venado	dukʷeri	ro[k/w]ɨr[i/ɨ]	tʃaʂo			error		Eli Sánchez
-52	*ahogar	widi	ɽ[i/ɨ]r[i/ɨ]	rɨtɨ-ti			error		Eli Sánchez
-86	*colgar	bade	βarɨ	panin-ti			error		Eli Sánchez
-95	*adentro,en	duku	roko	tʃitʃó			error		Wilian Ochavano
+28	*llevar	dus	nos	βo-ti			error		Eli Sánchez
+43	*venado	dukʷeri	no[k/w]ɨn[i/ɨ]	tʃaʂo			error		Eli Sánchez
+52	*ahogar	widi	ɽ[i/ɨ]n[i/ɨ]	rɨtɨ-ti			error		Eli Sánchez
+86	*colgar	bade	βanɨ	panin-ti			error		Eli Sánchez
+95	*adentro,en	duku	noko	tʃitʃó			error		Wilian Ochavano
 106	*hombre	deka	nɨka	βɨmβo			error		Wilian Ochavano
-141	*resina	madi	mar[i/ɨ]	ʃawi			error		Wilian Ochavano
-148	*raspar	dede	rɨrɨ	wɨʂa-ti			error		Wilian Ochavano
-168	*palo	da	ra	hiwi			error		Wilian Ochavano
-172	*tatú	ʈʂudi	ʂor[i/ɨ]	kɨnɨ́			error		Wilian Ochavano
-182	*pavo	tedu	[t/ts/tʃ]ɨro				error		Wilian Ochavano
-186	*pueblo	kude	korɨ	hɨma			error		Wilian Ochavano
-203	*envolver	dunu	rono	káwa-ti			error		Wilian Ochavano
+141	*resina	madi	man[i/ɨ]	ʃawi			error		Wilian Ochavano
+148	*raspar	dede	nɨnɨ	wɨʂa-ti			error		Wilian Ochavano
+168	*palo	da	na	hiwi			error		Wilian Ochavano
+172	*tatú	ʈʂudi	ʂon[i/ɨ]	kɨnɨ́			error		Wilian Ochavano
+182	*pavo	tedu	[t/ts/tʃ]ɨno				error		Wilian Ochavano
+186	*pueblo	kude	konɨ	hɨma			error		Wilian Ochavano
+203	*envolver	dunu	nono	káwa-ti			error		Wilian Ochavano
 60	*uña	tiʃi	[t/ts/tʃ][i/ɨ]s[i/ɨ]	mɨn-tsis			exclude	is part of ValZar (fingernail)	Eli Sánchez
 66	*carne,cuerpo	rami	nam[i/ɨ]	nami		flesh	exclude		Eli Sánchez
 8	*autoridad	waɽa	ɽana	ɽana-ti		command	full match		Eli Sánchez
@@ -135,7 +135,7 @@ ID	Concept	ProtoTakana	Predicted	Form	AlternativeForm	MeaningPredicted	Evaluatio
 108	*muela	amaka	[a/hi]maka	maka tʃipo	maka tʃipo		full match	tʃipo means ‘behind’, maka has no meaning whena lone	Jeiser Suarez
 117	*nariz	wi	ɽ[i/ɨ]	ɽɨ-kin			full match		Wilian Ochavano
 131	*puerco espín	iʃa	[i/ɨ]sa	isá			full match		Wilian Ochavano
-132	*tirar,jalar	ɽiɽe	n[i/ɨ]rɨ	nini-ti			full match		Wilian Ochavano
+132	*tirar,jalar	ɽiɽe	n[i/ɨ]nɨ	nini-ti			full match		Wilian Ochavano
 163	*sembrar	bana	βana	βana-ti			full match		Wilian Ochavano
 179	*tucán	ʈʂukʷe	ʂo[k/w]ɨ	ʂokɨ			full match		Wilian Ochavano
 180	*tucán	piʈʂa	p[i/ɨ]ʂa	pisa		toucan	full match		Wilian Ochavano

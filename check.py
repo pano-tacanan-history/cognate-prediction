@@ -21,12 +21,13 @@ def read_cl(path):
 
 
 original = read_cl('predictions/predictions_prereg.tsv')
-new = read_cl('predictions/core_predictions.tsv')
+# new = read_cl('predictions/core_predictions.tsv')
+new = read_cl('analysis/core_analysis.tsv')
 
 changes = []
 for item in original:
     if original[item] != new[item]:
-        changes.append(original[item])
+        changes.append(item)
 
 if len(changes) == 0:
     print('All good, the predictions are the same as in the pre-registered version.')
